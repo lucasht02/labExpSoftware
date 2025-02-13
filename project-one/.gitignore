@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Byte-compiled / arquivos de cache do Python
+*.py[cod]
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração de ambiente
+*.env
+
+# Configurações de IDEs e editores (opcional, adicione se usar)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build e distribuições
+build/
+dist/
+*.egg-info/
+
+# Outros arquivos temporários
+*.tmp
