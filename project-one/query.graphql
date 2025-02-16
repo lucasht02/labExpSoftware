@@ -11,7 +11,7 @@ query ($queryString: String!, $pageSize: Int!, $cursor: String) {
           description
           url
           createdAt
-          updatedAt
+          pushedAt
           primaryLanguage {
             name
           }

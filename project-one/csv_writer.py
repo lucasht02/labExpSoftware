@@ -24,7 +24,7 @@ def save_to_csv(repositories, filename="repositorios.csv"):
                 repo["description"] if repo["description"] else "Sem descrição",
                 repo["url"],
                 repo["createdAt"][:10],
-                repo["updatedAt"][:10],
+                repo["pushedAt"][:10],
                 repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "N/A",
                 repo["pullRequests"]["totalCount"],
                 repo["releases"]["totalCount"],
