@@ -1,5 +1,5 @@
 import csv
-from datetime import datetime
+from date_utils import calculate_days_since_update
 
 def save_to_csv(repositories, filename="repositorios.csv"):
     headers = [
@@ -8,7 +8,7 @@ def save_to_csv(repositories, filename="repositorios.csv"):
         "URL",
         "Criado em",
         "Última Atualização",
-        "Tempo até Última Atualização (dias)",
+        "Tempo desde última atualização (dias)",
         "Linguagem Principal",
         "Total PRs Mesclados",
         "Total de Releases",
@@ -21,19 +21,15 @@ def save_to_csv(repositories, filename="repositorios.csv"):
         writer.writerow(headers)
 
         for repo in repositories:
-            ultima_atualizacao_iso = repo["pushedAt"]
-            data_ultima_atualizacao = datetime.strptime(ultima_atualizacao_iso, "%d-%m-%Y").date()
-            data_atual = datetime.utcnow().date()
-            tempo_ate_atualizacao = (data_atual - data_ultima_atualizacao).days
-
-            criado_em = repo["createdAt"]
+            ultima_atualizacao = repo["pushedAt"]
+            tempo_ate_atualizacao = calculate_days_since_update(ultima_atualizacao)
 
             writer.writerow([
                 repo["name"],
                 repo["description"] if repo["description"] else "Sem descrição",
                 repo["url"],
-                criado_em,
-                ultima_atualizacao_iso,
+                repo["createdAt"],
+                ultima_atualizacao,
                 tempo_ate_atualizacao,
                 repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "N/A",
                 repo["pullRequests"]["totalCount"],

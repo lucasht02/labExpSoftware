@@ -1,4 +1,5 @@
-from github_api import fetch_repositories, save_json
+from github_api import fetch_repositories
+from json_writer import save_json
 from csv_writer import save_to_csv
 
 def main():

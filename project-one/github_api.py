@@ -1,7 +1,5 @@
 import requests
 import time
-import json
-from datetime import datetime
 from config import URL, HEADERS, PAGE_SIZE, MAX_REPOSITORIES
 
 def load_query(filename="query.graphql"):
@@ -31,21 +29,7 @@ def fetch_repositories():
 
             search_data = result['data']['search']
             for edge in search_data['edges']:
-                repo = edge['node']
-
-                created_at = datetime.strptime(repo["createdAt"][:10], "%Y-%m-%d").strftime("%d-%m-%Y")
-                pushed_at = datetime.strptime(repo["pushedAt"][:10], "%Y-%m-%d").strftime("%d-%m-%Y")
-
-                data_atual = datetime.utcnow().date()
-                data_ultima_atualizacao = datetime.strptime(repo["pushedAt"][:10], "%Y-%m-%d").date()
-                tempo_ate_atualizacao = (data_atual - data_ultima_atualizacao).days
-
-                repo["createdAt"] = created_at
-                repo["pushedAt"] = pushed_at
-                repo["tempoAteUltimaAtualizacao"] = tempo_ate_atualizacao
-
-                repositories.append(repo)
-
+                repositories.append(edge['node'])
                 if len(repositories) >= MAX_REPOSITORIES:
                     break
 
@@ -59,9 +43,3 @@ def fetch_repositories():
             break
 
     return repositories
-
-def save_json(data, filename="repositorios.json"):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-    print(f"JSON gerado com sucesso: {filename}")
