@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime
 
 def save_to_csv(repositories, filename="repositorios.csv"):
     headers = [
@@ -7,6 +8,7 @@ def save_to_csv(repositories, filename="repositorios.csv"):
         "URL",
         "Criado em",
         "Última Atualização",
+        "Tempo até Última Atualização (dias)",
         "Linguagem Principal",
         "Total PRs Mesclados",
         "Total de Releases",
@@ -19,12 +21,20 @@ def save_to_csv(repositories, filename="repositorios.csv"):
         writer.writerow(headers)
 
         for repo in repositories:
+            ultima_atualizacao_iso = repo["pushedAt"]
+            data_ultima_atualizacao = datetime.strptime(ultima_atualizacao_iso, "%d-%m-%Y").date()
+            data_atual = datetime.utcnow().date()
+            tempo_ate_atualizacao = (data_atual - data_ultima_atualizacao).days
+
+            criado_em = repo["createdAt"]
+
             writer.writerow([
                 repo["name"],
                 repo["description"] if repo["description"] else "Sem descrição",
                 repo["url"],
-                repo["createdAt"][:10],
-                repo["pushedAt"][:10],
+                criado_em,
+                ultima_atualizacao_iso,
+                tempo_ate_atualizacao,
                 repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "N/A",
                 repo["pullRequests"]["totalCount"],
                 repo["releases"]["totalCount"],
