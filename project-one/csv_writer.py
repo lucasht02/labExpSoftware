@@ -1,7 +1,8 @@
 import csv
-from date_utils import calculate_days_since_update, calculate_repository_age
+from utils.date_utils import calculate_days_since_update, calculate_repository_age
+from utils.constants import CSV_FILENAME
 
-def save_to_csv(repositories, filename="repositorios.csv"):
+def save_to_csv(repositories, filename=CSV_FILENAME):
     headers = [
         "Nome do Repositório",
         "Descrição",

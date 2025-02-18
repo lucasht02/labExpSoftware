@@ -1,5 +1,6 @@
 import json
-from date_utils import format_date_iso_to_dmy, calculate_days_since_update, calculate_repository_age
+from utils.date_utils import format_date_iso_to_dmy, calculate_days_since_update, calculate_repository_age
+from utils.constants import JSON_FILENAME
 
 def process_repositories(repositories):
     """Formata as datas e adiciona métricas antes de salvar no JSON."""
@@ -10,7 +11,7 @@ def process_repositories(repositories):
         repo["repositoryAge"] = calculate_repository_age(repo["createdAt"])
     return repositories
 
-def save_json(repositories, filename="repositorios.json"):
+def save_json(repositories, filename=JSON_FILENAME):
     """Salva os repositórios formatados em JSON."""
     repositories = process_repositories(repositories)
     with open(filename, "w", encoding="utf-8") as f:
