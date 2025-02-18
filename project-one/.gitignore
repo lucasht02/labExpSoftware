@@ -15,7 +15,7 @@ __pycache__/
 
 # Configurações de IDEs e editores (opcional, adicione se usar)
 .vscode/
-.idea/
+*.idea
 *.sublime-project
 *.sublime-workspace
 

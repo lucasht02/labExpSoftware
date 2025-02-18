@@ -64,8 +64,9 @@ O propósito deste projeto é realizar consultas GraphQL para obter dados e mét
 ## 🏗 Estrutura do Projeto
 
 - `main.py`: Script principal que executa o processo de busca e salvamento.
-- `github_api.py`: Realiza as consultas GraphQL e salva o resultado em JSON.
+- `github_api.py`: Realiza as consultas GraphQL e faz chamadas a API do GitHub.
 - `csv_writer.py`: Gera o arquivo CSV com as informações dos repositórios.
+- `json_writer.py`: Gera o JSON com as informações dos repositórios.
 - `config.py`: Configurações de URL e autenticação.
 - `query.graphql`: Arquivo com a query GraphQL utilizada para as consultas.
 - `requirements.txt`: Lista de dependências do projeto.
