@@ -1,9 +1,14 @@
+import os
+
 import requests
 import time
 from config import URL, HEADERS, PAGE_SIZE, MAX_REPOSITORIES
 
 def load_query(filename="query.graphql"):
-    with open(filename, "r", encoding="utf-8") as f:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(script_dir, filename)
+
+    with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
 
 def fetch_repositories():

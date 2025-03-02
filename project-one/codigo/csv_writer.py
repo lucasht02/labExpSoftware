@@ -1,8 +1,14 @@
 import csv
+import os
+
 from utils.date_utils import calculate_days_since_update, calculate_repository_age
 from utils.constants import CSV_FILENAME
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+documentacao_dir = os.path.join(script_dir, "..", "documentacao")
+
 def save_to_csv(repositories, filename=CSV_FILENAME):
+    file_path = os.path.join(documentacao_dir, filename)
     headers = [
         "Nome do Repositório",
         "Descrição",
@@ -18,7 +24,7 @@ def save_to_csv(repositories, filename=CSV_FILENAME):
         "Total de Issues Fechadas"
     ]
 
-    with open(filename, "w", newline="", encoding="utf-8") as f:
+    with open(file_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(headers)
 
@@ -42,4 +48,4 @@ def save_to_csv(repositories, filename=CSV_FILENAME):
                 repo["closedIssues"]["totalCount"]
             ])
 
-    print(f"Planilha gerada com sucesso: {filename}")
+    print(f"Planilha gerada com sucesso: {file_path}")

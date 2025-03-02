@@ -1,9 +1,13 @@
+import os
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
 def generate_graphs():
-    df = pd.read_csv("repositorios.csv")
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_path = os.path.join(script_dir, "..", "documentacao", "repositorios.csv")
+    df = pd.read_csv(csv_path)
 
     # RQ 1: Idade dos Repositórios
     plt.figure(figsize=(10, 6))

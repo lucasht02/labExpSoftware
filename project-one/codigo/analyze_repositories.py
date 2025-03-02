@@ -1,6 +1,10 @@
+import os
+
 import pandas as pd
 from tabulate import tabulate
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+documentacao_dir = os.path.join(script_dir, "..", "documentacao")
 
 def rename_statistics(df):
     """Renomeia os rótulos das estatísticas para melhor interpretação e formata os números."""
@@ -40,7 +44,10 @@ def generate_explanations(statistics, rq_description):
 
 def analyze_repositories(csv_file="repositorios.csv", output_file="estatisticas.md"):
     """Analisa as estatísticas dos repositórios e gera um relatório com explicações automáticas."""
-    df = pd.read_csv(csv_file)
+    csv_path = os.path.join(documentacao_dir, csv_file)
+    output_path = os.path.join(documentacao_dir, output_file)
+
+    df = pd.read_csv(csv_path)
 
     # Criar a métrica "Razão Issues Fechadas (%)"
     df["Razão Issues Fechadas (%)"] = (df["Total de Issues Fechadas"] / df["Total de Issues"]) * 100
@@ -55,7 +62,7 @@ def analyze_repositories(csv_file="repositorios.csv", output_file="estatisticas.
     }
 
     # Criar relatório Markdown
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write("# Relatório de Estatísticas dos Repositórios\n\n")
 
         for rq, (coluna, descricao) in rq_data.items():
