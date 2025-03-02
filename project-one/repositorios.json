@@ -413,7 +413,7 @@
       "totalCount": 213
     },
     "issues": {
-      "totalCount": 40253
+      "totalCount": 40255
     },
     "closedIssues": {
       "totalCount": 39461
@@ -484,7 +484,7 @@
       "totalCount": 4894
     },
     "closedIssues": {
-      "totalCount": 4760
+      "totalCount": 4761
     },
     "daysSinceUpdate": 5,
     "repositoryAge": 5659
@@ -575,7 +575,7 @@
       "totalCount": 7
     },
     "issues": {
-      "totalCount": 103574
+      "totalCount": 103575
     },
     "closedIssues": {
       "totalCount": 90576
@@ -599,7 +599,7 @@
       "totalCount": 156
     },
     "issues": {
-      "totalCount": 190785
+      "totalCount": 190789
     },
     "closedIssues": {
       "totalCount": 182092
@@ -785,7 +785,7 @@
       "totalCount": 180
     },
     "issues": {
-      "totalCount": 16710
+      "totalCount": 16712
     },
     "closedIssues": {
       "totalCount": 15716
@@ -875,13 +875,13 @@
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 2007
+      "totalCount": 2008
     },
     "releases": {
       "totalCount": 115
     },
     "issues": {
-      "totalCount": 6080
+      "totalCount": 6082
     },
     "closedIssues": {
       "totalCount": 4702
@@ -905,10 +905,10 @@
       "totalCount": 1
     },
     "issues": {
-      "totalCount": 881
+      "totalCount": 882
     },
     "closedIssues": {
-      "totalCount": 877
+      "totalCount": 878
     },
     "daysSinceUpdate": 24,
     "repositoryAge": 1832
@@ -929,7 +929,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 65582
+      "totalCount": 65583
     },
     "closedIssues": {
       "totalCount": 56422
@@ -1100,7 +1100,7 @@
       "totalCount": 20548
     },
     "closedIssues": {
-      "totalCount": 19693
+      "totalCount": 19694
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 4336
@@ -1134,12 +1134,12 @@
     "description": "Production-Grade Container Scheduling and Management",
     "url": "https://github.com/kubernetes/kubernetes",
     "createdAt": "06-06-2014",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 60735
+      "totalCount": 60736
     },
     "releases": {
       "totalCount": 722
@@ -1150,7 +1150,7 @@
     "closedIssues": {
       "totalCount": 44798
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3916
   },
   {
@@ -1287,7 +1287,7 @@
       "totalCount": 165
     },
     "issues": {
-      "totalCount": 12848
+      "totalCount": 12849
     },
     "closedIssues": {
       "totalCount": 12427
@@ -1348,7 +1348,7 @@
     "description": "A modern runtime for JavaScript and TypeScript.",
     "url": "https://github.com/denoland/deno",
     "createdAt": "15-05-2018",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Rust"
     },
@@ -1364,7 +1364,7 @@
     "closedIssues": {
       "totalCount": 10146
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2477
   },
   {
@@ -1396,12 +1396,12 @@
     "description": "Empowering everyone to build reliable and efficient software.",
     "url": "https://github.com/rust-lang/rust",
     "createdAt": "16-06-2010",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Rust"
     },
     "pullRequests": {
-      "totalCount": 61366
+      "totalCount": 61375
     },
     "releases": {
       "totalCount": 135
@@ -1410,9 +1410,9 @@
       "totalCount": 56690
     },
     "closedIssues": {
-      "totalCount": 46696
+      "totalCount": 46697
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 5367
   },
   {
@@ -1431,7 +1431,7 @@
       "totalCount": 104
     },
     "issues": {
-      "totalCount": 8726
+      "totalCount": 8727
     },
     "closedIssues": {
       "totalCount": 7222
@@ -1599,10 +1599,10 @@
       "totalCount": 690
     },
     "issues": {
-      "totalCount": 30920
+      "totalCount": 30923
     },
     "closedIssues": {
-      "totalCount": 29710
+      "totalCount": 29711
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 3594
@@ -1767,7 +1767,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 9973
+      "totalCount": 9977
     },
     "closedIssues": {
       "totalCount": 9955
@@ -1828,7 +1828,7 @@
     "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
     "url": "https://github.com/tauri-apps/tauri",
     "createdAt": "13-07-2019",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Rust"
     },
@@ -1844,7 +1844,7 @@
     "closedIssues": {
       "totalCount": 4260
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2053
   },
   {
@@ -1909,7 +1909,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 412
+      "totalCount": 413
     },
     "closedIssues": {
       "totalCount": 305
@@ -1933,10 +1933,10 @@
       "totalCount": 58
     },
     "issues": {
-      "totalCount": 49027
+      "totalCount": 49037
     },
     "closedIssues": {
-      "totalCount": 34476
+      "totalCount": 34485
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 3117
@@ -1957,7 +1957,7 @@
       "totalCount": 41
     },
     "issues": {
-      "totalCount": 12342
+      "totalCount": 12343
     },
     "closedIssues": {
       "totalCount": 10789
@@ -2027,7 +2027,7 @@
       "totalCount": 268
     },
     "issues": {
-      "totalCount": 3987
+      "totalCount": 3988
     },
     "closedIssues": {
       "totalCount": 3901
@@ -2346,6 +2346,28 @@
     "repositoryAge": 4603
   },
   {
+    "name": "DeepSeek-R1",
+    "description": null,
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "createdAt": "20-01-2025",
+    "pushedAt": "18-02-2025",
+    "primaryLanguage": null,
+    "pullRequests": {
+      "totalCount": 7
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 408
+    },
+    "closedIssues": {
+      "totalCount": 157
+    },
+    "daysSinceUpdate": 6,
+    "repositoryAge": 35
+  },
+  {
     "name": "gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "url": "https://github.com/gin-gonic/gin",
@@ -2368,28 +2390,6 @@
     },
     "daysSinceUpdate": 7,
     "repositoryAge": 3906
-  },
-  {
-    "name": "DeepSeek-R1",
-    "description": null,
-    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-    "createdAt": "20-01-2025",
-    "pushedAt": "18-02-2025",
-    "primaryLanguage": null,
-    "pullRequests": {
-      "totalCount": 7
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 408
-    },
-    "closedIssues": {
-      "totalCount": 157
-    },
-    "daysSinceUpdate": 6,
-    "repositoryAge": 35
   },
   {
     "name": "awesome-mac",
@@ -2516,7 +2516,7 @@
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "url": "https://github.com/open-webui/open-webui",
     "createdAt": "06-10-2023",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "JavaScript"
     },
@@ -2527,12 +2527,12 @@
       "totalCount": 92
     },
     "issues": {
-      "totalCount": 4083
+      "totalCount": 4084
     },
     "closedIssues": {
-      "totalCount": 3931
+      "totalCount": 3933
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 507
   },
   {
@@ -2545,7 +2545,7 @@
       "name": "TypeScript"
     },
     "pullRequests": {
-      "totalCount": 11173
+      "totalCount": 11174
     },
     "releases": {
       "totalCount": 19
@@ -2647,7 +2647,7 @@
       "totalCount": 1000
     },
     "issues": {
-      "totalCount": 57434
+      "totalCount": 57435
     },
     "closedIssues": {
       "totalCount": 54540
@@ -2671,7 +2671,7 @@
       "totalCount": 179
     },
     "issues": {
-      "totalCount": 10728
+      "totalCount": 10729
     },
     "closedIssues": {
       "totalCount": 6704
@@ -2767,7 +2767,7 @@
       "totalCount": 234
     },
     "issues": {
-      "totalCount": 5371
+      "totalCount": 5374
     },
     "closedIssues": {
       "totalCount": 5358
@@ -3034,6 +3034,30 @@
     "repositoryAge": 1691
   },
   {
+    "name": "dify",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "url": "https://github.com/langgenius/dify",
+    "createdAt": "12-04-2023",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 5005
+    },
+    "releases": {
+      "totalCount": 119
+    },
+    "issues": {
+      "totalCount": 6688
+    },
+    "closedIssues": {
+      "totalCount": 6302
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 684
+  },
+  {
     "name": "generative-ai-for-beginners",
     "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
     "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -3056,30 +3080,6 @@
     },
     "daysSinceUpdate": 7,
     "repositoryAge": 616
-  },
-  {
-    "name": "dify",
-    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-    "url": "https://github.com/langgenius/dify",
-    "createdAt": "12-04-2023",
-    "pushedAt": "23-02-2025",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 5004
-    },
-    "releases": {
-      "totalCount": 119
-    },
-    "issues": {
-      "totalCount": 6684
-    },
-    "closedIssues": {
-      "totalCount": 6298
-    },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 684
   },
   {
     "name": "ML-For-Beginners",
@@ -3134,7 +3134,7 @@
     "description": "Next generation frontend tooling. It's fast!",
     "url": "https://github.com/vitejs/vite",
     "createdAt": "21-04-2020",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -3150,7 +3150,7 @@
     "closedIssues": {
       "totalCount": 7300
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 1770
   },
   {
@@ -3429,7 +3429,7 @@
       "totalCount": 64
     },
     "issues": {
-      "totalCount": 1791
+      "totalCount": 1792
     },
     "closedIssues": {
       "totalCount": 1284
@@ -3565,7 +3565,7 @@
       "name": "C++"
     },
     "pullRequests": {
-      "totalCount": 52333
+      "totalCount": 52334
     },
     "releases": {
       "totalCount": 57
@@ -3825,7 +3825,7 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 48448
+      "totalCount": 48450
     },
     "releases": {
       "totalCount": 0
@@ -3834,7 +3834,7 @@
       "totalCount": 71154
     },
     "closedIssues": {
-      "totalCount": 63936
+      "totalCount": 63938
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 2936
@@ -4095,7 +4095,7 @@
       "totalCount": 249
     },
     "issues": {
-      "totalCount": 1606
+      "totalCount": 1607
     },
     "closedIssues": {
       "totalCount": 1552
@@ -4250,7 +4250,7 @@
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "url": "https://github.com/n8n-io/n8n",
     "createdAt": "22-06-2019",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -4261,12 +4261,12 @@
       "totalCount": 291
     },
     "issues": {
-      "totalCount": 2596
+      "totalCount": 2597
     },
     "closedIssues": {
       "totalCount": 2164
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2074
   },
   {
@@ -4534,12 +4534,12 @@
     "description": "scikit-learn: machine learning in Python",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "createdAt": "17-08-2010",
-    "pushedAt": "21-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 12900
+      "totalCount": 12901
     },
     "releases": {
       "totalCount": 45
@@ -4550,7 +4550,7 @@
     "closedIssues": {
       "totalCount": 9826
     },
-    "daysSinceUpdate": 3,
+    "daysSinceUpdate": 0,
     "repositoryAge": 5305
   },
   {
@@ -4644,7 +4644,7 @@
       "totalCount": 3304
     },
     "closedIssues": {
-      "totalCount": 2409
+      "totalCount": 2410
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 1349
@@ -5441,16 +5441,16 @@
       "name": "TypeScript"
     },
     "pullRequests": {
-      "totalCount": 1809
+      "totalCount": 1810
     },
     "releases": {
       "totalCount": 1000
     },
     "issues": {
-      "totalCount": 3181
+      "totalCount": 3182
     },
     "closedIssues": {
-      "totalCount": 2655
+      "totalCount": 2657
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 645
@@ -5460,7 +5460,7 @@
     "description": "The best React-based framework with performance, scalability and security built in.",
     "url": "https://github.com/gatsbyjs/gatsby",
     "createdAt": "21-05-2015",
-    "pushedAt": "20-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "JavaScript"
     },
@@ -5476,7 +5476,7 @@
     "closedIssues": {
       "totalCount": 13882
     },
-    "daysSinceUpdate": 4,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3567
   },
   {
@@ -5799,7 +5799,7 @@
       "name": "Markdown"
     },
     "pullRequests": {
-      "totalCount": 12923
+      "totalCount": 12924
     },
     "releases": {
       "totalCount": 5
@@ -6019,7 +6019,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 5874
+      "totalCount": 5876
     },
     "closedIssues": {
       "totalCount": 936
@@ -6061,7 +6061,7 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 10891
+      "totalCount": 10892
     },
     "releases": {
       "totalCount": 55
@@ -6474,7 +6474,7 @@
       "totalCount": 2929
     },
     "closedIssues": {
-      "totalCount": 2891
+      "totalCount": 2892
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 3914
@@ -6543,7 +6543,7 @@
       "totalCount": 510
     },
     "issues": {
-      "totalCount": 7621
+      "totalCount": 7622
     },
     "closedIssues": {
       "totalCount": 7597
@@ -6615,7 +6615,7 @@
       "totalCount": 123
     },
     "issues": {
-      "totalCount": 6788
+      "totalCount": 6789
     },
     "closedIssues": {
       "totalCount": 5599
@@ -6818,7 +6818,7 @@
     "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
     "url": "https://github.com/withastro/astro",
     "createdAt": "15-03-2021",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -6834,7 +6834,7 @@
     "closedIssues": {
       "totalCount": 5044
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 1442
   },
   {
@@ -6877,7 +6877,7 @@
       "totalCount": 249
     },
     "issues": {
-      "totalCount": 1972
+      "totalCount": 1973
     },
     "closedIssues": {
       "totalCount": 1668
@@ -7166,7 +7166,7 @@
       "totalCount": 14786
     },
     "closedIssues": {
-      "totalCount": 13396
+      "totalCount": 13398
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 3645
@@ -7187,10 +7187,10 @@
       "totalCount": 42
     },
     "issues": {
-      "totalCount": 2420
+      "totalCount": 2421
     },
     "closedIssues": {
-      "totalCount": 2237
+      "totalCount": 2238
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 461
@@ -7373,7 +7373,7 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 3440
+      "totalCount": 3441
     },
     "releases": {
       "totalCount": 42
@@ -7382,7 +7382,7 @@
       "totalCount": 2264
     },
     "closedIssues": {
-      "totalCount": 2020
+      "totalCount": 2024
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 348
@@ -7512,12 +7512,12 @@
     "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
     "url": "https://github.com/go-gitea/gitea",
     "createdAt": "01-11-2016",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 16985
+      "totalCount": 16986
     },
     "releases": {
       "totalCount": 205
@@ -7528,7 +7528,7 @@
     "closedIssues": {
       "totalCount": 11631
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3037
   },
   {
@@ -7536,7 +7536,7 @@
     "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "url": "https://github.com/starship/starship",
     "createdAt": "02-04-2019",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Rust"
     },
@@ -7552,7 +7552,7 @@
     "closedIssues": {
       "totalCount": 1722
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2155
   },
   {
@@ -7608,10 +7608,10 @@
     "description": "🚀✨ Help beginners to contribute to open source projects",
     "url": "https://github.com/firstcontributions/first-contributions",
     "createdAt": "20-09-2016",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": null,
     "pullRequests": {
-      "totalCount": 79725
+      "totalCount": 79726
     },
     "releases": {
       "totalCount": 0
@@ -7622,7 +7622,7 @@
     "closedIssues": {
       "totalCount": 830
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3079
   },
   {
@@ -7866,7 +7866,7 @@
     "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",
     "url": "https://github.com/square/okhttp",
     "createdAt": "23-07-2012",
-    "pushedAt": "17-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Kotlin"
     },
@@ -7882,7 +7882,7 @@
     "closedIssues": {
       "totalCount": 3970
     },
-    "daysSinceUpdate": 7,
+    "daysSinceUpdate": 0,
     "repositoryAge": 4599
   },
   {
@@ -7941,10 +7941,10 @@
       "name": "TypeScript"
     },
     "pullRequests": {
-      "totalCount": 6417
+      "totalCount": 6418
     },
     "releases": {
-      "totalCount": 423
+      "totalCount": 426
     },
     "issues": {
       "totalCount": 2442
@@ -8303,7 +8303,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 35001
+      "totalCount": 35002
     },
     "closedIssues": {
       "totalCount": 3643
@@ -9393,7 +9393,7 @@
       "totalCount": 32
     },
     "issues": {
-      "totalCount": 5985
+      "totalCount": 5986
     },
     "closedIssues": {
       "totalCount": 5693
@@ -9572,12 +9572,12 @@
     "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
     "url": "https://github.com/RVC-Boss/GPT-SoVITS",
     "createdAt": "14-01-2024",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 280
+      "totalCount": 281
     },
     "releases": {
       "totalCount": 1
@@ -9586,9 +9586,9 @@
       "totalCount": 1522
     },
     "closedIssues": {
-      "totalCount": 817
+      "totalCount": 818
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 407
   },
   {
@@ -9662,30 +9662,6 @@
     "repositoryAge": 4127
   },
   {
-    "name": "python-patterns",
-    "description": "A collection of design patterns/idioms in Python",
-    "url": "https://github.com/faif/python-patterns",
-    "createdAt": "06-06-2012",
-    "pushedAt": "05-09-2024",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 265
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 89
-    },
-    "closedIssues": {
-      "totalCount": 78
-    },
-    "daysSinceUpdate": 172,
-    "repositoryAge": 4646
-  },
-  {
     "name": "uv",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "url": "https://github.com/astral-sh/uv",
@@ -9708,6 +9684,30 @@
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 511
+  },
+  {
+    "name": "python-patterns",
+    "description": "A collection of design patterns/idioms in Python",
+    "url": "https://github.com/faif/python-patterns",
+    "createdAt": "06-06-2012",
+    "pushedAt": "05-09-2024",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 265
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 89
+    },
+    "closedIssues": {
+      "totalCount": 78
+    },
+    "daysSinceUpdate": 172,
+    "repositoryAge": 4646
   },
   {
     "name": "metabase",
@@ -9878,30 +9878,6 @@
     "repositoryAge": 4730
   },
   {
-    "name": "nw.js",
-    "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
-    "url": "https://github.com/nwjs/nw.js",
-    "createdAt": "04-01-2012",
-    "pushedAt": "19-02-2025",
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pullRequests": {
-      "totalCount": 575
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 7361
-    },
-    "closedIssues": {
-      "totalCount": 6430
-    },
-    "daysSinceUpdate": 5,
-    "repositoryAge": 4800
-  },
-  {
     "name": "LLMs-from-scratch",
     "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
     "url": "https://github.com/rasbt/LLMs-from-scratch",
@@ -9926,11 +9902,35 @@
     "repositoryAge": 582
   },
   {
+    "name": "nw.js",
+    "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+    "url": "https://github.com/nwjs/nw.js",
+    "createdAt": "04-01-2012",
+    "pushedAt": "19-02-2025",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pullRequests": {
+      "totalCount": 575
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 7361
+    },
+    "closedIssues": {
+      "totalCount": 6430
+    },
+    "daysSinceUpdate": 5,
+    "repositoryAge": 4800
+  },
+  {
     "name": "uni-app",
     "description": "A cross-platform framework using Vue.js",
     "url": "https://github.com/dcloudio/uni-app",
     "createdAt": "12-07-2018",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "JavaScript"
     },
@@ -9946,7 +9946,7 @@
     "closedIssues": {
       "totalCount": 3638
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2419
   },
   {
@@ -9965,7 +9965,7 @@
       "totalCount": 48
     },
     "issues": {
-      "totalCount": 1689
+      "totalCount": 1690
     },
     "closedIssues": {
       "totalCount": 1280
@@ -10146,7 +10146,7 @@
     "description": "Developer-first error tracking and performance monitoring",
     "url": "https://github.com/getsentry/sentry",
     "createdAt": "30-08-2010",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Python"
     },
@@ -10162,7 +10162,7 @@
     "closedIssues": {
       "totalCount": 12511
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 5292
   },
   {
@@ -10175,7 +10175,7 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 2067
+      "totalCount": 2068
     },
     "releases": {
       "totalCount": 75
@@ -10286,6 +10286,30 @@
     "repositoryAge": 3810
   },
   {
+    "name": "ragflow",
+    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "url": "https://github.com/infiniflow/ragflow",
+    "createdAt": "12-12-2023",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 2257
+    },
+    "releases": {
+      "totalCount": 21
+    },
+    "issues": {
+      "totalCount": 2575
+    },
+    "closedIssues": {
+      "totalCount": 1487
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 440
+  },
+  {
     "name": "nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "url": "https://github.com/karpathy/nanoGPT",
@@ -10308,30 +10332,6 @@
     },
     "daysSinceUpdate": 77,
     "repositoryAge": 789
-  },
-  {
-    "name": "ragflow",
-    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
-    "url": "https://github.com/infiniflow/ragflow",
-    "createdAt": "12-12-2023",
-    "pushedAt": "21-02-2025",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 2253
-    },
-    "releases": {
-      "totalCount": 21
-    },
-    "issues": {
-      "totalCount": 2573
-    },
-    "closedIssues": {
-      "totalCount": 1486
-    },
-    "daysSinceUpdate": 3,
-    "repositoryAge": 440
   },
   {
     "name": "cobra",
@@ -10421,7 +10421,7 @@
       "totalCount": 360
     },
     "issues": {
-      "totalCount": 5905
+      "totalCount": 5906
     },
     "closedIssues": {
       "totalCount": 5244
@@ -10487,16 +10487,16 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 4681
+      "totalCount": 4682
     },
     "releases": {
       "totalCount": 50
     },
     "issues": {
-      "totalCount": 6674
+      "totalCount": 6675
     },
     "closedIssues": {
-      "totalCount": 5384
+      "totalCount": 5391
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 746
@@ -10757,7 +10757,7 @@
       "totalCount": 11
     },
     "issues": {
-      "totalCount": 2146
+      "totalCount": 2147
     },
     "closedIssues": {
       "totalCount": 1925
@@ -10816,7 +10816,7 @@
     "description": "Chakra UI is a component system for building products with speed ⚡️",
     "url": "https://github.com/chakra-ui/chakra-ui",
     "createdAt": "17-08-2019",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -10832,32 +10832,8 @@
     "closedIssues": {
       "totalCount": 3968
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 2018
-  },
-  {
-    "name": "wrk",
-    "description": "Modern HTTP benchmarking tool",
-    "url": "https://github.com/wg/wrk",
-    "createdAt": "20-03-2012",
-    "pushedAt": "30-12-2023",
-    "primaryLanguage": {
-      "name": "C"
-    },
-    "pullRequests": {
-      "totalCount": 0
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 405
-    },
-    "closedIssues": {
-      "totalCount": 262
-    },
-    "daysSinceUpdate": 422,
-    "repositoryAge": 4724
   },
   {
     "name": "video.js",
@@ -10884,6 +10860,30 @@
     "repositoryAge": 5400
   },
   {
+    "name": "wrk",
+    "description": "Modern HTTP benchmarking tool",
+    "url": "https://github.com/wg/wrk",
+    "createdAt": "20-03-2012",
+    "pushedAt": "30-12-2023",
+    "primaryLanguage": {
+      "name": "C"
+    },
+    "pullRequests": {
+      "totalCount": 0
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 405
+    },
+    "closedIssues": {
+      "totalCount": 262
+    },
+    "daysSinceUpdate": 422,
+    "repositoryAge": 4724
+  },
+  {
     "name": "cli",
     "description": "GitHub’s official command line tool",
     "url": "https://github.com/cli/cli",
@@ -10899,7 +10899,7 @@
       "totalCount": 156
     },
     "issues": {
-      "totalCount": 4643
+      "totalCount": 4644
     },
     "closedIssues": {
       "totalCount": 3932
@@ -11032,23 +11032,23 @@
     "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
     "url": "https://github.com/pingcap/tidb",
     "createdAt": "06-09-2015",
-    "pushedAt": "21-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 31477
+      "totalCount": 31479
     },
     "releases": {
       "totalCount": 205
     },
     "issues": {
-      "totalCount": 20106
+      "totalCount": 20108
     },
     "closedIssues": {
-      "totalCount": 16360
+      "totalCount": 16361
     },
-    "daysSinceUpdate": 3,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3459
   },
   {
@@ -11320,7 +11320,7 @@
     "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
     "url": "https://github.com/phaserjs/phaser",
     "createdAt": "12-04-2013",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "JavaScript"
     },
@@ -11336,7 +11336,7 @@
     "closedIssues": {
       "totalCount": 4398
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 4336
   },
   {
@@ -11358,34 +11358,10 @@
       "totalCount": 12057
     },
     "closedIssues": {
-      "totalCount": 8991
+      "totalCount": 8992
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 3490
-  },
-  {
-    "name": "gorm",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly",
-    "url": "https://github.com/go-gorm/gorm",
-    "createdAt": "25-10-2013",
-    "pushedAt": "13-02-2025",
-    "primaryLanguage": {
-      "name": "Go"
-    },
-    "pullRequests": {
-      "totalCount": 730
-    },
-    "releases": {
-      "totalCount": 2
-    },
-    "issues": {
-      "totalCount": 5881
-    },
-    "closedIssues": {
-      "totalCount": 5474
-    },
-    "daysSinceUpdate": 11,
-    "repositoryAge": 4140
   },
   {
     "name": "expo",
@@ -11410,6 +11386,30 @@
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 3115
+  },
+  {
+    "name": "gorm",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "url": "https://github.com/go-gorm/gorm",
+    "createdAt": "25-10-2013",
+    "pushedAt": "13-02-2025",
+    "primaryLanguage": {
+      "name": "Go"
+    },
+    "pullRequests": {
+      "totalCount": 730
+    },
+    "releases": {
+      "totalCount": 2
+    },
+    "issues": {
+      "totalCount": 5881
+    },
+    "closedIssues": {
+      "totalCount": 5474
+    },
+    "daysSinceUpdate": 11,
+    "repositoryAge": 4140
   },
   {
     "name": "awesome-compose",
@@ -11606,12 +11606,12 @@
     "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
     "url": "https://github.com/usememos/memos",
     "createdAt": "08-12-2021",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 1613
+      "totalCount": 1614
     },
     "releases": {
       "totalCount": 75
@@ -11622,7 +11622,7 @@
     "closedIssues": {
       "totalCount": 2188
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 1174
   },
   {
@@ -11770,6 +11770,30 @@
     "repositoryAge": 4319
   },
   {
+    "name": "ultralytics",
+    "description": "Ultralytics YOLO11 🚀",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "createdAt": "11-09-2022",
+    "pushedAt": "23-02-2025",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 2834
+    },
+    "releases": {
+      "totalCount": 152
+    },
+    "issues": {
+      "totalCount": 10414
+    },
+    "closedIssues": {
+      "totalCount": 9646
+    },
+    "daysSinceUpdate": 1,
+    "repositoryAge": 897
+  },
+  {
     "name": "shellcheck",
     "description": "ShellCheck, a static analysis tool for shell scripts",
     "url": "https://github.com/koalaman/shellcheck",
@@ -11792,30 +11816,6 @@
     },
     "daysSinceUpdate": 72,
     "repositoryAge": 4482
-  },
-  {
-    "name": "ultralytics",
-    "description": "Ultralytics YOLO11 🚀",
-    "url": "https://github.com/ultralytics/ultralytics",
-    "createdAt": "11-09-2022",
-    "pushedAt": "23-02-2025",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 2834
-    },
-    "releases": {
-      "totalCount": 152
-    },
-    "issues": {
-      "totalCount": 10412
-    },
-    "closedIssues": {
-      "totalCount": 9645
-    },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 897
   },
   {
     "name": "DeepSpeed",
@@ -12191,7 +12191,7 @@
       "totalCount": 1000
     },
     "issues": {
-      "totalCount": 5367
+      "totalCount": 5368
     },
     "closedIssues": {
       "totalCount": 4905
@@ -12235,7 +12235,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 2845
+      "totalCount": 2846
     },
     "closedIssues": {
       "totalCount": 2841
@@ -12486,7 +12486,7 @@
     "description": "An extremely fast Python linter and code formatter, written in Rust.",
     "url": "https://github.com/astral-sh/ruff",
     "createdAt": "09-08-2022",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Rust"
     },
@@ -12502,7 +12502,7 @@
     "closedIssues": {
       "totalCount": 4954
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 930
   },
   {
@@ -12822,12 +12822,12 @@
     "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
     "url": "https://github.com/Kong/insomnia",
     "createdAt": "23-04-2016",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pullRequests": {
-      "totalCount": 3044
+      "totalCount": 3045
     },
     "releases": {
       "totalCount": 495
@@ -12838,7 +12838,7 @@
     "closedIssues": {
       "totalCount": 3072
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3229
   },
   {
@@ -12986,30 +12986,6 @@
     "repositoryAge": 1732
   },
   {
-    "name": "interview",
-    "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
-    "url": "https://github.com/huihut/interview",
-    "createdAt": "09-02-2018",
-    "pushedAt": "19-03-2024",
-    "primaryLanguage": {
-      "name": "C++"
-    },
-    "pullRequests": {
-      "totalCount": 35
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 64
-    },
-    "closedIssues": {
-      "totalCount": 40
-    },
-    "daysSinceUpdate": 342,
-    "repositoryAge": 2572
-  },
-  {
     "name": "spotube",
     "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
     "url": "https://github.com/KRTirtho/spotube",
@@ -13032,6 +13008,30 @@
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 1471
+  },
+  {
+    "name": "interview",
+    "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+    "url": "https://github.com/huihut/interview",
+    "createdAt": "09-02-2018",
+    "pushedAt": "19-03-2024",
+    "primaryLanguage": {
+      "name": "C++"
+    },
+    "pullRequests": {
+      "totalCount": 35
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 64
+    },
+    "closedIssues": {
+      "totalCount": 40
+    },
+    "daysSinceUpdate": 342,
+    "repositoryAge": 2572
   },
   {
     "name": "Flowise",
@@ -13128,30 +13128,6 @@
     "repositoryAge": 4175
   },
   {
-    "name": "koa",
-    "description": "Expressive middleware for node.js using ES2017 async functions",
-    "url": "https://github.com/koajs/koa",
-    "createdAt": "20-07-2013",
-    "pushedAt": "12-02-2025",
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pullRequests": {
-      "totalCount": 501
-    },
-    "releases": {
-      "totalCount": 2
-    },
-    "issues": {
-      "totalCount": 911
-    },
-    "closedIssues": {
-      "totalCount": 894
-    },
-    "daysSinceUpdate": 12,
-    "repositoryAge": 4237
-  },
-  {
     "name": "RSSHub",
     "description": "🧡 Everything is RSSible",
     "url": "https://github.com/DIYgod/RSSHub",
@@ -13174,6 +13150,30 @@
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 2520
+  },
+  {
+    "name": "koa",
+    "description": "Expressive middleware for node.js using ES2017 async functions",
+    "url": "https://github.com/koajs/koa",
+    "createdAt": "20-07-2013",
+    "pushedAt": "12-02-2025",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pullRequests": {
+      "totalCount": 501
+    },
+    "releases": {
+      "totalCount": 2
+    },
+    "issues": {
+      "totalCount": 911
+    },
+    "closedIssues": {
+      "totalCount": 894
+    },
+    "daysSinceUpdate": 12,
+    "repositoryAge": 4237
   },
   {
     "name": "date-fns",
@@ -13272,30 +13272,6 @@
     "repositoryAge": 940
   },
   {
-    "name": "nativefier",
-    "description": "Make any web page a desktop application",
-    "url": "https://github.com/nativefier/nativefier",
-    "createdAt": "05-07-2015",
-    "pushedAt": "29-09-2023",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 261
-    },
-    "releases": {
-      "totalCount": 99
-    },
-    "issues": {
-      "totalCount": 1238
-    },
-    "closedIssues": {
-      "totalCount": 982
-    },
-    "daysSinceUpdate": 514,
-    "repositoryAge": 3522
-  },
-  {
     "name": "Pake",
     "description": "🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
     "url": "https://github.com/tw93/Pake",
@@ -13318,6 +13294,30 @@
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 864
+  },
+  {
+    "name": "nativefier",
+    "description": "Make any web page a desktop application",
+    "url": "https://github.com/nativefier/nativefier",
+    "createdAt": "05-07-2015",
+    "pushedAt": "29-09-2023",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 261
+    },
+    "releases": {
+      "totalCount": 99
+    },
+    "issues": {
+      "totalCount": 1238
+    },
+    "closedIssues": {
+      "totalCount": 982
+    },
+    "daysSinceUpdate": 514,
+    "repositoryAge": 3522
   },
   {
     "name": "logseq",
@@ -13630,30 +13630,6 @@
     "repositoryAge": 4748
   },
   {
-    "name": "halo",
-    "description": "强大易用的开源建站工具。",
-    "url": "https://github.com/halo-dev/halo",
-    "createdAt": "21-03-2018",
-    "pushedAt": "22-02-2025",
-    "primaryLanguage": {
-      "name": "Java"
-    },
-    "pullRequests": {
-      "totalCount": 2413
-    },
-    "releases": {
-      "totalCount": 208
-    },
-    "issues": {
-      "totalCount": 4129
-    },
-    "closedIssues": {
-      "totalCount": 3783
-    },
-    "daysSinceUpdate": 2,
-    "repositoryAge": 2532
-  },
-  {
     "name": "ToolJet",
     "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "url": "https://github.com/ToolJet/ToolJet",
@@ -13676,6 +13652,30 @@
     },
     "daysSinceUpdate": 2,
     "repositoryAge": 1427
+  },
+  {
+    "name": "halo",
+    "description": "强大易用的开源建站工具。",
+    "url": "https://github.com/halo-dev/halo",
+    "createdAt": "21-03-2018",
+    "pushedAt": "22-02-2025",
+    "primaryLanguage": {
+      "name": "Java"
+    },
+    "pullRequests": {
+      "totalCount": 2413
+    },
+    "releases": {
+      "totalCount": 208
+    },
+    "issues": {
+      "totalCount": 4129
+    },
+    "closedIssues": {
+      "totalCount": 3783
+    },
+    "daysSinceUpdate": 2,
+    "repositoryAge": 2532
   },
   {
     "name": "glide",
@@ -14532,30 +14532,6 @@
     "repositoryAge": 4828
   },
   {
-    "name": "faiss",
-    "description": "A library for efficient similarity search and clustering of dense vectors.",
-    "url": "https://github.com/facebookresearch/faiss",
-    "createdAt": "07-02-2017",
-    "pushedAt": "22-02-2025",
-    "primaryLanguage": {
-      "name": "C++"
-    },
-    "pullRequests": {
-      "totalCount": 137
-    },
-    "releases": {
-      "totalCount": 18
-    },
-    "issues": {
-      "totalCount": 2574
-    },
-    "closedIssues": {
-      "totalCount": 2350
-    },
-    "daysSinceUpdate": 2,
-    "repositoryAge": 2939
-  },
-  {
     "name": "ink-kit",
     "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
     "url": "https://github.com/inkonchain/ink-kit",
@@ -14580,27 +14556,51 @@
     "repositoryAge": 112
   },
   {
+    "name": "faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "url": "https://github.com/facebookresearch/faiss",
+    "createdAt": "07-02-2017",
+    "pushedAt": "22-02-2025",
+    "primaryLanguage": {
+      "name": "C++"
+    },
+    "pullRequests": {
+      "totalCount": 137
+    },
+    "releases": {
+      "totalCount": 18
+    },
+    "issues": {
+      "totalCount": 2574
+    },
+    "closedIssues": {
+      "totalCount": 2350
+    },
+    "daysSinceUpdate": 2,
+    "repositoryAge": 2939
+  },
+  {
     "name": "windows",
     "description": "Windows inside a Docker container.",
     "url": "https://github.com/dockur/windows",
     "createdAt": "14-01-2024",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Shell"
     },
     "pullRequests": {
-      "totalCount": 329
+      "totalCount": 331
     },
     "releases": {
-      "totalCount": 81
+      "totalCount": 82
     },
     "issues": {
       "totalCount": 655
     },
     "closedIssues": {
-      "totalCount": 565
+      "totalCount": 566
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 407
   },
   {
@@ -14622,7 +14622,7 @@
       "totalCount": 18544
     },
     "closedIssues": {
-      "totalCount": 18526
+      "totalCount": 18527
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 4428
@@ -14781,7 +14781,7 @@
       "name": "Java"
     },
     "pullRequests": {
-      "totalCount": 3684
+      "totalCount": 3685
     },
     "releases": {
       "totalCount": 21
@@ -15012,6 +15012,30 @@
     "repositoryAge": 1511
   },
   {
+    "name": "milvus",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "url": "https://github.com/milvus-io/milvus",
+    "createdAt": "16-09-2019",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": {
+      "name": "Go"
+    },
+    "pullRequests": {
+      "totalCount": 21126
+    },
+    "releases": {
+      "totalCount": 107
+    },
+    "issues": {
+      "totalCount": 12782
+    },
+    "closedIssues": {
+      "totalCount": 12166
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 1988
+  },
+  {
     "name": "ShadowsocksX-NG",
     "description": "Next Generation of ShadowsocksX",
     "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
@@ -15034,30 +15058,6 @@
     },
     "daysSinceUpdate": 118,
     "repositoryAge": 3181
-  },
-  {
-    "name": "milvus",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "url": "https://github.com/milvus-io/milvus",
-    "createdAt": "16-09-2019",
-    "pushedAt": "24-02-2025",
-    "primaryLanguage": {
-      "name": "Go"
-    },
-    "pullRequests": {
-      "totalCount": 21125
-    },
-    "releases": {
-      "totalCount": 107
-    },
-    "issues": {
-      "totalCount": 12782
-    },
-    "closedIssues": {
-      "totalCount": 12166
-    },
-    "daysSinceUpdate": 0,
-    "repositoryAge": 1988
   },
   {
     "name": "poetry",
@@ -15088,7 +15088,7 @@
     "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
     "url": "https://github.com/carbon-language/carbon-lang",
     "createdAt": "27-04-2020",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "C++"
     },
@@ -15096,7 +15096,7 @@
       "totalCount": 3570
     },
     "releases": {
-      "totalCount": 231
+      "totalCount": 232
     },
     "issues": {
       "totalCount": 624
@@ -15104,7 +15104,7 @@
     "closedIssues": {
       "totalCount": 511
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 1764
   },
   {
@@ -15147,37 +15147,13 @@
       "totalCount": 115
     },
     "issues": {
-      "totalCount": 2636
+      "totalCount": 2637
     },
     "closedIssues": {
-      "totalCount": 2563
+      "totalCount": 2564
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 2105
-  },
-  {
-    "name": "plane",
-    "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-    "url": "https://github.com/makeplane/plane",
-    "createdAt": "19-11-2022",
-    "pushedAt": "21-02-2025",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 4968
-    },
-    "releases": {
-      "totalCount": 39
-    },
-    "issues": {
-      "totalCount": 1117
-    },
-    "closedIssues": {
-      "totalCount": 700
-    },
-    "daysSinceUpdate": 3,
-    "repositoryAge": 828
   },
   {
     "name": "engineering-blogs",
@@ -15204,6 +15180,30 @@
     "repositoryAge": 3544
   },
   {
+    "name": "plane",
+    "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+    "url": "https://github.com/makeplane/plane",
+    "createdAt": "19-11-2022",
+    "pushedAt": "21-02-2025",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 4968
+    },
+    "releases": {
+      "totalCount": 39
+    },
+    "issues": {
+      "totalCount": 1117
+    },
+    "closedIssues": {
+      "totalCount": 700
+    },
+    "daysSinceUpdate": 3,
+    "repositoryAge": 828
+  },
+  {
     "name": "harness",
     "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
     "url": "https://github.com/harness/harness",
@@ -15228,30 +15228,6 @@
     "repositoryAge": 4035
   },
   {
-    "name": "awesome-awesomeness",
-    "description": "A curated list of awesome awesomeness",
-    "url": "https://github.com/bayandin/awesome-awesomeness",
-    "createdAt": "08-07-2014",
-    "pushedAt": "02-06-2024",
-    "primaryLanguage": {
-      "name": "Ruby"
-    },
-    "pullRequests": {
-      "totalCount": 197
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 68
-    },
-    "closedIssues": {
-      "totalCount": 52
-    },
-    "daysSinceUpdate": 267,
-    "repositoryAge": 3884
-  },
-  {
     "name": "gpt-pilot",
     "description": "The first real AI developer",
     "url": "https://github.com/Pythagora-io/gpt-pilot",
@@ -15274,6 +15250,30 @@
     },
     "daysSinceUpdate": 10,
     "repositoryAge": 558
+  },
+  {
+    "name": "awesome-awesomeness",
+    "description": "A curated list of awesome awesomeness",
+    "url": "https://github.com/bayandin/awesome-awesomeness",
+    "createdAt": "08-07-2014",
+    "pushedAt": "02-06-2024",
+    "primaryLanguage": {
+      "name": "Ruby"
+    },
+    "pullRequests": {
+      "totalCount": 197
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 68
+    },
+    "closedIssues": {
+      "totalCount": 52
+    },
+    "daysSinceUpdate": 267,
+    "repositoryAge": 3884
   },
   {
     "name": "zsh-autosuggestions",
@@ -15582,6 +15582,30 @@
     "repositoryAge": 746
   },
   {
+    "name": "browser-use",
+    "description": "Make websites accessible for AI agents",
+    "url": "https://github.com/browser-use/browser-use",
+    "createdAt": "31-10-2024",
+    "pushedAt": "23-02-2025",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 261
+    },
+    "releases": {
+      "totalCount": 37
+    },
+    "issues": {
+      "totalCount": 369
+    },
+    "closedIssues": {
+      "totalCount": 133
+    },
+    "daysSinceUpdate": 1,
+    "repositoryAge": 116
+  },
+  {
     "name": "vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "url": "https://github.com/hashicorp/vault",
@@ -15634,7 +15658,7 @@
     "description": "Shardeum is an EVM based autoscaling blockchain",
     "url": "https://github.com/shardeum/shardeum",
     "createdAt": "16-04-2024",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -15650,32 +15674,32 @@
     "closedIssues": {
       "totalCount": 23
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 314
   },
   {
-    "name": "browser-use",
-    "description": "Make websites accessible for AI agents",
-    "url": "https://github.com/browser-use/browser-use",
-    "createdAt": "31-10-2024",
-    "pushedAt": "23-02-2025",
+    "name": "unsloth",
+    "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥",
+    "url": "https://github.com/unslothai/unsloth",
+    "createdAt": "29-11-2023",
+    "pushedAt": "22-02-2025",
     "primaryLanguage": {
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 261
+      "totalCount": 294
     },
     "releases": {
-      "totalCount": 37
+      "totalCount": 11
     },
     "issues": {
-      "totalCount": 369
+      "totalCount": 1404
     },
     "closedIssues": {
-      "totalCount": 133
+      "totalCount": 657
     },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 116
+    "daysSinceUpdate": 2,
+    "repositoryAge": 453
   },
   {
     "name": "mattermost",
@@ -15711,7 +15735,7 @@
       "name": "Rust"
     },
     "pullRequests": {
-      "totalCount": 5073
+      "totalCount": 5074
     },
     "releases": {
       "totalCount": 623
@@ -15724,30 +15748,6 @@
     },
     "daysSinceUpdate": 0,
     "repositoryAge": 2621
-  },
-  {
-    "name": "unsloth",
-    "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥",
-    "url": "https://github.com/unslothai/unsloth",
-    "createdAt": "29-11-2023",
-    "pushedAt": "22-02-2025",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 294
-    },
-    "releases": {
-      "totalCount": 11
-    },
-    "issues": {
-      "totalCount": 1404
-    },
-    "closedIssues": {
-      "totalCount": 657
-    },
-    "daysSinceUpdate": 2,
-    "repositoryAge": 453
   },
   {
     "name": "android-open-project",
@@ -16246,30 +16246,6 @@
     "repositoryAge": 3634
   },
   {
-    "name": "fairseq",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-    "url": "https://github.com/facebookresearch/fairseq",
-    "createdAt": "29-08-2017",
-    "pushedAt": "09-01-2025",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 233
-    },
-    "releases": {
-      "totalCount": 16
-    },
-    "issues": {
-      "totalCount": 4219
-    },
-    "closedIssues": {
-      "totalCount": 3055
-    },
-    "daysSinceUpdate": 46,
-    "repositoryAge": 2736
-  },
-  {
     "name": "OpenVoice",
     "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
     "url": "https://github.com/myshell-ai/OpenVoice",
@@ -16292,6 +16268,30 @@
     },
     "daysSinceUpdate": 48,
     "repositoryAge": 453
+  },
+  {
+    "name": "fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "createdAt": "29-08-2017",
+    "pushedAt": "09-01-2025",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 233
+    },
+    "releases": {
+      "totalCount": 16
+    },
+    "issues": {
+      "totalCount": 4219
+    },
+    "closedIssues": {
+      "totalCount": 3055
+    },
+    "daysSinceUpdate": 46,
+    "repositoryAge": 2736
   },
   {
     "name": "vimrc",
@@ -16327,13 +16327,13 @@
       "name": "LLVM"
     },
     "pullRequests": {
-      "totalCount": 38139
+      "totalCount": 38143
     },
     "releases": {
       "totalCount": 123
     },
     "issues": {
-      "totalCount": 80778
+      "totalCount": 80779
     },
     "closedIssues": {
       "totalCount": 55923
@@ -16405,7 +16405,7 @@
       "totalCount": 49
     },
     "issues": {
-      "totalCount": 942
+      "totalCount": 944
     },
     "closedIssues": {
       "totalCount": 584
@@ -16526,7 +16526,7 @@
       "totalCount": 6642
     },
     "closedIssues": {
-      "totalCount": 6054
+      "totalCount": 6059
     },
     "daysSinceUpdate": 4,
     "repositoryAge": 4157
@@ -16569,7 +16569,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 332
+      "totalCount": 333
     },
     "closedIssues": {
       "totalCount": 100
@@ -16774,7 +16774,7 @@
     "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
     "url": "https://github.com/outline/outline",
     "createdAt": "22-05-2016",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -16790,7 +16790,7 @@
     "closedIssues": {
       "totalCount": 3036
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3200
   },
   {
@@ -16980,7 +16980,7 @@
       "totalCount": 1005
     },
     "closedIssues": {
-      "totalCount": 972
+      "totalCount": 973
     },
     "daysSinceUpdate": 3,
     "repositoryAge": 2142
@@ -17224,6 +17224,30 @@
     "repositoryAge": 3169
   },
   {
+    "name": "siyuan",
+    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "createdAt": "30-08-2020",
+    "pushedAt": "23-02-2025",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 403
+    },
+    "releases": {
+      "totalCount": 743
+    },
+    "issues": {
+      "totalCount": 13618
+    },
+    "closedIssues": {
+      "totalCount": 13285
+    },
+    "daysSinceUpdate": 1,
+    "repositoryAge": 1639
+  },
+  {
     "name": "winutil",
     "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
     "url": "https://github.com/ChrisTitusTech/winutil",
@@ -17246,30 +17270,6 @@
     },
     "daysSinceUpdate": 4,
     "repositoryAge": 1033
-  },
-  {
-    "name": "siyuan",
-    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-    "url": "https://github.com/siyuan-note/siyuan",
-    "createdAt": "30-08-2020",
-    "pushedAt": "23-02-2025",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 403
-    },
-    "releases": {
-      "totalCount": 743
-    },
-    "issues": {
-      "totalCount": 13618
-    },
-    "closedIssues": {
-      "totalCount": 13284
-    },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 1639
   },
   {
     "name": "chatbot-ui",
@@ -17445,7 +17445,7 @@
       "name": "Rust"
     },
     "pullRequests": {
-      "totalCount": 2674
+      "totalCount": 2675
     },
     "releases": {
       "totalCount": 191
@@ -18075,7 +18075,7 @@
       "totalCount": 87
     },
     "issues": {
-      "totalCount": 13754
+      "totalCount": 13755
     },
     "closedIssues": {
       "totalCount": 11732
@@ -18088,7 +18088,7 @@
     "description": "🍬A set of tools that keep Java sweet.",
     "url": "https://github.com/chinabugotech/hutool",
     "createdAt": "13-04-2014",
-    "pushedAt": "21-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Java"
     },
@@ -18102,9 +18102,9 @@
       "totalCount": 2885
     },
     "closedIssues": {
-      "totalCount": 2882
+      "totalCount": 2883
     },
-    "daysSinceUpdate": 3,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3970
   },
   {
@@ -18372,28 +18372,6 @@
     "repositoryAge": 796
   },
   {
-    "name": "Mr.-Ranedeer-AI-Tutor",
-    "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
-    "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "createdAt": "31-03-2023",
-    "pushedAt": "25-03-2024",
-    "primaryLanguage": null,
-    "pullRequests": {
-      "totalCount": 19
-    },
-    "releases": {
-      "totalCount": 3
-    },
-    "issues": {
-      "totalCount": 47
-    },
-    "closedIssues": {
-      "totalCount": 34
-    },
-    "daysSinceUpdate": 336,
-    "repositoryAge": 696
-  },
-  {
     "name": "backstage",
     "description": "Backstage is an open framework for building developer portals",
     "url": "https://github.com/backstage/backstage",
@@ -18416,6 +18394,28 @@
     },
     "daysSinceUpdate": 3,
     "repositoryAge": 1858
+  },
+  {
+    "name": "Mr.-Ranedeer-AI-Tutor",
+    "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+    "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "createdAt": "31-03-2023",
+    "pushedAt": "25-03-2024",
+    "primaryLanguage": null,
+    "pullRequests": {
+      "totalCount": 19
+    },
+    "releases": {
+      "totalCount": 3
+    },
+    "issues": {
+      "totalCount": 47
+    },
+    "closedIssues": {
+      "totalCount": 34
+    },
+    "daysSinceUpdate": 336,
+    "repositoryAge": 696
   },
   {
     "name": "servo",
@@ -18584,28 +18584,6 @@
     "repositoryAge": 471
   },
   {
-    "name": "awesome-macos-command-line",
-    "description": "Use your macOS terminal shell to do awesome things.",
-    "url": "https://github.com/herrbischoff/awesome-macos-command-line",
-    "createdAt": "22-09-2015",
-    "pushedAt": "02-09-2021",
-    "primaryLanguage": null,
-    "pullRequests": {
-      "totalCount": 104
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 0
-    },
-    "closedIssues": {
-      "totalCount": 0
-    },
-    "daysSinceUpdate": 1271,
-    "repositoryAge": 3443
-  },
-  {
     "name": "ruoyi-vue-pro",
     "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
     "url": "https://github.com/YunaiV/ruoyi-vue-pro",
@@ -18628,6 +18606,28 @@
     },
     "daysSinceUpdate": 9,
     "repositoryAge": 1492
+  },
+  {
+    "name": "awesome-macos-command-line",
+    "description": "Use your macOS terminal shell to do awesome things.",
+    "url": "https://github.com/herrbischoff/awesome-macos-command-line",
+    "createdAt": "22-09-2015",
+    "pushedAt": "02-09-2021",
+    "primaryLanguage": null,
+    "pullRequests": {
+      "totalCount": 104
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 0
+    },
+    "closedIssues": {
+      "totalCount": 0
+    },
+    "daysSinceUpdate": 1271,
+    "repositoryAge": 3443
   },
   {
     "name": "standard",
@@ -18798,12 +18798,12 @@
     "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
     "url": "https://github.com/cheeriojs/cheerio",
     "createdAt": "09-10-2011",
-    "pushedAt": "20-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pullRequests": {
-      "totalCount": 2613
+      "totalCount": 2615
     },
     "releases": {
       "totalCount": 58
@@ -18814,7 +18814,7 @@
     "closedIssues": {
       "totalCount": 1179
     },
-    "daysSinceUpdate": 4,
+    "daysSinceUpdate": 0,
     "repositoryAge": 4887
   },
   {
@@ -19224,6 +19224,30 @@
     "repositoryAge": 2687
   },
   {
+    "name": "docsify",
+    "description": "🃏 A magical documentation site generator.",
+    "url": "https://github.com/docsifyjs/docsify",
+    "createdAt": "20-11-2016",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pullRequests": {
+      "totalCount": 692
+    },
+    "releases": {
+      "totalCount": 14
+    },
+    "issues": {
+      "totalCount": 1276
+    },
+    "closedIssues": {
+      "totalCount": 1133
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 3018
+  },
+  {
     "name": "css-protips",
     "description": "⚡️ A collection of tips to help take your CSS skills pro 🦾",
     "url": "https://github.com/AllThingsSmitty/css-protips",
@@ -19244,30 +19268,6 @@
     },
     "daysSinceUpdate": 3,
     "repositoryAge": 3467
-  },
-  {
-    "name": "docsify",
-    "description": "🃏 A magical documentation site generator.",
-    "url": "https://github.com/docsifyjs/docsify",
-    "createdAt": "20-11-2016",
-    "pushedAt": "08-02-2025",
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pullRequests": {
-      "totalCount": 691
-    },
-    "releases": {
-      "totalCount": 14
-    },
-    "issues": {
-      "totalCount": 1276
-    },
-    "closedIssues": {
-      "totalCount": 1133
-    },
-    "daysSinceUpdate": 16,
-    "repositoryAge": 3018
   },
   {
     "name": "surrealdb",
@@ -19462,30 +19462,6 @@
     "repositoryAge": 5095
   },
   {
-    "name": "postcss",
-    "description": "Transforming styles with JS plugins",
-    "url": "https://github.com/postcss/postcss",
-    "createdAt": "24-09-2013",
-    "pushedAt": "21-02-2025",
-    "primaryLanguage": {
-      "name": "TypeScript"
-    },
-    "pullRequests": {
-      "totalCount": 745
-    },
-    "releases": {
-      "totalCount": 265
-    },
-    "issues": {
-      "totalCount": 1008
-    },
-    "closedIssues": {
-      "totalCount": 984
-    },
-    "daysSinceUpdate": 3,
-    "repositoryAge": 4171
-  },
-  {
     "name": "CasaOS",
     "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
     "url": "https://github.com/IceWhaleTech/CasaOS",
@@ -19508,6 +19484,30 @@
     },
     "daysSinceUpdate": 67,
     "repositoryAge": 1247
+  },
+  {
+    "name": "postcss",
+    "description": "Transforming styles with JS plugins",
+    "url": "https://github.com/postcss/postcss",
+    "createdAt": "24-09-2013",
+    "pushedAt": "21-02-2025",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pullRequests": {
+      "totalCount": 745
+    },
+    "releases": {
+      "totalCount": 265
+    },
+    "issues": {
+      "totalCount": 1008
+    },
+    "closedIssues": {
+      "totalCount": 984
+    },
+    "daysSinceUpdate": 3,
+    "repositoryAge": 4171
   },
   {
     "name": "SpringAll",
@@ -19792,6 +19792,30 @@
     "repositoryAge": 3663
   },
   {
+    "name": "puter",
+    "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "url": "https://github.com/HeyPuter/puter",
+    "createdAt": "03-03-2024",
+    "pushedAt": "22-02-2025",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pullRequests": {
+      "totalCount": 476
+    },
+    "releases": {
+      "totalCount": 8
+    },
+    "issues": {
+      "totalCount": 538
+    },
+    "closedIssues": {
+      "totalCount": 382
+    },
+    "daysSinceUpdate": 2,
+    "repositoryAge": 358
+  },
+  {
     "name": "Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "url": "https://github.com/GorvGoyl/Clone-Wars",
@@ -19851,37 +19875,13 @@
       "totalCount": 36
     },
     "issues": {
-      "totalCount": 3135
+      "totalCount": 3136
     },
     "closedIssues": {
       "totalCount": 2484
     },
     "daysSinceUpdate": 8,
     "repositoryAge": 3376
-  },
-  {
-    "name": "puter",
-    "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
-    "url": "https://github.com/HeyPuter/puter",
-    "createdAt": "03-03-2024",
-    "pushedAt": "22-02-2025",
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pullRequests": {
-      "totalCount": 476
-    },
-    "releases": {
-      "totalCount": 8
-    },
-    "issues": {
-      "totalCount": 538
-    },
-    "closedIssues": {
-      "totalCount": 382
-    },
-    "daysSinceUpdate": 2,
-    "repositoryAge": 358
   },
   {
     "name": "UTM",
@@ -19902,7 +19902,7 @@
       "totalCount": 3228
     },
     "closedIssues": {
-      "totalCount": 2352
+      "totalCount": 2353
     },
     "daysSinceUpdate": 3,
     "repositoryAge": 2145
@@ -19926,7 +19926,7 @@
       "totalCount": 2441
     },
     "closedIssues": {
-      "totalCount": 2189
+      "totalCount": 2190
     },
     "daysSinceUpdate": 82,
     "repositoryAge": 2642
@@ -20133,7 +20133,7 @@
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 6102
+      "totalCount": 6103
     },
     "releases": {
       "totalCount": 11
@@ -20541,7 +20541,7 @@
       "totalCount": 0
     },
     "issues": {
-      "totalCount": 2469
+      "totalCount": 2470
     },
     "closedIssues": {
       "totalCount": 1078
@@ -20840,7 +20840,7 @@
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
     "url": "https://github.com/janhq/jan",
     "createdAt": "17-08-2023",
-    "pushedAt": "21-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "TypeScript"
     },
@@ -20854,9 +20854,9 @@
       "totalCount": 2192
     },
     "closedIssues": {
-      "totalCount": 2052
+      "totalCount": 2053
     },
-    "daysSinceUpdate": 3,
+    "daysSinceUpdate": 0,
     "repositoryAge": 557
   },
   {
@@ -21052,30 +21052,6 @@
     "repositoryAge": 3192
   },
   {
-    "name": "helm",
-    "description": "The Kubernetes Package Manager",
-    "url": "https://github.com/helm/helm",
-    "createdAt": "06-10-2015",
-    "pushedAt": "23-02-2025",
-    "primaryLanguage": {
-      "name": "Go"
-    },
-    "pullRequests": {
-      "totalCount": 3853
-    },
-    "releases": {
-      "totalCount": 204
-    },
-    "issues": {
-      "totalCount": 7941
-    },
-    "closedIssues": {
-      "totalCount": 7559
-    },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 3429
-  },
-  {
     "name": "CLIP",
     "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
     "url": "https://github.com/openai/CLIP",
@@ -21098,6 +21074,30 @@
     },
     "daysSinceUpdate": 216,
     "repositoryAge": 1531
+  },
+  {
+    "name": "helm",
+    "description": "The Kubernetes Package Manager",
+    "url": "https://github.com/helm/helm",
+    "createdAt": "06-10-2015",
+    "pushedAt": "23-02-2025",
+    "primaryLanguage": {
+      "name": "Go"
+    },
+    "pullRequests": {
+      "totalCount": 3853
+    },
+    "releases": {
+      "totalCount": 204
+    },
+    "issues": {
+      "totalCount": 7941
+    },
+    "closedIssues": {
+      "totalCount": 7559
+    },
+    "daysSinceUpdate": 1,
+    "repositoryAge": 3429
   },
   {
     "name": "textual",
@@ -21384,30 +21384,6 @@
     "repositoryAge": 3721
   },
   {
-    "name": "Retrieval-based-Voice-Conversion-WebUI",
-    "description": "Easily train a good VC model with voice data <= 10 mins!",
-    "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
-    "createdAt": "27-03-2023",
-    "pushedAt": "24-11-2024",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 477
-    },
-    "releases": {
-      "totalCount": 7
-    },
-    "issues": {
-      "totalCount": 1779
-    },
-    "closedIssues": {
-      "totalCount": 1274
-    },
-    "daysSinceUpdate": 92,
-    "repositoryAge": 700
-  },
-  {
     "name": "ghostty",
     "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
     "url": "https://github.com/ghostty-org/ghostty",
@@ -21430,6 +21406,30 @@
     },
     "daysSinceUpdate": 1,
     "repositoryAge": 1063
+  },
+  {
+    "name": "Retrieval-based-Voice-Conversion-WebUI",
+    "description": "Easily train a good VC model with voice data <= 10 mins!",
+    "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "createdAt": "27-03-2023",
+    "pushedAt": "24-11-2024",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 477
+    },
+    "releases": {
+      "totalCount": 7
+    },
+    "issues": {
+      "totalCount": 1779
+    },
+    "closedIssues": {
+      "totalCount": 1274
+    },
+    "daysSinceUpdate": 92,
+    "repositoryAge": 700
   },
   {
     "name": "mindsdb",
@@ -21456,28 +21456,6 @@
     "repositoryAge": 2398
   },
   {
-    "name": "TrackersListCollection",
-    "description": "🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！",
-    "url": "https://github.com/XIU2/TrackersListCollection",
-    "createdAt": "03-10-2019",
-    "pushedAt": "24-02-2025",
-    "primaryLanguage": null,
-    "pullRequests": {
-      "totalCount": 5
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 0
-    },
-    "closedIssues": {
-      "totalCount": 0
-    },
-    "daysSinceUpdate": 0,
-    "repositoryAge": 1971
-  },
-  {
     "name": "it-tools",
     "description": "Collection of handy online tools for developers, with great UX. ",
     "url": "https://github.com/CorentinTh/it-tools",
@@ -21500,6 +21478,28 @@
     },
     "daysSinceUpdate": 5,
     "repositoryAge": 1786
+  },
+  {
+    "name": "TrackersListCollection",
+    "description": "🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！",
+    "url": "https://github.com/XIU2/TrackersListCollection",
+    "createdAt": "03-10-2019",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": null,
+    "pullRequests": {
+      "totalCount": 5
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 0
+    },
+    "closedIssues": {
+      "totalCount": 0
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 1971
   },
   {
     "name": "dragonfly",
@@ -21847,7 +21847,7 @@
       "totalCount": 770
     },
     "issues": {
-      "totalCount": 14698
+      "totalCount": 14699
     },
     "closedIssues": {
       "totalCount": 13839
@@ -22024,7 +22024,7 @@
     "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
     "url": "https://github.com/AvaloniaUI/Avalonia",
     "createdAt": "05-12-2013",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "C#"
     },
@@ -22035,12 +22035,12 @@
       "totalCount": 98
     },
     "issues": {
-      "totalCount": 7509
+      "totalCount": 7510
     },
     "closedIssues": {
       "totalCount": 5921
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 4099
   },
   {
@@ -22107,7 +22107,7 @@
       "totalCount": 120
     },
     "issues": {
-      "totalCount": 1347
+      "totalCount": 1348
     },
     "closedIssues": {
       "totalCount": 1254
@@ -22164,30 +22164,6 @@
     "repositoryAge": 3553
   },
   {
-    "name": "rust-course",
-    "description": "“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book ",
-    "url": "https://github.com/sunface/rust-course",
-    "createdAt": "07-08-2018",
-    "pushedAt": "09-01-2025",
-    "primaryLanguage": {
-      "name": "Rust"
-    },
-    "pullRequests": {
-      "totalCount": 749
-    },
-    "releases": {
-      "totalCount": 0
-    },
-    "issues": {
-      "totalCount": 206
-    },
-    "closedIssues": {
-      "totalCount": 148
-    },
-    "daysSinceUpdate": 46,
-    "repositoryAge": 2393
-  },
-  {
     "name": "anoma",
     "description": "Reference implementation of Anoma",
     "url": "https://github.com/anoma/anoma",
@@ -22210,6 +22186,30 @@
     },
     "daysSinceUpdate": 3,
     "repositoryAge": 1483
+  },
+  {
+    "name": "rust-course",
+    "description": "“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book ",
+    "url": "https://github.com/sunface/rust-course",
+    "createdAt": "07-08-2018",
+    "pushedAt": "09-01-2025",
+    "primaryLanguage": {
+      "name": "Rust"
+    },
+    "pullRequests": {
+      "totalCount": 749
+    },
+    "releases": {
+      "totalCount": 0
+    },
+    "issues": {
+      "totalCount": 206
+    },
+    "closedIssues": {
+      "totalCount": 148
+    },
+    "daysSinceUpdate": 46,
+    "repositoryAge": 2393
   },
   {
     "name": "mongo",
@@ -22371,7 +22371,7 @@
       "totalCount": 274
     },
     "issues": {
-      "totalCount": 10315
+      "totalCount": 10318
     },
     "closedIssues": {
       "totalCount": 8687
@@ -22792,12 +22792,12 @@
     "description": "Cross-platform, fast, feature-rich, GPU based terminal",
     "url": "https://github.com/kovidgoyal/kitty",
     "createdAt": "16-10-2016",
-    "pushedAt": "23-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Python"
     },
     "pullRequests": {
-      "totalCount": 1079
+      "totalCount": 1080
     },
     "releases": {
       "totalCount": 121
@@ -22808,7 +22808,7 @@
     "closedIssues": {
       "totalCount": 5883
     },
-    "daysSinceUpdate": 1,
+    "daysSinceUpdate": 0,
     "repositoryAge": 3053
   },
   {
@@ -22834,6 +22834,30 @@
     },
     "daysSinceUpdate": 110,
     "repositoryAge": 2841
+  },
+  {
+    "name": "MinerU",
+    "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+    "url": "https://github.com/opendatalab/MinerU",
+    "createdAt": "29-02-2024",
+    "pushedAt": "24-02-2025",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pullRequests": {
+      "totalCount": 600
+    },
+    "releases": {
+      "totalCount": 91
+    },
+    "issues": {
+      "totalCount": 1004
+    },
+    "closedIssues": {
+      "totalCount": 942
+    },
+    "daysSinceUpdate": 0,
+    "repositoryAge": 361
   },
   {
     "name": "khoj",
@@ -22882,30 +22906,6 @@
     },
     "daysSinceUpdate": 253,
     "repositoryAge": 4846
-  },
-  {
-    "name": "MinerU",
-    "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
-    "url": "https://github.com/opendatalab/MinerU",
-    "createdAt": "29-02-2024",
-    "pushedAt": "23-02-2025",
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pullRequests": {
-      "totalCount": 597
-    },
-    "releases": {
-      "totalCount": 91
-    },
-    "issues": {
-      "totalCount": 1004
-    },
-    "closedIssues": {
-      "totalCount": 942
-    },
-    "daysSinceUpdate": 1,
-    "repositoryAge": 361
   },
   {
     "name": "Detectron",
@@ -23146,30 +23146,6 @@
     "repositoryAge": 3888
   },
   {
-    "name": "nginx",
-    "description": "The official NGINX Open Source repository.",
-    "url": "https://github.com/nginx/nginx",
-    "createdAt": "23-06-2015",
-    "pushedAt": "20-02-2025",
-    "primaryLanguage": {
-      "name": "C"
-    },
-    "pullRequests": {
-      "totalCount": 56
-    },
-    "releases": {
-      "totalCount": 4
-    },
-    "issues": {
-      "totalCount": 209
-    },
-    "closedIssues": {
-      "totalCount": 93
-    },
-    "daysSinceUpdate": 4,
-    "repositoryAge": 3534
-  },
-  {
     "name": "fastText",
     "description": "Library for fast text representation and classification.",
     "url": "https://github.com/facebookresearch/fastText",
@@ -23192,6 +23168,30 @@
     },
     "daysSinceUpdate": 339,
     "repositoryAge": 3145
+  },
+  {
+    "name": "nginx",
+    "description": "The official NGINX Open Source repository.",
+    "url": "https://github.com/nginx/nginx",
+    "createdAt": "23-06-2015",
+    "pushedAt": "20-02-2025",
+    "primaryLanguage": {
+      "name": "C"
+    },
+    "pullRequests": {
+      "totalCount": 56
+    },
+    "releases": {
+      "totalCount": 4
+    },
+    "issues": {
+      "totalCount": 209
+    },
+    "closedIssues": {
+      "totalCount": 93
+    },
+    "daysSinceUpdate": 4,
+    "repositoryAge": 3534
   },
   {
     "name": "ExplorerPatcher",
@@ -23770,12 +23770,12 @@
     "description": "🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.",
     "url": "https://github.com/1Panel-dev/1Panel",
     "createdAt": "19-07-2022",
-    "pushedAt": "22-02-2025",
+    "pushedAt": "24-02-2025",
     "primaryLanguage": {
       "name": "Go"
     },
     "pullRequests": {
-      "totalCount": 2958
+      "totalCount": 2961
     },
     "releases": {
       "totalCount": 79
@@ -23786,7 +23786,7 @@
     "closedIssues": {
       "totalCount": 3729
     },
-    "daysSinceUpdate": 2,
+    "daysSinceUpdate": 0,
     "repositoryAge": 951
   }
 ]
