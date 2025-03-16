@@ -1,0 +1,26 @@
+query ($queryString: String!, $pageSize: Int!, $cursor: String) {
+  search(query: $queryString, type: REPOSITORY, first: $pageSize, after: $cursor) {
+    edges {
+      node {
+        ... on Repository {
+          name
+          owner {
+            login
+          }
+          stargazerCount
+          url
+          createdAt
+          pushedAt
+          description
+          primaryLanguage {
+            name
+          }
+        }
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}
