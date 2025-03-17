@@ -1,8 +1,9 @@
 import csv
 import os
+import pandas as pd
 from utils.date_utils import calculate_days_since_update, calculate_repository_age, format_date_iso_to_dmy
-from ck_analyzer import run_ck_analysis  # Importa a função que executa o CK
-from utils.constants import TODOS_REPOS_CSV, METRICAS_CSV  # Adicionei constantes para os dois CSVs
+from ck_analyzer import run_ck_analysis
+from utils.constants import TODOS_REPOS_CSV, METRICAS_CSV
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 documentacao_dir = os.path.join(script_dir, "..", "documentacao")
@@ -46,7 +47,7 @@ def save_all_repositories_to_csv(repositories):
                 format_date_iso_to_dmy(repo["pushedAt"]),
                 repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "N/A",
                 repo["stargazerCount"],
-                repo.get("releasesCount", "N/A")
+                repo["releases"]["totalCount"]
             ])
 
     print(f"Planilha com todos os repositórios gerada: {file_path}")
@@ -92,15 +93,12 @@ def save_cloned_repositories_metrics_to_csv(repositories):
             days_since_update = calculate_days_since_update(last_update_dmy)
             repository_age = calculate_repository_age(created_at_dmy)
 
-            repo_directory = f"./repos/{repo['name']}"
-            ck_output = run_ck_analysis(repo_directory)
+            run_ck_analysis(f"./repos/{repo['name']}")
 
-            cbo, dit, lcom = extract_metrics_from_ck_output(ck_output)
+            cbo, dit, lcom, loc, comment_lines = extract_metrics_from_ck_output()
 
             stars = repo["stargazerCount"]
-            loc = repo.get("loc", "N/A")
-            comment_lines = repo.get("commentLines", "N/A")
-            releases = repo.get("releasesCount", "N/A")
+            releases = repo["releases"]["totalCount"]
 
             writer.writerow([
                 repo["name"],
@@ -122,21 +120,27 @@ def save_cloned_repositories_metrics_to_csv(repositories):
 
     print(f"Planilha com métricas dos repositórios clonados gerada: {file_path}")
 
+def extract_metrics_from_ck_output():
+    """Extrai as métricas CBO, DIT, LCOM, LOC e Linhas de Comentário do `class.csv` gerado pelo CK na pasta `codigo/`."""
+    cbo, dit, lcom, loc, comment_lines = "N/A", "N/A", "N/A", "N/A", "N/A"
 
-def extract_metrics_from_ck_output(ck_output):
-    """Extrai as métricas CBO, DIT e LCOM da saída do CK"""
-    cbo = "N/A"
-    dit = "N/A"
-    lcom = "N/A"
+    if os.path.exists("class.csv"):
+        try:
+            df_class = pd.read_csv("class.csv")
 
-    if ck_output:
-        lines = ck_output.splitlines()
-        for line in lines:
-            parts = line.split(",")
-            if len(parts) >= 4:
-                cbo = parts[1].strip()
-                dit = parts[2].strip()
-                lcom = parts[3].strip()
-                break
+            if not df_class.empty:
+                if "cbo" in df_class.columns:
+                    cbo = round(df_class["cbo"].mean(), 2)
+                if "dit" in df_class.columns:
+                    dit = round(df_class["dit"].mean(), 2)
+                if "lcom" in df_class.columns:
+                    lcom = round(df_class["lcom"].mean(), 2)
+                if "loc" in df_class.columns:
+                    loc = int(df_class["loc"].sum())
+                if "logStatementsQty" in df_class.columns:
+                    comment_lines = int(df_class["logStatementsQty"].sum())
 
-    return cbo, dit, lcom
+        except Exception as e:
+            print(f"Erro ao processar {"class.csv"}: {e}")
+
+    return cbo, dit, lcom, loc, comment_lines

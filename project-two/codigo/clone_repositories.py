@@ -2,7 +2,6 @@ import git
 import os
 import random
 
-
 def clone_repository(repo_url, clone_dir):
     """Clona o repositório no diretório especificado"""
     if not os.path.exists(clone_dir):

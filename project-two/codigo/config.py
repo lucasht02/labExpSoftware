@@ -11,4 +11,4 @@ HEADERS = {
 
 URL = "https://api.github.com/graphql"
 PAGE_SIZE = 25
-MAX_REPOSITORIES = 100
+MAX_REPOSITORIES = 1000

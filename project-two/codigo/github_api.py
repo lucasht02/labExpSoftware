@@ -32,7 +32,6 @@ def fetch_repositories():
                 print("Erros na query:", result['errors'])
                 break
 
-            # Processa os dados retornados
             search_data = result['data']['search']
             for edge in search_data['edges']:
                 repositories.append(edge['node'])

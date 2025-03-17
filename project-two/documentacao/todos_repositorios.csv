@@ -1,0 +1,1001 @@
+Nome do Repositório,Descrição,URL,Criado em,Última Atualização,Linguagem Principal,Número de Estrelas (Popularidade),Número de Releases (Atividade)
+JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,https://github.com/Snailclimb/JavaGuide,07-05-2018,13-03-2025,Java,148711,0
+hello-algo,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",https://github.com/krahets/hello-algo,04-11-2022,14-03-2025,Java,110272,9
+java-design-patterns,Design patterns implemented in Java,https://github.com/iluwatar/java-design-patterns,09-08-2014,11-03-2025,Java,90999,0
+mall,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,https://github.com/macrozheng/mall,04-04-2018,10-03-2025,Java,79490,3
+advanced-java,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,https://github.com/doocs/advanced-java,06-10-2018,10-03-2025,Java,77238,1
+spring-boot,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",https://github.com/spring-projects/spring-boot,19-10-2012,15-03-2025,Java,76455,300
+LeetCodeAnimation,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,https://github.com/MisterBooo/LeetCodeAnimation,06-12-2018,14-08-2023,Java,75769,0
+elasticsearch,"Free and Open Source, Distributed, RESTful Search Engine",https://github.com/elastic/elasticsearch,08-02-2010,16-03-2025,Java,71997,174
+interviews,Everything you need to know to get the job.,https://github.com/kdn251/interviews,14-02-2017,13-05-2024,Java,64016,0
+Java,All Algorithms implemented in Java,https://github.com/TheAlgorithms/Java,16-07-2016,14-03-2025,Java,61093,0
+spring-framework,Spring Framework,https://github.com/spring-projects/spring-framework,08-12-2010,16-03-2025,Java,57555,327
+ghidra,Ghidra is a software reverse engineering (SRE) framework,https://github.com/NationalSecurityAgency/ghidra,01-03-2019,13-03-2025,Java,55376,42
+Stirling-PDF,#1 Locally hosted web application that allows you to perform various operations on PDF files,https://github.com/Stirling-Tools/Stirling-PDF,27-01-2023,17-03-2025,Java,54183,118
+guava,Google core libraries for Java,https://github.com/google/guava,29-05-2014,14-03-2025,Java,50586,48
+RxJava,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,https://github.com/ReactiveX/RxJava,08-01-2013,10-03-2025,Java,48042,235
+jadx,Dex to Java decompiler,https://github.com/skylot/jadx,18-03-2013,14-03-2025,Java,43185,30
+dbeaver,Free universal database tool and SQL client,https://github.com/dbeaver/dbeaver,21-10-2015,15-03-2025,Java,42261,219
+JeecgBoot,🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性,https://github.com/jeecgboot/JeecgBoot,26-11-2018,16-03-2025,Java,41864,54
+dubbo,The java implementation of Apache Dubbo. An RPC and microservice framework.,https://github.com/apache/dubbo,19-06-2012,14-03-2025,Java,40818,109
+termux-app,Termux - a terminal emulator application for Android OS extendible by variety of packages.,https://github.com/termux/termux-app,23-10-2015,15-03-2025,Java,39772,91
+MPAndroidChart,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",https://github.com/PhilJay/MPAndroidChart,25-04-2014,20-08-2024,Java,37862,44
+tutorials,Getting Started with Spring Boot 3: ,https://github.com/eugenp/tutorials,29-04-2013,16-03-2025,Java,37082,0
+arthas,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas,https://github.com/alibaba/arthas,29-08-2018,12-03-2025,Java,36056,59
+hello-algorithm,🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站,https://github.com/geekxh/hello-algorithm,29-05-2020,13-06-2023,Java,35511,0
+lottie-android,"Render After Effects animations natively on Android and iOS, Web, and React Native",https://github.com/airbnb/lottie-android,06-10-2016,04-03-2025,Java,35238,56
+halo,强大易用的开源建站工具。,https://github.com/halo-dev/halo,21-03-2018,13-03-2025,Java,34976,210
+glide,An image loading and caching library for Android focused on smooth scrolling,https://github.com/bumptech/glide,08-07-2013,13-02-2025,Java,34816,47
+netty,Netty project - an event-driven asynchronous network application framework,https://github.com/netty/netty,09-11-2010,16-03-2025,Java,33874,0
+AndroidUtilCode,:fire: Android developers should collect the following utils(updating).,https://github.com/Blankj/AndroidUtilCode,30-07-2016,15-08-2024,Java,33489,117
+spring-boot-demo,🚀一个用来深入学习并实战 Spring Boot 的项目。,https://github.com/xkcoding/spring-boot-demo,10-11-2017,24-07-2024,Java,33486,0
+leetcode,🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解,https://github.com/doocs/leetcode,16-09-2018,17-03-2025,Java,33289,21
+NewPipe,A libre lightweight streaming front-end for Android.,https://github.com/TeamNewPipe/NewPipe,03-09-2015,16-03-2025,Java,33226,135
+easyexcel,快速、简洁、解决大文件内存溢出的java处理Excel工具,https://github.com/alibaba/easyexcel,06-02-2018,29-10-2024,Java,33199,14
+zxing,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",https://github.com/zxing/zxing,12-10-2011,10-02-2025,Java,33157,31
+selenium,A browser automation framework and ecosystem.,https://github.com/SeleniumHQ/selenium,14-01-2013,17-03-2025,Java,31833,102
+nacos,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",https://github.com/alibaba/nacos,15-06-2018,14-03-2025,Java,30987,77
+WxJava,微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发,https://github.com/binarywang/WxJava,06-01-2016,06-03-2025,Java,30726,30
+spring-boot-examples,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ,https://github.com/ityouknow/spring-boot-examples,05-11-2016,18-11-2023,Java,30401,0
+ruoyi-vue-pro,🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！,https://github.com/YunaiV/ruoyi-vue-pro,24-01-2021,16-03-2025,Java,29661,34
+kafka,Mirror of Apache Kafka,https://github.com/apache/kafka,15-08-2011,16-03-2025,Java,29659,0
+hutool,🍬A set of tools that keep Java sweet.,https://github.com/chinabugotech/hutool,13-04-2014,11-03-2025,Java,29613,149
+apollo,Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.,https://github.com/apolloconfig/apollo,04-03-2016,03-03-2025,Java,29380,41
+canal,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,https://github.com/alibaba/canal,13-01-2013,24-01-2025,Java,28887,32
+SpringAll,循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc,https://github.com/wuyouzhuguli/SpringAll,02-05-2018,31-05-2024,Java,28659,0
+xxl-job,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,https://github.com/xuxueli/xxl-job,28-11-2015,04-03-2025,Java,28445,36
+spring-cloud-alibaba,Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.,https://github.com/alibaba/spring-cloud-alibaba,01-12-2017,04-12-2024,Java,28305,47
+druid,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池,https://github.com/alibaba/druid,03-11-2011,13-03-2025,Java,28088,51
+vhr,微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。,https://github.com/lenve/vhr,04-01-2018,25-11-2024,Java,27651,0
+JCSprout,"👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",https://github.com/crossoverJie/JCSprout,17-12-2017,21-05-2024,Java,27104,0
+miaosha,⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓,https://github.com/qiurunze123/miaosha,14-09-2018,06-06-2024,Java,26276,0
+keycloak,Open Source Identity and Access Management For Modern Applications and Services,https://github.com/keycloak/keycloak,02-07-2013,17-03-2025,Java,25955,76
+Telegram,Telegram for Android source,https://github.com/DrKLO/Telegram,25-10-2013,10-03-2025,Java,25902,95
+fastjson,"FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",https://github.com/alibaba/fastjson,03-11-2011,16-07-2024,Java,25775,84
+incubator-seata,":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",https://github.com/apache/incubator-seata,28-12-2018,16-03-2025,Java,25544,42
+butterknife,Bind Android views and callbacks to fields and methods.,https://github.com/JakeWharton/butterknife,05-03-2013,02-09-2023,Java,25532,0
+toBeTopJavaer,To Be Top Javaer - Java工程师成神之路,https://github.com/hollischuang/toBeTopJavaer,25-10-2018,03-01-2024,Java,25421,0
+SmartRefreshLayout,🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。,https://github.com/scwang90/SmartRefreshLayout,02-06-2017,04-12-2024,Java,25048,14
+proxyee-down,http下载工具，基于http代理，支持多连接分块下载,https://github.com/proxyee-down-org/proxyee-down,25-10-2017,16-07-2024,Java,24905,49
+EventBus,"Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",https://github.com/greenrobot/EventBus,16-07-2012,21-02-2024,Java,24739,7
+flink,Apache Flink,https://github.com/apache/flink,07-06-2014,14-03-2025,Java,24634,0
+Hystrix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",https://github.com/Netflix/Hystrix,19-11-2012,17-10-2023,Java,24261,79
+skywalking,"APM, Application Performance Monitoring System",https://github.com/apache/skywalking,07-11-2015,16-03-2025,Java,24152,61
+libgdx,Desktop/Android/HTML5/iOS Java game development framework,https://github.com/libgdx/libgdx,10-08-2012,16-03-2025,Java,23820,13
+bazel,"a fast, scalable, multi-language and extensible build system",https://github.com/bazelbuild/bazel,12-06-2014,15-03-2025,Java,23778,186
+jenkins,Jenkins automation server,https://github.com/jenkinsci/jenkins,22-11-2010,16-03-2025,Java,23752,404
+redisson,"Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",https://github.com/redisson/redisson,11-01-2014,14-03-2025,Java,23664,166
+gson,A Java serialization/deserialization library to convert Java Objects into JSON and back,https://github.com/google/gson,19-03-2015,16-03-2025,Java,23614,9
+Mindustry,The automation tower defense RTS,https://github.com/Anuken/Mindustry,30-04-2017,09-03-2025,Java,23473,160
+openapi-generator,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",https://github.com/OpenAPITools/openapi-generator,12-05-2018,16-03-2025,Java,23091,70
+Sentinel,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",https://github.com/alibaba/Sentinel,04-04-2018,24-10-2024,Java,22628,25
+source-code-hunter,😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等,https://github.com/doocs/source-code-hunter,28-10-2019,12-02-2025,Java,22545,0
+FizzBuzzEnterpriseEdition,FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,24-11-2012,15-07-2024,Java,22206,0
+ExoPlayer,This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media,https://github.com/google/ExoPlayer,13-06-2014,07-08-2024,Java,21799,28
+SmartTube,Advanced player for set-top boxes and tvs running Android OS,https://github.com/yuliskov/SmartTube,28-07-2020,16-03-2025,Java,21787,716
+rocketmq,"Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",https://github.com/apache/rocketmq,30-11-2016,15-03-2025,Java,21611,21
+awesome-system-design-resources,Learn System Design concepts and prepare for interviews using free resources.,https://github.com/ashishps1/awesome-system-design-resources,25-10-2023,04-03-2025,Java,21582,0
+eladmin,eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由,https://github.com/elunez/eladmin,14-12-2018,19-02-2025,Java,21545,1
+Apktool,A tool for reverse engineering Android apk files,https://github.com/iBotPeaches/Apktool,19-03-2012,13-03-2025,Java,21511,25
+Chat2DB,"🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",https://github.com/CodePhiliaX/Chat2DB,20-06-2023,05-03-2025,Java,20729,43
+graal,"GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",https://github.com/oracle/graal,14-01-2016,16-03-2025,Java,20694,32
+jdk,JDK main-line development https://openjdk.org/projects/jdk,https://github.com/openjdk/jdk,17-09-2018,16-03-2025,Java,20593,0
+GSYVideoPlayer,"视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ",https://github.com/CarGuo/GSYVideoPlayer,13-11-2016,18-02-2025,Java,20584,48
+conductor,Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications,https://github.com/conductor-oss/conductor,08-12-2023,12-03-2025,Java,20407,19
+HikariCP,"光 HikariCP・A solid, high-performance, JDBC connection pool at last.",https://github.com/brettwooldridge/HikariCP,08-10-2013,13-12-2024,Java,20311,0
+DoKit,一款面向泛前端产品研发全生命周期的效率平台。,https://github.com/didi/DoKit,14-08-2018,06-02-2025,Java,20289,10
+shardingsphere,"Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",https://github.com/apache/shardingsphere,18-01-2016,16-03-2025,Java,20115,58
+mybatis-3,MyBatis SQL mapper framework for Java,https://github.com/mybatis/mybatis-3,14-02-2013,15-03-2025,Java,19995,46
+RxAndroid,RxJava bindings for Android,https://github.com/ReactiveX/RxAndroid,19-08-2014,07-08-2024,Java,19867,20
+dataease,🔥 人人可用的开源 BI 工具，数据可视化神器。,https://github.com/dataease/dataease,02-02-2021,15-03-2025,Java,19580,91
+litemall,又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端,https://github.com/linlinjava/litemall,22-03-2018,04-01-2025,Java,19531,8
+SpringBoot-Labs,一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024,https://github.com/yudaocode/SpringBoot-Labs,12-09-2018,28-04-2024,Java,19460,0
+LSPosed,LSPosed Framework,https://github.com/LSPosed/LSPosed,12-12-2020,04-03-2025,Java,19443,39
+PhotoView,"Implementation of ImageView for Android that supports zooming, by various touch gestures.",https://github.com/Baseflow/PhotoView,17-07-2012,25-03-2022,Java,18831,5
+cat,"CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",https://github.com/dianping/cat,05-12-2012,04-01-2025,Java,18807,3
+DSA-Bootcamp-Java,"This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",https://github.com/kunal-kushwaha/DSA-Bootcamp-Java,30-07-2021,18-08-2024,Java,18546,0
+thingsboard,"Open-source IoT Platform - Device management, data collection, processing and visualization.",https://github.com/thingsboard/thingsboard,01-12-2016,14-03-2025,Java,18417,65
+SpringCloudLearning,《史上最简单的Spring Cloud教程源码》,https://github.com/forezp/SpringCloudLearning,08-04-2017,12-04-2021,Java,17925,0
+Algorithms,A collection of algorithms and data structures,https://github.com/williamfiset/Algorithms,18-03-2017,30-12-2024,Java,17750,0
+intellij-community,IntelliJ IDEA Community Edition & IntelliJ Platform,https://github.com/JetBrains/intellij-community,30-09-2011,16-03-2025,Java,17735,0
+antlr4,"ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",https://github.com/antlr/antlr4,04-02-2010,10-03-2025,Java,17687,31
+disruptor,High Performance Inter-Thread Messaging Library,https://github.com/LMAX-Exchange/disruptor,21-09-2012,16-02-2025,Java,17670,14
+APIJSON,"🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users",https://github.com/Tencent/APIJSON,21-11-2016,16-03-2025,Java,17528,107
+tinker,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",https://github.com/Tencent/tinker,06-09-2016,21-01-2025,Java,17255,59
+Sa-Token,一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0,https://github.com/dromara/Sa-Token,03-02-2020,14-03-2025,Java,17202,34
+zipkin,Zipkin is a distributed tracing system,https://github.com/openzipkin/zipkin,06-06-2012,21-02-2025,Java,17143,96
+fresco,An Android library for managing images and the memory they use.,https://github.com/facebook/fresco,02-03-2015,16-03-2025,Java,17099,55
+yudao-cloud,ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！,https://github.com/YunaiV/yudao-cloud,02-05-2019,16-03-2025,Java,16893,20
+analysis-ik,"🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.",https://github.com/infinilabs/analysis-ik,16-12-2011,14-02-2025,Java,16863,1
+JustAuth,"🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!",https://github.com/justauth/JustAuth,31-01-2019,14-12-2024,Java,16797,46
+Android-Universal-Image-Loader,"Powerful and flexible library for loading, caching and displaying images on Android.",https://github.com/nostra13/Android-Universal-Image-Loader,27-11-2011,15-08-2024,Java,16777,0
+java8-tutorial,Modern Java - A Guide to Java 8,https://github.com/winterbe/java8-tutorial,16-03-2014,11-08-2023,Java,16771,0
+zheng,基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。,https://github.com/shuzheng/zheng,04-10-2016,16-12-2022,Java,16712,0
+mybatis-plus,An powerful enhanced toolkit of MyBatis for simplify development,https://github.com/baomidou/mybatis-plus,18-08-2016,15-03-2025,Java,16711,34
+material-components-android,Modular and customizable Material Design UI components for Android,https://github.com/material-components/material-components-android,05-12-2016,11-03-2025,Java,16615,102
+kestra,":zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",https://github.com/kestra-io/kestra,24-08-2019,16-03-2025,Java,16478,202
+Grasscutter,A server software reimplementation for a certain anime game.,https://github.com/Grasscutters/Grasscutter,17-04-2022,30-11-2024,Java,16474,20
+springboot-learning-example,spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。,https://github.com/JeffLi1993/springboot-learning-example,06-02-2017,03-12-2023,Java,16442,0
+caffeine,A high performance caching library for Java,https://github.com/ben-manes/caffeine,13-12-2014,07-03-2025,Java,16378,69
+DataX,DataX是阿里云DataWorks数据集成的开源版本。,https://github.com/alibaba/DataX,18-01-2018,18-02-2025,Java,16291,7
+BigData-Notes,大数据入门指南  :star:,https://github.com/heibaiying/BigData-Notes,10-03-2019,05-01-2024,Java,16256,0
+presto,The official home of the Presto distributed SQL query engine for big data,https://github.com/prestodb/presto,09-08-2012,16-03-2025,Java,16251,0
+Ehviewer_CN_SXJ,ehviewer，用爱发电，快乐前行,https://github.com/xiaojieonly/Ehviewer_CN_SXJ,09-11-2020,06-03-2025,Java,16194,99
+SpringBoot-Learning,《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！,https://github.com/dyc87112/SpringBoot-Learning,21-08-2016,17-12-2023,Java,15769,0
+VirtualXposed,"A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",https://github.com/android-hacker/VirtualXposed,01-12-2017,08-03-2024,Java,15622,50
+Android-CleanArchitecture,This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.,https://github.com/android10/Android-CleanArchitecture,19-08-2014,28-04-2023,Java,15532,0
+tech-interview-for-developer,👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖,https://github.com/gyoogle/tech-interview-for-developer,09-06-2019,19-11-2024,Java,15447,0
+mockito,Most popular Mocking framework for unit tests written in Java,https://github.com/mockito/mockito,13-10-2012,15-03-2025,Java,15063,219
+questdb,"QuestDB is a high performance, open-source, time-series database",https://github.com/questdb/questdb,28-04-2014,16-03-2025,Java,14980,84
+hadoop,Apache Hadoop,https://github.com/apache/hadoop,28-08-2014,15-03-2025,Java,14980,0
+bytecode-viewer,"A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",https://github.com/Konloch/bytecode-viewer,14-10-2014,09-03-2025,Java,14898,60
+flink-learning,flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》,https://github.com/zhisheng17/flink-learning,01-01-2019,12-03-2025,Java,14692,0
+CircleImageView,A circular ImageView for Android,https://github.com/hdodenhof/CircleImageView,17-01-2014,03-05-2024,Java,14542,0
+pulsar,Apache Pulsar - distributed pub-sub messaging system,https://github.com/apache/pulsar,28-06-2016,14-03-2025,Java,14495,102
+ARouter,💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架),https://github.com/alibaba/ARouter,14-12-2016,11-09-2023,Java,14474,16
+QMUI_Android,提高 Android UI 开发效率的 UI 库,https://github.com/Tencent/QMUI_Android,21-04-2017,05-11-2024,Java,14473,35
+vert.x,Vert.x is a tool-kit for building reactive applications on the JVM,https://github.com/eclipse-vertx/vert.x,17-06-2011,12-03-2025,Java,14425,0
+logstash,"Logstash - transport and process your logs, events, or other data",https://github.com/elastic/logstash,18-11-2010,14-03-2025,Java,14379,174
+jd-gui,A standalone Java Decompiler GUI,https://github.com/java-decompiler/jd-gui,25-03-2015,08-07-2024,Java,14372,18
+Arduino,Arduino IDE 1.x,https://github.com/arduino/Arduino,17-09-2010,18-10-2024,Java,14277,37
+quarkus,Quarkus: Supersonic Subatomic Java. ,https://github.com/quarkusio/quarkus,06-07-2018,14-03-2025,Java,14218,368
+neo4j,Graphs for Everyone,https://github.com/neo4j/neo4j,12-11-2012,11-03-2025,Java,13960,72
+supertokens-core,Open source alternative to Auth0 / Firebase Auth / AWS Cognito ,https://github.com/supertokens/supertokens-core,05-01-2020,13-03-2025,Java,13933,82
+deeplearning4j,"Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...",https://github.com/deeplearning4j/deeplearning4j,27-11-2013,15-03-2025,Java,13859,0
+logger,"✔️ Simple, pretty and powerful logger for android",https://github.com/orhanobut/logger,20-03-2015,14-09-2022,Java,13848,16
+jib,🏗 Build container images for your Java applications.,https://github.com/GoogleContainerTools/jib,22-01-2018,14-03-2025,Java,13829,164
+onedev,"Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.",https://github.com/theonedev/onedev,06-11-2018,15-03-2025,Java,13772,390
+zuul,"Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",https://github.com/Netflix/zuul,13-03-2013,14-03-2025,Java,13647,15
+druid,Apache Druid: a high performance real-time analytics database.,https://github.com/apache/druid,23-10-2012,14-03-2025,Java,13638,64
+Luban,Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法,https://github.com/Curzibn/Luban,24-07-2016,06-11-2021,Java,13627,6
+spring-analysis,Spring源码阅读,https://github.com/seaswalker/spring-analysis,09-09-2016,24-03-2023,Java,13605,0
+AndroidAutoSize,🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).,https://github.com/JessYanCoding/AndroidAutoSize,17-08-2018,28-05-2023,Java,13583,14
+pinpoint,"APM, (Application Performance Management) tool for large-scale distributed systems. ",https://github.com/pinpoint-apm/pinpoint,20-10-2014,14-03-2025,Java,13540,59
+tink,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",https://github.com/tink-crypto/tink,06-06-2014,17-04-2024,Java,13521,21
+Material-Animations,Android Transition animations explanation with examples.,https://github.com/lgvalle/Material-Animations,08-03-2015,02-04-2019,Java,13512,0
+Android-PickerView,"This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",https://github.com/Bigkoo/Android-PickerView,28-12-2014,30-12-2022,Java,13470,0
+piggymetrics,"Microservice Architecture with Spring Boot, Spring Cloud and Docker",https://github.com/sqshq/piggymetrics,29-03-2015,17-05-2024,Java,13411,2
+PictureSelector,Picture Selector Library for Android or 图片选择器,https://github.com/LuckSiege/PictureSelector,04-01-2017,11-05-2024,Java,13403,116
+doris,"Apache Doris is an easy-to-use, high performance and unified analytics database.",https://github.com/apache/doris,10-08-2017,16-03-2025,Java,13326,64
+dolphinscheduler,Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code,https://github.com/apache/dolphinscheduler,01-03-2019,14-03-2025,Java,13321,52
+zaproxy,The ZAP by Checkmarx Core project,https://github.com/zaproxy/zaproxy,03-06-2015,11-03-2025,Java,13315,9
+mit-deep-learning-book-pdf,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville",https://github.com/janishar/mit-deep-learning-book-pdf,07-04-2017,09-10-2023,Java,13202,3
+Java,27天成为Java大神,https://github.com/DuGuQiuBai/Java,25-11-2015,20-07-2024,Java,13192,0
+mall-learning,mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。,https://github.com/macrozheng/mall-learning,12-04-2019,15-09-2024,Java,13085,0
+lombok,Very spicy additions to the Java programming language.,https://github.com/projectlombok/lombok,08-06-2009,07-03-2025,Java,13062,0
+banner,🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。,https://github.com/youth5201314/banner,22-04-2016,11-01-2024,Java,12969,0
+languagetool,Style and Grammar Checker for 25+ Languages,https://github.com/languagetool-org/languagetool,08-08-2013,16-03-2025,Java,12880,0
+conductor,Conductor is a microservices orchestration engine.,https://github.com/Netflix/conductor,07-12-2016,22-12-2023,Java,12791,319
+stetho,"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.",https://github.com/facebook/stetho,22-01-2015,26-10-2024,Java,12693,13
+greenDAO,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.,https://github.com/greenrobot/greenDAO,22-10-2011,30-04-2024,Java,12624,8
+dex2jar,Tools to work with android .dex and java .class files,https://github.com/pxb1988/dex2jar,16-03-2015,21-07-2024,Java,12584,8
+guice,"Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.",https://github.com/google/guice,28-05-2014,11-03-2025,Java,12579,19
+Matisse,:fireworks: A well-designed local image and video selector for Android,https://github.com/zhihu/Matisse,13-04-2017,15-05-2023,Java,12547,15
+cryptomator,"Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",https://github.com/cryptomator/cryptomator,02-02-2014,14-03-2025,Java,12526,183
+eureka,AWS Service registry for resilient mid-tier load balancing and failover.,https://github.com/Netflix/eureka,26-07-2012,26-02-2025,Java,12504,150
+spring-boot-admin,Admin UI for administration of spring boot applications,https://github.com/codecentric/spring-boot-admin,25-07-2014,15-03-2025,Java,12497,131
+AndroidViewAnimations,Cute view animation collection.,https://github.com/daimajia/AndroidViewAnimations,23-06-2014,18-08-2021,Java,12453,9
+zookeeper,Apache ZooKeeper,https://github.com/apache/zookeeper,27-03-2009,12-03-2025,Java,12409,0
+AndroidSwipeLayout,The Most Powerful Swipe Layout!,https://github.com/daimajia/AndroidSwipeLayout,25-08-2014,10-11-2023,Java,12399,18
+Mybatis-PageHelper,Mybatis通用分页插件,https://github.com/pagehelper/Mybatis-PageHelper,09-06-2014,30-09-2024,Java,12281,14
+COLA,🥤 COLA: Clean Object-oriented & Layered Architecture,https://github.com/alibaba/COLA,06-02-2018,26-11-2024,Java,12280,11
+mall-swarm,mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。,https://github.com/macrozheng/mall-swarm,25-11-2019,26-01-2025,Java,12187,3
+jedis,Redis Java client,https://github.com/redis/jedis,11-06-2010,10-03-2025,Java,11990,109
+uCrop,Image Cropping Library for Android,https://github.com/Yalantis/uCrop,05-01-2016,29-11-2024,Java,11958,18
+metersphere,MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。,https://github.com/metersphere/metersphere,03-02-2020,14-03-2025,Java,11896,175
+VasSonic,"VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. ",https://github.com/Tencent/VasSonic,01-08-2017,07-04-2023,Java,11848,10
+matrix,"Matrix is a plugin style, non-invasive APM system developed by WeChat.",https://github.com/Tencent/matrix,11-12-2018,23-07-2024,Java,11761,16
+android-interview-questions,Your Cheat Sheet For Android Interview - Android Interview Questions and Answers,https://github.com/amitshekhariitbhu/android-interview-questions,09-07-2017,13-03-2025,Java,11717,0
+grpc-java,The Java gRPC implementation. HTTP/2 based RPC,https://github.com/grpc/grpc-java,08-12-2014,12-03-2025,Java,11642,176
+fullstack-tutorial,🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试,https://github.com/frank-lam/fullstack-tutorial,13-04-2018,02-12-2022,Java,11626,0
+webmagic,A scalable web crawler framework for Java.,https://github.com/code4craft/webmagic,23-04-2013,13-02-2025,Java,11517,33
+realm-java,Realm is a mobile database: a replacement for SQLite & ORMs,https://github.com/realm/realm-java,20-04-2012,10-01-2025,Java,11485,0
+CtCI-6th-Edition,Cracking the Coding Interview 6th Ed. Solutions,https://github.com/careercup/CtCI-6th-Edition,02-07-2015,04-08-2024,Java,11402,0
+ImmersionBar,android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62,https://github.com/gyf-dev/ImmersionBar,19-04-2017,25-03-2022,Java,11375,0
+kkFileView,Universal File Online Preview Project based on Spring-Boot,https://github.com/kekingcn/kkFileView,12-12-2017,22-01-2025,Java,11266,16
+newbee-mall,🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。,https://github.com/newbee-ltd/newbee-mall,21-09-2019,09-10-2023,Java,11265,0
+xManager,"Ad-Free, New Features & Freedom",https://github.com/Team-xManager/xManager,08-02-2021,08-01-2025,Java,11255,50
+PermissionsDispatcher,A declarative API to handle Android runtime permissions.,https://github.com/permissions-dispatcher/PermissionsDispatcher,15-08-2015,10-11-2023,Java,11228,40
+OpenRefine,"OpenRefine is a free, open source power tool for working with messy data and improving it",https://github.com/OpenRefine/OpenRefine,15-10-2012,14-03-2025,Java,11186,68
+debezium,Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.,https://github.com/debezium/debezium,22-01-2016,14-03-2025,Java,11182,0
+interview,Interview questions,https://github.com/mission-peace/interview,20-07-2014,31-07-2024,Java,11137,0
+plantuml,Generate diagrams from textual description,https://github.com/plantuml/plantuml,04-11-2010,16-03-2025,Java,11112,53
+FlycoTabLayout,An Android TabLayout Lib,https://github.com/H07000223/FlycoTabLayout,09-11-2015,28-05-2023,Java,11089,4
+jsoup,"jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",https://github.com/jhy/jsoup,19-12-2009,12-03-2025,Java,11080,17
+FileDownloader,Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process,https://github.com/lingochamp/FileDownloader,22-12-2015,04-08-2024,Java,11079,65
+SlidingMenu,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!,https://github.com/jfeinstein10/SlidingMenu,30-06-2012,19-09-2021,Java,11061,0
+androidannotations,Fast Android Development. Easy maintainance.,https://github.com/androidannotations/androidannotations,06-01-2012,31-05-2022,Java,11044,0
+cas,Apereo CAS - Identity & Single Sign On for all earthlings and beyond.,https://github.com/apereo/cas,09-09-2011,16-03-2025,Java,11040,289
+SmarterStreaming,业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下150~300ms)。,https://github.com/daniulive/SmarterStreaming,26-03-2016,11-03-2025,Java,11017,0
+trino,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",https://github.com/trinodb/trino,19-01-2019,17-03-2025,Java,10994,0
+javapoet,A Java API for generating .java source files.,https://github.com/square/javapoet,01-02-2013,10-10-2024,Java,10853,0
+vlayout,"Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. ",https://github.com/alibaba/vlayout,27-02-2017,14-07-2021,Java,10790,34
+platform_frameworks_base,Sem descrição,https://github.com/aosp-mirror/platform_frameworks_base,21-10-2008,16-03-2025,Java,10706,0
+jvm,🤗 JVM 底层原理最全知识总结,https://github.com/doocs/jvm,23-06-2018,06-03-2025,Java,10652,0
+android-async-http,"An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.",https://github.com/android-async-http/android-async-http,20-02-2011,17-04-2023,Java,10632,3
+Paper,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",https://github.com/PaperMC/Paper,22-01-2016,16-03-2025,Java,10630,0
+Java-WebSocket,A barebones WebSocket client and server implementation written in 100% Java.,https://github.com/TooTallNate/Java-WebSocket,20-01-2010,17-02-2025,Java,10619,19
+okhttp-OkGo,OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能,https://github.com/jeasonlzy/okhttp-OkGo,15-01-2016,06-09-2022,Java,10610,14
+clojure,The Clojure programming language,https://github.com/clojure/clojure,29-06-2010,25-02-2025,Java,10571,0
+pkl,A configuration as code language with rich validation and tooling.,https://github.com/apple/pkl,19-01-2024,12-03-2025,Java,10539,13
+jjwt,Java JWT: JSON Web Token for Java and Android,https://github.com/jwtk/jjwt,13-09-2014,13-03-2025,Java,10538,7
+auto,A collection of source code generators for Java.,https://github.com/google/auto,22-05-2013,14-03-2025,Java,10489,66
+JiaoZiVideoPlayer,MediaPlayer exoplayer ijkplayer ffmpeg,https://github.com/lipangit/JiaoZiVideoPlayer,06-02-2016,14-09-2020,Java,10486,78
+RxPermissions,Android runtime permissions powered by RxJava2,https://github.com/tbruyelle/RxPermissions,29-09-2015,11-05-2022,Java,10482,11
+kafka-ui,Open-Source Web UI for Apache Kafka Management,https://github.com/provectus/kafka-ui,26-11-2019,26-07-2024,Java,10446,25
+VirtualApp,Virtual Engine for Android(Support 14.0 in business version),https://github.com/asLody/VirtualApp,06-07-2016,26-02-2025,Java,10445,0
+datahub,The Metadata Platform for your Data and AI Stack,https://github.com/datahub-project/datahub,18-11-2015,16-03-2025,Java,10413,96
+OpenSearch,🔎 Open source distributed and RESTful search engine.,https://github.com/opensearch-project/OpenSearch,29-01-2021,16-03-2025,Java,10360,52
+MVPArms,"⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架). ",https://github.com/JessYanCoding/MVPArms,06-08-2016,22-03-2023,Java,10281,25
+Activiti,"Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",https://github.com/Activiti/Activiti,13-09-2012,15-03-2025,Java,10267,1000
+ViewPagerIndicator,Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.,https://github.com/JakeWharton/ViewPagerIndicator,04-08-2011,26-11-2017,Java,10121,0
+resilience4j,Resilience4j is a fault tolerance library designed for Java8 and functional programming,https://github.com/resilience4j/resilience4j,03-06-2015,24-02-2025,Java,10035,35
+lawnchair,No clever tagline needed.,https://github.com/LawnchairLauncher/lawnchair,03-03-2017,16-03-2025,Java,9968,29
+Aegis,"A free, secure and open source app for Android to manage your 2-step verification tokens.",https://github.com/beemdevelopment/Aegis,15-08-2016,25-02-2025,Java,9943,69
+zfile,在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载,https://github.com/zfile-dev/zfile,19-08-2019,26-10-2024,Java,9925,61
+glide-transformations,An Android transformation library providing a variety of image transformations for Glide.,https://github.com/wasabeef/glide-transformations,09-01-2015,08-03-2022,Java,9917,0
+easypermissions,Simplify Android M system permissions,https://github.com/googlesamples/easypermissions,22-12-2015,01-08-2023,Java,9893,12
+aws-doc-sdk-examples,"Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.",https://github.com/awsdocs/aws-doc-sdk-examples,18-08-2016,14-03-2025,Java,9880,0
+paascloud-master,spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。,https://github.com/paascloud/paascloud-master,17-03-2018,09-10-2023,Java,9870,0
+spider-flow,新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。,https://github.com/ssssssss-team/spider-flow,27-03-2020,14-06-2023,Java,9850,2
+JsBridge,"android java and javascript bridge, inspired by wechat webview jsbridge",https://github.com/uknownothingsnow/JsBridge,26-02-2015,13-05-2024,Java,9823,0
+CoreNLP,"CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",https://github.com/stanfordnlp/CoreNLP,27-06-2013,09-03-2025,Java,9816,17
+MagicIndicator,"A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip   ——   强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等），http://www.jianshu.com/p/f3022211821c",https://github.com/hackware1993/MagicIndicator,26-06-2016,07-12-2024,Java,9765,12
+AVLoadingIndicatorView,DEPRECATED,https://github.com/HarlonWang/AVLoadingIndicatorView,24-10-2015,06-04-2023,Java,9752,1
+Fragmentation,[DEPRECATED] A powerful library that manage Fragment for Android,https://github.com/YoKeyword/Fragmentation,23-02-2016,30-05-2024,Java,9726,30
+starrocks,"The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",https://github.com/StarRocks/starrocks,04-09-2021,15-03-2025,Java,9688,133
+spark,A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin,https://github.com/perwendel/spark,05-05-2011,08-10-2023,Java,9653,0
+Android-ObservableScrollView,Android library to observe scroll events on scrollable views.,https://github.com/ksoichiro/Android-ObservableScrollView,08-11-2014,01-06-2021,Java,9650,0
+react-native-camera,A Camera component for React Native. Also supports barcode scanning!,https://github.com/react-native-camera/react-native-camera,01-04-2015,07-06-2023,Java,9648,144
+spring-boot-api-project-seed,:seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~,https://github.com/lihengming/spring-boot-api-project-seed,23-06-2017,17-12-2023,Java,9624,4
+feign,Feign makes writing java http clients easier,https://github.com/OpenFeign/feign,26-06-2013,14-03-2025,Java,9611,38
+android-Ultra-Pull-To-Refresh,Ultra Pull to Refresh for Android. Support all the views.,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh,13-11-2014,28-05-2023,Java,9581,8
+android-gif-drawable,Views and Drawable for displaying animated GIFs on Android,https://github.com/koral--/android-gif-drawable,30-01-2013,31-07-2024,Java,9577,61
+DanmakuFlameMaster,Android开源弹幕引擎·烈焰弹幕使 ～,https://github.com/bilibili/DanmakuFlameMaster,11-08-2013,27-02-2020,Java,9569,5
+GmsCore,Free implementation of Play Services,https://github.com/microg/GmsCore,23-04-2014,14-03-2025,Java,9549,38
+Mycat-Server,Sem descrição,https://github.com/MyCATApache/Mycat-Server,04-12-2014,15-01-2024,Java,9541,7
+AndroidSlidingUpPanel,This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.,https://github.com/umano/AndroidSlidingUpPanel,31-05-2013,21-07-2022,Java,9509,8
+Signal-Server,"Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",https://github.com/signalapp/Signal-Server,09-12-2013,13-03-2025,Java,9426,0
+sonarqube,Continuous Inspection,https://github.com/SonarSource/sonarqube,05-01-2011,13-03-2025,Java,9397,59
+PocketHub,PocketHub Android App,https://github.com/pockethub/PocketHub,08-09-2011,06-06-2023,Java,9386,1
+cim,📲cim(cross IM) 适用于开发者的分布式即时通讯系统,https://github.com/crossoverJie/cim,20-05-2018,20-11-2024,Java,9375,8
+AgentWeb, AgentWeb is a powerful library based on Android WebView.,https://github.com/Justson/AgentWeb,12-05-2017,09-12-2023,Java,9305,21
+spring-reading,涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。,https://github.com/xuchengsheng/spring-reading,15-09-2023,29-07-2024,Java,9275,0
+testing-samples,A collection of samples demonstrating different frameworks and techniques for automated testing,https://github.com/android/testing-samples,11-10-2014,09-12-2024,Java,9242,0
+AndroidNote,安卓学习笔记,https://github.com/GcsSloop/AndroidNote,04-01-2016,18-03-2024,Java,9229,0
+CalendarView,"RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。",https://github.com/huanghaibin-dev/CalendarView,11-03-2017,07-02-2025,Java,9218,1
+cassandra,Apache Cassandra®,https://github.com/apache/cassandra,21-05-2009,15-03-2025,Java,9082,0
+android-gpuimage,Android filters based on OpenGL (idea from GPUImage for iOS),https://github.com/cats-oss/android-gpuimage,04-10-2012,03-08-2022,Java,9067,0
+JsonPath,Java JsonPath implementation,https://github.com/json-path/JsonPath,24-01-2011,30-07-2024,Java,9062,10
+spring-security,Spring Security,https://github.com/spring-projects/spring-security,10-01-2012,14-03-2025,Java,9019,210
+VirtualAPK,A powerful and lightweight plugin framework for Android,https://github.com/didi/VirtualAPK,29-06-2017,13-07-2023,Java,9016,4
+MaterialDesignLibrary,This is a library with components of Android L to you use in android 2.2,https://github.com/navasmdc/MaterialDesignLibrary,30-09-2014,28-05-2023,Java,8985,3
+EhViewer,[DEPRECATED] An Unofficial E-Hentai Application for Android,https://github.com/seven332/EhViewer,14-05-2014,09-08-2019,Java,8964,97
+Jetpack-MVVM-Best-Practice,"难得一见 Jetpack MVVM 最佳实践！在 ""以简驭繁"" 代码中，对 ""视图控制器"" 乃至 ""标准化开发模式"" 形成正确、深入理解！",https://github.com/KunMinX/Jetpack-MVVM-Best-Practice,31-10-2019,07-02-2024,Java,8906,0
+awesome-leetcode-resources,Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.,https://github.com/ashishps1/awesome-leetcode-resources,25-10-2023,28-02-2025,Java,8844,0
+storm,"Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more",https://github.com/nathanmarz/storm,17-09-2011,16-08-2017,Java,8821,0
+StatusBarUtil,A util for setting status bar style on Android App.,https://github.com/laobie/StatusBarUtil,15-02-2016,24-06-2022,Java,8807,0
+Android_Data,"Some Android learning materials, hoping to help you learn Android development.",https://github.com/Freelander/Android_Data,04-04-2015,15-01-2024,Java,8772,0
+awesome-java-leetcode,:crown: LeetCode of algorithms with java solution(updating).,https://github.com/Blankj/awesome-java-leetcode,17-04-2017,10-12-2020,Java,8706,0
+Android-PullToRefresh,DEPRECATED,https://github.com/chrisbanes/Android-PullToRefresh,29-11-2011,13-10-2017,Java,8700,0
+xpipe,Access your entire server infrastructure from your local desktop,https://github.com/xpipe-io/xpipe,27-01-2023,16-03-2025,Java,8679,95
+Android-SpinKit,Android  loading animations,https://github.com/ybq/Android-SpinKit,20-03-2016,28-05-2023,Java,8650,0
+jna,Java Native Access,https://github.com/java-native-access/jna,29-04-2011,16-03-2025,Java,8648,0
+jmeter,Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services,https://github.com/apache/jmeter,26-05-2010,04-03-2025,Java,8632,10
+flyway,Flyway by Redgate • Database Migrations Made Easy.,https://github.com/flyway/flyway,14-12-2012,12-03-2025,Java,8599,244
+Calligraphy,Custom fonts in Android the easy way...,https://github.com/chrisjenx/Calligraphy,20-12-2013,21-04-2024,Java,8583,4
+AndResGuard,proguard resource for Android  by wechat team,https://github.com/shwenzhang/AndResGuard,11-10-2015,20-10-2023,Java,8581,4
+buck,"A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",https://github.com/facebook/buck,17-04-2013,25-10-2023,Java,8559,57
+shenyu,"Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",https://github.com/apache/shenyu,11-07-2018,15-03-2025,Java,8550,11
+epoxy,Epoxy is an Android library for building complex screens in a RecyclerView,https://github.com/airbnb/epoxy,08-08-2016,07-06-2024,Java,8537,76
+junit4,A programmer-oriented testing framework for Java.,https://github.com/junit-team/junit4,13-01-2009,20-08-2024,Java,8529,13
+dropwizard,A damn simple library for building production-ready RESTful web services.,https://github.com/dropwizard/dropwizard,19-01-2011,10-03-2025,Java,8524,176
+react-native-image-picker,:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.,https://github.com/react-native-image-picker/react-native-image-picker,08-06-2015,27-02-2025,Java,8524,141
+checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",https://github.com/checkstyle/checkstyle,31-08-2013,17-03-2025,Java,8515,159
+karate,Test Automation Made Simple,https://github.com/karatelabs/karate,07-02-2017,13-03-2025,Java,8484,54
+Android-Debug-Database,A library for debugging android databases and shared preferences - Make Debugging Great Again,https://github.com/amitshekhariitbhu/Android-Debug-Database,16-11-2016,18-08-2024,Java,8462,14
+BottomBar,(Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.,https://github.com/roughike/BottomBar,16-03-2016,16-09-2021,Java,8407,4
+hsweb-framework,"hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。",https://github.com/hs-web/hsweb-framework,18-01-2016,14-03-2025,Java,8364,28
+tsunami-security-scanner,Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.,https://github.com/google/tsunami-security-scanner,03-06-2020,11-03-2025,Java,8354,25
+seatunnel,"SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",https://github.com/apache/seatunnel,05-08-2017,15-03-2025,Java,8345,49
+flowable-engine,"A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",https://github.com/flowable/flowable-engine,13-10-2016,13-03-2025,Java,8291,27
+AndroidPdfViewer,Android view for displaying PDFs rendered with PdfiumAndroid,https://github.com/DImuthuUpe/AndroidPdfViewer,02-06-2016,29-05-2024,Java,8260,0
+shardingsphere-elasticjob,Distributed scheduled job,https://github.com/apache/shardingsphere-elasticjob,11-09-2015,10-01-2025,Java,8175,30
+testcontainers-java,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",https://github.com/testcontainers/testcontainers-java,12-04-2015,13-03-2025,Java,8160,81
+atlas,A powerful Android Dynamic Component Framework.,https://github.com/alibaba/atlas,28-02-2017,27-01-2022,Java,8140,7
+MaterialViewPager,A Material Design ViewPager easy to use library,https://github.com/florent37/MaterialViewPager,24-04-2015,12-10-2018,Java,8119,11
+LitePal,An Android library that makes developers use SQLite database extremely easy.,https://github.com/guolindev/LitePal,20-02-2013,19-08-2022,Java,8109,0
+im-server,即时通讯(IM)系统,https://github.com/wildfirechat/im-server,23-01-2019,05-03-2025,Java,8093,103
+otter,阿里巴巴分布式数据库同步系统(解决中美异地机房),https://github.com/alibaba/otter,09-08-2013,25-05-2024,Java,8090,10
+beam,Apache Beam is a unified programming model for Batch and Streaming data processing.,https://github.com/apache/beam,02-02-2016,16-03-2025,Java,8040,48
+ysoserial,A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.,https://github.com/frohoff/ysoserial,28-01-2015,31-03-2024,Java,8029,1
+SimianArmy,Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,https://github.com/Netflix/SimianArmy,06-07-2012,18-12-2018,Java,7982,4
+subsampling-scale-image-view,"Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.",https://github.com/davemorrissey/subsampling-scale-image-view,26-08-2013,22-04-2024,Java,7938,21
+hugo,Annotation-triggered method call logging for your debug builds.,https://github.com/JakeWharton/hugo,25-11-2013,05-01-2022,Java,7922,0
+pentaho-kettle,Pentaho Data Integration ( ETL ) a.k.a Kettle,https://github.com/pentaho/pentaho-kettle,08-10-2013,16-03-2025,Java,7919,1
+transmittable-thread-local,"📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.",https://github.com/alibaba/transmittable-thread-local,13-10-2013,05-03-2025,Java,7874,58
+UltimateAndroidReference,:rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer,https://github.com/aritraroy/UltimateAndroidReference,10-04-2017,18-07-2024,Java,7865,0
+XPopup,"🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)",https://github.com/junixapp/XPopup,07-12-2018,01-02-2025,Java,7857,221
+HomeMirror,Android application powering the mirror in my house,https://github.com/HannahMitt/HomeMirror,23-08-2015,28-05-2023,Java,7852,0
+metrics,:chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.,https://github.com/dropwizard/metrics,26-02-2010,10-03-2025,Java,7841,125
+material-theme-jetbrains,JetBrains theme of Material Theme,https://github.com/ChrisRM/material-theme-jetbrains,23-09-2015,26-01-2022,Java,7805,17
+LSPatch,LSPatch: A non-root Xposed framework extending from LSPosed,https://github.com/LSPosed/LSPatch,01-03-2021,13-12-2023,Java,7785,9
+tomcat,Apache Tomcat,https://github.com/apache/tomcat,01-10-2011,16-03-2025,Java,7747,0
+javacv,"Java interface to OpenCV, FFmpeg, and more",https://github.com/bytedeco/javacv,21-04-2014,19-02-2025,Java,7717,12
+RxLifecycle,Lifecycle handling APIs for Android apps using RxJava,https://github.com/trello-archive/RxLifecycle,20-07-2015,23-03-2023,Java,7703,22
+react-native-svg,"SVG library for React Native, React Native Web, and plain React web projects.",https://github.com/software-mansion/react-native-svg,17-01-2016,11-03-2025,Java,7660,121
+vjtools,"The vip.com's java coding standard, libraries and tools",https://github.com/vipshop/vjtools,29-05-2018,06-09-2023,Java,7650,9
+MVVMHabit,👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。,https://github.com/goldze/MVVMHabit,21-07-2017,11-08-2022,Java,7644,3
+aeron,"Efficient reliable UDP unicast, UDP multicast, and IPC message transport",https://github.com/aeron-io/aeron,07-02-2014,14-03-2025,Java,7628,116
+graylog2-server,Free and open log management,https://github.com/Graylog2/graylog2-server,17-05-2010,17-03-2025,Java,7592,0
+MyBookshelf,阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。,https://github.com/gedoor/MyBookshelf,12-06-2018,01-04-2022,Java,7589,165
+baritone,google maps for block game,https://github.com/cabaletta/baritone,01-08-2018,14-03-2025,Java,7583,78
+android-classyshark,Android and Java bytecode viewer,https://github.com/google/android-classyshark,12-10-2015,19-05-2023,Java,7562,17
+Shadow,零反射全动态Android插件框架,https://github.com/Tencent/Shadow,13-06-2019,25-12-2024,Java,7548,5
+RxJava-Android-Samples,Learning RxJava for Android by example,https://github.com/kaushikgopal/RxJava-Android-Samples,23-07-2014,08-08-2023,Java,7538,0
+AndroidAsync,"Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.",https://github.com/koush/AndroidAsync,24-08-2012,23-11-2022,Java,7536,0
+closure-compiler,A JavaScript checker and optimizer.,https://github.com/google/closure-compiler,16-04-2014,14-03-2025,Java,7484,0
+PojavLauncher,A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.,https://github.com/PojavLauncherTeam/PojavLauncher,11-03-2020,15-03-2025,Java,7480,126
+algs4,"Algorithms, 4th edition textbook code and libraries",https://github.com/kevin-wayne/algs4,31-08-2015,06-01-2025,Java,7469,0
+hellocharts-android,"Charts library for Android compatible with API 8+, several chart types with scaling, scrolling and animations 📊",https://github.com/lecho/hellocharts-android,12-10-2014,01-06-2021,Java,7443,14
+SDE-Interview-Questions,"Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor. ",https://github.com/twowaits/SDE-Interview-Questions,25-10-2017,26-08-2022,Java,7439,1
+swagger-core,"Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API",https://github.com/swagger-api/swagger-core,05-07-2011,10-03-2025,Java,7417,112
+LeetCode,LeetCode刷题记录与面试整理,https://github.com/yuanguangxin/LeetCode,11-01-2020,17-08-2024,Java,7417,0
+PowerJob,Enterprise job scheduling middleware with distributed computing ability.,https://github.com/PowerJob/PowerJob,16-03-2020,21-01-2025,Java,7380,50
+SpringCloud-Learning,Spring Cloud基础教程，持续连载更新中,https://github.com/dyc87112/SpringCloud-Learning,21-08-2016,22-02-2023,Java,7372,0
+VBlog,V部落，Vue+SpringBoot实现的多用户博客管理平台!,https://github.com/lenve/VBlog,26-12-2017,28-05-2023,Java,7367,0
+Mapper,Mybatis Common Mapper - Easy to use,https://github.com/abel533/Mapper,21-11-2014,04-11-2024,Java,7365,8
+HMCL,"A Minecraft Launcher which is multi-functional, cross-platform and popular",https://github.com/HMCL-dev/HMCL,22-06-2015,15-03-2025,Java,7354,234
+ShortcutBadger,"An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.",https://github.com/leolin310148/ShortcutBadger,15-11-2013,14-09-2023,Java,7351,0
+RePlugin,"RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework",https://github.com/Qihoo360/RePlugin,08-06-2017,04-09-2024,Java,7306,19
+dagger,A fast dependency injector for Android and Java.,https://github.com/square/dagger,02-08-2012,26-08-2021,Java,7305,0
+Android-Bootstrap,"Bootstrap style widgets for Android, with Glyph Icons",https://github.com/Bearded-Hen/Android-Bootstrap,01-11-2013,02-09-2021,Java,7277,5
+mapstruct,An annotation processor for generating type-safe bean mappers,https://github.com/mapstruct/mapstruct,28-05-2012,09-02-2025,Java,7271,35
+sweet-alert-dialog,"SweetAlert for Android, a beautiful and clever alert dialog",https://github.com/pedant/sweet-alert-dialog,19-10-2014,31-08-2021,Java,7257,2
+TakePhoto,一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库,https://github.com/crazycodeboy/TakePhoto,04-08-2015,26-08-2019,Java,7242,15
+UltimateRecyclerView,"A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.",https://github.com/cymcsg/UltimateRecyclerView,28-01-2015,21-07-2020,Java,7211,9
+WeChatLuckyMoney,:money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups. ,https://github.com/geeeeeeeeek/WeChatLuckyMoney,30-09-2015,25-01-2019,Java,7209,20
+xmall,基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等,https://github.com/Exrick/xmall,28-07-2017,16-12-2022,Java,7198,0
+gocd,GoCD - Continuous Delivery server main repository,https://github.com/gocd/gocd,13-12-2013,16-03-2025,Java,7197,84
+agera,Reactive Programming for Android,https://github.com/google/agera,17-12-2015,13-01-2022,Java,7181,16
+SmartTabLayout,A custom ViewPager title strip which gives continuous feedback to the user when scrolling,https://github.com/ogaclejapan/SmartTabLayout,14-02-2015,03-06-2020,Java,7092,0
+MinecraftForge,Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/,https://github.com/MinecraftForge/MinecraftForge,30-01-2012,17-03-2025,Java,7085,0
+ActionBarSherlock,[DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.,https://github.com/JakeWharton/ActionBarSherlock,07-03-2011,17-12-2015,Java,7085,32
+LeetCode-Book,"《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓",https://github.com/krahets/LeetCode-Book,17-12-2021,11-05-2024,Java,7056,0
+KnowStreaming,一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛,https://github.com/didi/KnowStreaming,19-03-2020,12-10-2024,Java,7050,23
+nanohttpd,"Tiny, easily embeddable HTTP server in Java.",https://github.com/NanoHttpd/nanohttpd,10-08-2012,25-07-2023,Java,7045,3
+Timber,Material Design Music Player,https://github.com/naman14/Timber,12-06-2015,28-04-2023,Java,7031,5
+iceberg,Apache Iceberg,https://github.com/apache/iceberg,19-11-2018,16-03-2025,Java,7028,26
+elasticsearch-sql,Use SQL to query Elasticsearch,https://github.com/NLPchina/elasticsearch-sql,24-08-2014,04-02-2025,Java,7008,261
+alluxio,"Alluxio, data orchestration for analytics and machine learning in the cloud",https://github.com/Alluxio/alluxio,21-12-2012,18-02-2025,Java,6953,61
+error-prone,Catch common Java mistakes as compile-time errors,https://github.com/google/error-prone,21-08-2014,15-03-2025,Java,6942,52
+rest-assured,Java DSL for easy testing of REST services,https://github.com/rest-assured/rest-assured,21-10-2010,14-02-2025,Java,6926,0
+DroidPlugin,"A plugin framework on android,Run any third-party apk without installation, modification or repackage",https://github.com/DroidPluginTeam/DroidPlugin,27-08-2015,06-06-2024,Java,6918,2
+netty-socketio,Socket.IO server implemented on Java. Realtime java framework,https://github.com/mrniko/netty-socketio,12-01-2012,11-02-2025,Java,6911,18
+okhttputils,[停止维护]okhttp的辅助类,https://github.com/hongyangAndroid/okhttputils,17-08-2015,12-10-2022,Java,6870,0
+jvm-sandbox,Real - time non-invasive AOP framework container based on JVM,https://github.com/alibaba/jvm-sandbox,03-08-2017,03-10-2024,Java,6857,13
+JavaTutorial,【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！,https://github.com/h2pl/JavaTutorial,01-05-2018,26-08-2023,Java,6850,1
+jimureport,「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。,https://github.com/jeecgboot/jimureport,05-12-2019,12-03-2025,Java,6847,25
+walle,Android Signature V2 Scheme签名下的新一代渠道包打包神器,https://github.com/Meituan-Dianping/walle,10-01-2017,30-05-2024,Java,6812,1
+1brc,1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java,https://github.com/gunnarmorling/1brc,28-12-2023,20-08-2024,Java,6802,0
+DependencyCheck,OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.,https://github.com/dependency-check/DependencyCheck,03-09-2012,16-03-2025,Java,6790,82
+AntennaPod,A podcast manager for Android,https://github.com/AntennaPod/AntennaPod,31-07-2012,16-03-2025,Java,6778,60
+react-native-push-notification,React Native Local and Remote Notifications,https://github.com/zo0r/react-native-push-notification,14-12-2015,30-01-2024,Java,6778,35
+angel,A Flexible and Powerful Parameter Server for large-scale machine learning,https://github.com/Angel-ML/angel,25-04-2017,16-01-2024,Java,6750,19
+rabbitmq-tutorials,Tutorials for using RabbitMQ in various ways,https://github.com/rabbitmq/rabbitmq-tutorials,21-09-2010,14-03-2025,Java,6727,0
+mybatis-generator-gui,mybatis-generator界面工具，让你生成代码更简单更快捷,https://github.com/zouzg/mybatis-generator-gui,08-05-2016,09-07-2024,Java,6700,16
+AndroidPerformanceMonitor,A transparent ui-block detection library for Android. (known as BlockCanary),https://github.com/markzhai/AndroidPerformanceMonitor,17-01-2016,15-07-2023,Java,6690,0
+AndroidAutoLayout,[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。,https://github.com/hongyangAndroid/AndroidAutoLayout,19-11-2015,26-11-2018,Java,6676,0
+haven,"Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors",https://github.com/guardianproject/haven,01-03-2017,26-10-2022,Java,6669,37
+gnirehtet,Gnirehtet provides reverse tethering for Android,https://github.com/Genymobile/gnirehtet,09-02-2017,11-08-2024,Java,6653,12
+BookReader,":closed_book:  ""任阅"" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~",https://github.com/smuyyh/BookReader,03-08-2016,24-04-2023,Java,6644,0
+springcloud-learning,2024最新微服务实战教程，Spring Cloud组件、微服务项目实战、Kubernetes容器化部署全方位解析。技术栈：Spring Cloud Alibaba + Spring Boot 3.2 + JDK 17。,https://github.com/macrozheng/springcloud-learning,07-09-2019,08-08-2024,Java,6642,0
+AndPermission,:strawberry: Permissions manager for Android platform.,https://github.com/yanzhenjie/AndPermission,11-09-2016,04-01-2024,Java,6632,0
+wiremock,A tool for mocking HTTP services,https://github.com/wiremock/wiremock,09-10-2011,10-03-2025,Java,6630,49
+springBoot,springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等,https://github.com/527515025/springBoot,07-11-2016,27-01-2024,Java,6623,0
+storm,Apache Storm,https://github.com/apache/storm,05-11-2013,10-03-2025,Java,6613,3
+AndroidPicker,安卓选择器类库，包括日期及时间选择器（可用于出生日期、营业时间等）、单项选择器（可用于性别、民族、职业、学历、星座等）、二三级联动选择器（可用于车牌号、基金定投日期等）、城市地址选择器（分省级、地市级及区县级）、数字选择器（可用于年龄、身高、体重、温度等）、日历选日期择器（可用于酒店及机票预定日期）、颜色选择器、文件及目录选择器、图片选择器等……WheelPicker/DatePicker/TimePicker/OptionPicker/NumberPicker/LinkagePicker/AddressPicker/CarPlatePicker/CalendarPicker/ColorPicker/FilePicker/ImagePicker etc. ,https://github.com/gzu-liyujiang/AndroidPicker,21-10-2015,01-12-2024,Java,6594,57
+Toasty,"The usual Toast, but with steroids 💪",https://github.com/GrenderG/Toasty,18-01-2017,28-09-2022,Java,6587,19
+AndroidProject,Android 技术中台，但愿人长久，搬砖不再有,https://github.com/getActivity/AndroidProject,23-10-2018,10-09-2022,Java,6584,17
+itstack-demo-design,:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn,https://github.com/fuzhengwei/itstack-demo-design,20-05-2020,10-05-2024,Java,6564,0
+junit5,✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM,https://github.com/junit-team/junit5,11-01-2015,16-03-2025,Java,6549,82
+Leaf,Distributed ID Generate Service,https://github.com/Meituan-Dianping/Leaf,11-12-2018,18-07-2023,Java,6545,0
+ansj_seg,"ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典",https://github.com/NLPchina/ansj_seg,05-09-2012,19-11-2023,Java,6518,3
+processing,Source code for the Processing Core and Development Environment (PDE),https://github.com/processing/processing,24-01-2013,18-12-2024,Java,6503,48
+GoGoGo,一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆,https://github.com/ZCShou/GoGoGo,03-12-2021,11-03-2025,Java,6481,7
+zeppelin,"Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.",https://github.com/apache/zeppelin,25-03-2015,14-03-2025,Java,6468,0
+Android-skin-support,"Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. ""一行""代码就可以实现换肤, 你值得拥有!!!",https://github.com/ximsfei/Android-skin-support,12-01-2017,03-09-2020,Java,6461,0
+quartz,Code for Quartz Scheduler,https://github.com/quartz-scheduler/quartz,07-03-2016,05-03-2025,Java,6436,5
+RoundedImageView,"A fast ImageView that supports rounded corners, ovals, and circles.",https://github.com/vinc3m1/RoundedImageView,22-02-2013,27-01-2023,Java,6433,19
+byte-buddy,Runtime code generation for the Java virtual machine.,https://github.com/raphw/byte-buddy,25-11-2013,12-03-2025,Java,6429,299
+Android-Image-Cropper,"Image Cropping Library for Android, optimized for Camera / Gallery.",https://github.com/ArthurHub/Android-Image-Cropper,15-01-2015,17-09-2023,Java,6423,32
+smali,smali/baksmali,https://github.com/JesusFreke/smali,23-09-2012,17-01-2024,Java,6411,0
+langchain4j,Java version of LangChain,https://github.com/langchain4j/langchain4j,20-06-2023,14-03-2025,Java,6409,43
+Spring-Cloud-Platform,🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新,https://github.com/wxiaoqi/Spring-Cloud-Platform,25-05-2017,29-08-2024,Java,6401,3
+android-floating-action-button,Floating Action Button for Android based on Material Design specification,https://github.com/zendesk/android-floating-action-button,19-09-2014,02-01-2023,Java,6380,0
+java-eight-part,『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！,https://github.com/CoderLeixiaoshuai/java-eight-part,16-10-2020,28-11-2023,Java,6370,0
+jOOQ,jOOQ is the best way to write SQL in Java,https://github.com/jOOQ/jOOQ,17-04-2011,14-03-2025,Java,6326,90
+async-http-client,Asynchronous Http and WebSocket Client library for Java ,https://github.com/AsyncHttpClient/async-http-client,07-03-2011,14-03-2025,Java,6322,5
+JFoenix,JavaFX Material Design Library,https://github.com/sshahine/JFoenix,08-09-2015,28-06-2023,Java,6312,0
+remusic,仿网易云音乐 安卓版，netease  android，音乐播放器 在线 下载,https://github.com/aa112901/remusic,24-03-2016,20-07-2018,Java,6294,0
+richeditor-android,RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.,https://github.com/wasabeef/richeditor-android,30-03-2015,21-05-2024,Java,6287,0
+ion,Android Asynchronous Networking and Image Loading,https://github.com/koush/ion,22-05-2013,01-02-2024,Java,6282,0
+jsonschema2pojo,"Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc",https://github.com/joelittlejohn/jsonschema2pojo,22-06-2013,19-12-2024,Java,6279,63
+Recaf,The modern Java bytecode editor,https://github.com/Col-E/Recaf,27-07-2017,15-03-2025,Java,6276,169
+hazelcast,"Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.",https://github.com/hazelcast/hazelcast,21-03-2012,14-03-2025,Java,6267,200
+from-java-to-kotlin,From Java To Kotlin - Your Cheat Sheet For Java To Kotlin,https://github.com/amitshekhariitbhu/from-java-to-kotlin,21-05-2017,09-09-2024,Java,6252,0
+config,configuration library for JVM languages using HOCON files,https://github.com/lightbend/config,06-12-2011,19-08-2024,Java,6220,1
+spring-cloud-examples,Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等,https://github.com/ityouknow/spring-cloud-examples,28-04-2017,18-07-2023,Java,6218,0
+micronaut-core,Micronaut Application Framework,https://github.com/micronaut-projects/micronaut-core,07-03-2018,15-03-2025,Java,6187,278
+pig,↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2024 、Spring Boot 3.4、 OAuth2 的 RBAC 权限管理系统,https://github.com/pig-mesh/pig,26-08-2019,14-03-2025,Java,6181,19
+graphql-java,GraphQL Java implementation,https://github.com/graphql-java/graphql-java,06-07-2015,16-03-2025,Java,6160,82
+CompreFace,Leading free and open-source face recognition system,https://github.com/exadel-inc/CompreFace,06-07-2020,05-10-2024,Java,6147,11
+smile,Statistical Machine Intelligence & Learning Engine,https://github.com/haifengl/smile,20-11-2014,12-03-2025,Java,6138,32
+SwipeBackLayout,An Android library that help you to build app with swipe back gesture.,https://github.com/ikew0ng/SwipeBackLayout,25-08-2013,18-09-2019,Java,6122,0
+grafika,Grafika test app,https://github.com/google/grafika,19-12-2013,09-02-2024,Java,6114,1
+hibernate-orm,Hibernate's core Object/Relational Mapping functionality,https://github.com/hibernate/hibernate-orm,04-10-2010,16-03-2025,Java,6108,66
+MaterialEditText,EditText in Material Design,https://github.com/rengwuxian/MaterialEditText,30-10-2014,27-08-2019,Java,6103,19
+NumberProgressBar,"A beautiful, slim Android ProgressBar.",https://github.com/daimajia/NumberProgressBar,01-05-2014,27-09-2020,Java,6090,3
+hertzbeat,"Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",https://github.com/apache/hertzbeat,04-02-2022,16-03-2025,Java,6060,22
+gephi,Gephi - The Open Graph Viz Platform,https://github.com/gephi/gephi,22-10-2011,05-03-2025,Java,6050,19
+vespa,"AI + Data, online. https://vespa.ai",https://github.com/vespa-engine/vespa,03-06-2016,15-03-2025,Java,6046,204
+EffectiveAndroidUI,"Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk ""EffectiveAndroidUI"".",https://github.com/pedrovgs/EffectiveAndroidUI,04-07-2014,06-09-2023,Java,6024,0
+dynamic-load-apk,DL : dynamic load framework in android,https://github.com/singwhatiwanna/dynamic-load-apk,30-03-2014,16-07-2024,Java,6021,0
+XXPermissions,Android 权限请求框架，已适配 Android 14,https://github.com/getActivity/XXPermissions,15-06-2018,17-07-2024,Java,6012,63
+j2objc,A Java to iOS Objective-C translation tool and runtime.,https://github.com/google/j2objc,30-01-2014,13-03-2025,Java,6008,0
+material,A library to bring fully animated Material Design components to pre-Lolipop Android. ,https://github.com/rey5137/material,09-12-2014,28-05-2023,Java,5999,10
+flink-cdc,Flink CDC is a streaming data integration tool,https://github.com/apache/flink-cdc,27-07-2020,14-03-2025,Java,5993,21
+java-jwt,Java implementation of JSON Web Token (JWT),https://github.com/auth0/java-jwt,07-03-2014,29-01-2025,Java,5988,45
+physical-web,The Physical Web: walk up and use anything,https://github.com/google/physical-web,30-09-2014,05-12-2018,Java,5987,17
+xUtils3,"Android orm, bitmap, http, view inject... ",https://github.com/wyouflf/xUtils3,28-10-2015,19-03-2022,Java,5984,9
+incubator-kie-drools,"Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.",https://github.com/apache/incubator-kie-drools,18-02-2011,16-03-2025,Java,5972,5
+useful-java-links,"A list of useful Java frameworks, libraries, software and hello worlds examples",https://github.com/Vedenin/useful-java-links,13-02-2016,16-11-2024,Java,5959,0
+ssm,手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis,https://github.com/liyifeng1994/ssm,18-06-2016,16-12-2022,Java,5948,0
+robolectric,Android Unit Testing Framework,https://github.com/robolectric/robolectric,28-08-2010,13-03-2025,Java,5941,105
+springfox,Automated JSON API documentation for API's built with Spring,https://github.com/springfox/springfox,06-05-2012,18-03-2024,Java,5937,12
+androidmvp,MVP Android Example,https://github.com/antoniolg/androidmvp,02-04-2014,25-06-2023,Java,5926,0
+material-calendarview,A Material design back port of Android's CalendarView,https://github.com/prolificinteractive/material-calendarview,09-02-2015,28-05-2023,Java,5921,22
+SoloPi,SoloPi 自动化测试工具,https://github.com/alipay/SoloPi,14-03-2019,11-07-2024,Java,5901,8
+mini-spring,mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。 ,https://github.com/DerekYRC/mini-spring,17-11-2020,15-08-2024,Java,5888,0
+motan,A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.,https://github.com/weibocom/motan,20-04-2016,05-03-2025,Java,5887,26
+SpringBootVulExploit,SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list,https://github.com/LandGrey/SpringBootVulExploit,20-05-2020,10-03-2021,Java,5880,0
+vavr,"vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.",https://github.com/vavr-io/vavr,30-01-2014,12-03-2025,Java,5870,18
+btrace,"BTrace - a safe, dynamic tracing tool for the Java platform",https://github.com/btraceio/btrace,28-08-2014,14-03-2025,Java,5869,33
+blade,:rocket: Lightning fast and elegant mvc framework for Java8,https://github.com/lets-blade/blade,10-06-2015,11-02-2025,Java,5862,9
+zxing-android-embedded,"Barcode scanner library for Android, based on the ZXing decoder",https://github.com/journeyapps/zxing-android-embedded,28-11-2012,04-08-2024,Java,5821,9
+jetlinks-community,"JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",https://github.com/jetlinks/jetlinks-community,02-01-2020,13-03-2025,Java,5818,19
+BoomMenu,A menu which can ... BOOM! - Android,https://github.com/Nightonke/BoomMenu,19-03-2016,12-03-2023,Java,5802,0
+DiscreteScrollView,A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.,https://github.com/yarolegovich/DiscreteScrollView,03-03-2017,19-08-2024,Java,5787,2
+DiskLruCache,Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.,https://github.com/JakeWharton/DiskLruCache,05-01-2012,02-03-2020,Java,5786,0
+tcc-transaction,tcc-transaction是TCC型事务java实现,https://github.com/changmingxie/tcc-transaction,05-12-2015,24-01-2025,Java,5785,8
+circular-progress-button,Android Circular Progress Button,https://github.com/dmytrodanylyk/circular-progress-button,07-06-2014,05-03-2025,Java,5769,3
+camel,Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.,https://github.com/apache/camel,21-05-2009,16-03-2025,Java,5766,0
+Fast-Android-Networking,🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀,https://github.com/amitshekhariitbhu/Fast-Android-Networking,21-03-2016,18-08-2024,Java,5760,10
+kafdrop,Kafka Web UI,https://github.com/obsidiandynamics/kafdrop,27-05-2019,07-03-2025,Java,5754,49
+InfiniteCycleViewPager,Infinite cycle ViewPager with two-way orientation and interactive effect.,https://github.com/Devlight/InfiniteCycleViewPager,22-08-2016,09-08-2022,Java,5737,2
+google-java-format,Reformats Java source code to comply with Google Java Style.,https://github.com/google/google-java-format,11-05-2015,27-02-2025,Java,5728,32
+lanproxy,lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209,https://github.com/ffay/lanproxy,20-11-2016,14-04-2024,Java,5721,1
+FastHub,FastHub the ultimate GitHub client for Android.,https://github.com/k0shk0sh/FastHub,18-02-2017,12-09-2022,Java,5717,63
+datax-web,DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。,https://github.com/WeiYe-Jing/datax-web,19-11-2019,02-06-2024,Java,5716,5
+wvp-GB28181-pro,WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。,https://github.com/648540858/wvp-GB28181-pro,14-11-2020,14-03-2025,Java,5712,0
+aurora-imui,General IM UI components. Android/iOS/RectNative ready.  通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。,https://github.com/jpush/aurora-imui,13-12-2016,30-12-2022,Java,5712,42
+javaparser,Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.,https://github.com/javaparser/javaparser,30-10-2011,14-03-2025,Java,5711,53
+iotdb,Apache IoTDB,https://github.com/apache/iotdb,24-11-2018,16-03-2025,Java,5711,39
+springside4,"A Spring Framework based, pragmatic style JavaEE application reference architecture.",https://github.com/springside/springside4,23-02-2012,25-10-2022,Java,5699,3
+Discovery,"☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活",https://github.com/Nepxion/Discovery,21-06-2018,15-10-2024,Java,5698,130
+traccar,Traccar GPS Tracking System,https://github.com/traccar/traccar,16-04-2012,16-03-2025,Java,5695,55
+hippo4j,"📌 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change & monitoring & Alarm, no need to modify the code easily introduced.",https://github.com/opengoofy/hippo4j,16-06-2021,23-02-2025,Java,5695,18
+hudi,"Upserts, Deletes And Incremental Processing on Big Data.",https://github.com/apache/hudi,14-12-2016,16-03-2025,Java,5691,30
+SwipeRecyclerView,:melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。,https://github.com/yanzhenjie/SwipeRecyclerView,03-08-2016,30-07-2024,Java,5679,0
+u2020,A sample Android app which showcases advanced usage of Dagger among other open source libraries.,https://github.com/JakeWharton/u2020,14-11-2013,28-05-2023,Java,5672,0
+QR-Code-generator,"High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",https://github.com/nayuki/QR-Code-generator,15-04-2016,23-01-2025,Java,5672,5
+pinot,Apache Pinot - A realtime distributed OLAP datastore,https://github.com/apache/pinot,19-05-2014,15-03-2025,Java,5668,20
+graphhopper,Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.,https://github.com/graphhopper/graphhopper,18-02-2012,12-03-2025,Java,5667,45
+hive,Apache Hive,https://github.com/apache/hive,21-05-2009,16-03-2025,Java,5654,0
+austin,消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。,https://github.com/ZhongFuCheng3y/austin,06-11-2021,17-12-2024,Java,5648,0
+api-samples,"Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.",https://github.com/youtube/api-samples,09-12-2013,09-06-2024,Java,5643,0
+react-native-splash-screen,"A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",https://github.com/crazycodeboy/react-native-splash-screen,14-09-2016,30-07-2024,Java,5639,12
+IJPay,IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨ ,https://github.com/Javen205/IJPay,02-05-2017,17-02-2025,Java,5637,24
+HTextView,"Animation effects to text, not really textview",https://github.com/hanks-zyh/HTextView,19-12-2015,07-05-2021,Java,5636,0
+Blurry,Blurry is an easy blur library for Android,https://github.com/wasabeef/Blurry,23-07-2015,27-04-2023,Java,5630,0
+AndroidImageSlider,An amazing and convenient Android image slider.,https://github.com/daimajia/AndroidImageSlider,02-06-2014,01-10-2020,Java,5625,5
+TV,Sem descrição,https://github.com/FongMi/TV,22-06-2022,16-03-2025,Java,5618,0
+JSqlParser,JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern,https://github.com/JSQLParser/JSqlParser,23-06-2011,12-03-2025,Java,5601,35
+FlowLayout,[不再维护]Android流式布局，支持单选、多选等，适合用于产品标签等。,https://github.com/hongyangAndroid/FlowLayout,28-08-2015,13-10-2019,Java,5596,0
+ShowcaseView,"[Archived] Highlight the best bits of your app to users quickly, simply, and cool...ly",https://github.com/amlcurran/ShowcaseView,14-08-2012,01-02-2018,Java,5591,13
+lamp-cloud,lamp-cloud 支持jdk21、jdk17、jdk11、jdk8，ta基于 SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。,https://github.com/dromara/lamp-cloud,17-01-2018,12-03-2025,Java,5580,0
+Android-ZBLibrary,"🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.",https://github.com/TommyLemon/Android-ZBLibrary,20-08-2015,30-11-2024,Java,5558,25
+disconf,Distributed Configuration Management Platform(分布式配置管理平台),https://github.com/knightliao/disconf,30-05-2014,18-07-2023,Java,5553,12
+ListViewAnimations,[DEPRECATED] An Android library which allows developers to easily add animations to ListView items,https://github.com/nhaarman/ListViewAnimations,19-03-2013,03-11-2016,Java,5550,14
+MusicBot,🎶 A Discord music bot that's easy to set up and run yourself!,https://github.com/jagrosh/MusicBot,14-08-2016,16-11-2024,Java,5549,38
+AppManager,A full-featured package manager and viewer for Android,https://github.com/MuntashirAkon/AppManager,30-05-2020,15-03-2025,Java,5544,72
+lettuce,"Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",https://github.com/redis/lettuce,10-05-2014,16-03-2025,Java,5529,127
+EdXposed,Elder driver Xposed Framework.,https://github.com/ElderDrivers/EdXposed,18-01-2019,12-04-2022,Java,5521,27
+spring-boot-projects,:fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。,https://github.com/ZHENFENG13/spring-boot-projects,01-04-2017,27-02-2023,Java,5518,0
+uid-generator,UniqueID generator,https://github.com/baidu/uid-generator,27-03-2017,31-05-2023,Java,5506,0
+StickyListHeaders,An android library for section headers that stick to the top,https://github.com/emilsjolander/StickyListHeaders,11-03-2012,21-05-2021,Java,5501,16
+AmazeFileManager,Material design file manager for Android,https://github.com/TeamAmaze/AmazeFileManager,14-07-2014,15-03-2025,Java,5493,66
+mosby,A Model-View-Presenter / Model-View-Intent library for modern Android apps,https://github.com/sockeqwe/mosby,25-03-2015,09-03-2022,Java,5481,15
+logisim-evolution,Digital logic design tool and simulator,https://github.com/logisim-evolution/logisim-evolution,19-09-2014,04-03-2025,Java,5481,30
+freeline,"A super fast build tool for Android, an alternative to Instant Run",https://github.com/alibaba/freeline,03-08-2016,10-05-2020,Java,5472,22
+MagicCamera,Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android---包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改,https://github.com/wuhaoyu1990/MagicCamera,08-01-2016,22-10-2020,Java,5470,0
+AndroidVideoCache,Cache support for any video player with help of single line,https://github.com/danikula/AndroidVideoCache,01-04-2015,14-03-2023,Java,5455,20
+barcodescanner,Barcode Scanner Libraries for Android,https://github.com/dm77/barcodescanner,24-02-2014,01-07-2020,Java,5454,6
+scribejava,Simple OAuth library for Java,https://github.com/scribejava/scribejava,05-09-2010,01-02-2025,Java,5452,9
+janusgraph,"JanusGraph: an open-source, distributed graph database",https://github.com/JanusGraph/janusgraph,26-12-2016,14-03-2025,Java,5442,28
+rebound,A Java library that models spring dynamics and adds real world physics to your app. ,https://github.com/facebookarchive/rebound,11-10-2013,27-03-2019,Java,5422,10
+TapTargetView,An implementation of tap targets from the Material Design guidelines for feature discovery.,https://github.com/KeepSafe/TapTargetView,11-09-2016,08-10-2024,Java,5421,24
+wechat,"A High Copy WeChat ,SNS APP (高仿微信)",https://github.com/motianhuo/wechat,25-05-2015,23-08-2018,Java,5411,0
+dubbo-spring-boot-project,Spring Boot Project for Apache Dubbo,https://github.com/apache/dubbo-spring-boot-project,18-01-2018,25-01-2023,Java,5410,13
+linuxdeploy,Install and run GNU/Linux on Android,https://github.com/meefik/linuxdeploy,21-08-2012,16-06-2022,Java,5409,37
+jeepay,Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。,https://github.com/jeequan/jeepay,12-08-2017,14-03-2025,Java,5392,0
+FastBle,"Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.",https://github.com/Jasonchenlijian/FastBle,23-08-2016,27-07-2022,Java,5380,9
+android-job,Android library to handle jobs in the background.,https://github.com/Evernote/android-job,20-08-2015,13-07-2022,Java,5370,31
+socket.io-client-java,"Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.",https://github.com/socketio/socket.io-client-java,28-04-2013,18-02-2025,Java,5367,7
+SystemBarTint,[DEPRECATED] Apply background tinting to the Android system UI when using KitKat translucent modes,https://github.com/jgilfelt/SystemBarTint,17-11-2013,05-09-2015,Java,5360,3
+cw-omnibus,Source code to omnibus edition of _The Busy Coder's Guide to Android Development_,https://github.com/commonsguy/cw-omnibus,12-03-2012,09-02-2019,Java,5352,36
+shimmer-android,"An easy, flexible way to add a shimmering effect to any view in an Android app.",https://github.com/facebookarchive/shimmer-android,27-02-2015,23-03-2023,Java,5340,5
+XRecyclerView,A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView,https://github.com/XRecyclerView/XRecyclerView,18-11-2015,11-09-2023,Java,5336,0
+android-advancedrecyclerview,"RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)",https://github.com/h6ah4i/android-advancedrecyclerview,24-01-2015,21-08-2023,Java,5325,1
+hbase,Apache HBase,https://github.com/apache/hbase,23-05-2014,16-03-2025,Java,5306,45
+generator,A code generator for MyBatis.,https://github.com/mybatis/generator,10-02-2013,14-03-2025,Java,5298,11
+jetcache,JetCache is a Java cache framework.,https://github.com/alibaba/jetcache,12-04-2017,20-12-2024,Java,5292,66
+gradle-retrolambda,"A gradle plugin for getting java lambda support in java 6, 7 and android",https://github.com/evant/gradle-retrolambda,05-08-2013,24-07-2023,Java,5291,37
+spring-data-examples,Spring Data Example Projects,https://github.com/spring-projects/spring-data-examples,30-01-2014,27-01-2025,Java,5278,0
+android-lifecycle,A diagram of the Android Activity / Fragment lifecycle,https://github.com/xxv/android-lifecycle,18-04-2014,19-08-2021,Java,5274,0
+VitamioBundle,Vitamio for Android,https://github.com/yixia/VitamioBundle,19-10-2012,23-04-2017,Java,5271,0
+groovy,Apache Groovy: A powerful multi-faceted programming language for the JVM platform,https://github.com/apache/groovy,16-04-2015,16-03-2025,Java,5264,0
+google-authenticator,Open source version of Google Authenticator (except the Android app),https://github.com/google/google-authenticator,08-10-2014,28-09-2020,Java,5257,0
+Android-Touch-Helper,开屏跳过-安卓系统的开屏广告自动跳过助手,https://github.com/zfdang/Android-Touch-Helper,16-10-2020,12-10-2024,Java,5248,112
+Side-Menu.Android,Side menu with some categories to choose.,https://github.com/Yalantis/Side-Menu.Android,13-01-2015,08-08-2020,Java,5244,2
+titan,Distributed Graph Database,https://github.com/thinkaurelius/titan,25-02-2012,19-10-2022,Java,5243,0
+thumbnailator,Thumbnailator - a thumbnail generation library for Java,https://github.com/coobird/thumbnailator,25-07-2015,04-03-2025,Java,5234,0
+twoway-view,[DEPRECATED] RecyclerView made simple,https://github.com/lucasr/twoway-view,18-01-2013,20-03-2017,Java,5230,0
+Dexter,Android library that simplifies the process of requesting permissions at runtime.,https://github.com/Karumi/Dexter,17-11-2015,02-07-2021,Java,5222,33
+FloatingActionButton,Android Floating Action Button based on Material Design specification,https://github.com/Clans/FloatingActionButton,21-03-2015,11-07-2019,Java,5216,14
+okdownload,"A Reliable, Flexible, Fast and Powerful download engine.",https://github.com/lingochamp/okdownload,17-12-2017,04-11-2022,Java,5214,8
+BasePopup, Android下打造通用便捷的PopupWindow弹窗库,https://github.com/razerdp/BasePopup,15-01-2016,04-01-2024,Java,5212,15
+Pixiv-Shaft,Pixiv第三方Android客户端,https://github.com/CeuiLiSA/Pixiv-Shaft,01-04-2019,17-02-2025,Java,5211,110
+springboot-guide,SpringBoot2.0+从入门到实战！,https://github.com/CodingDocs/springboot-guide,28-11-2018,28-05-2023,Java,5208,0
+novel,novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。,https://github.com/201206030/novel,11-11-2019,20-02-2025,Java,5204,12
+web3j,Lightweight Java and Android library for integration with Ethereum clients,https://github.com/hyperledger-web3j/web3j,04-09-2016,06-03-2025,Java,5193,118
+smartTable,一款android自动生成表格框架---An Android automatically generated table framework,https://github.com/huangyanbin/smartTable,08-11-2017,11-03-2022,Java,5185,44
+library,A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.,https://github.com/ddd-by-examples/library,11-01-2019,07-07-2023,Java,5171,0
+JS-Sorting-Algorithm,一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。,https://github.com/hustcc/JS-Sorting-Algorithm,19-01-2017,30-03-2024,Java,5169,0
+nifi,Apache NiFi,https://github.com/apache/nifi,12-12-2014,15-03-2025,Java,5164,0
+otto,An enhanced Guava-based event bus with emphasis on Android support.,https://github.com/square/otto,27-06-2012,17-12-2018,Java,5153,0
+ctci,"Cracking the Coding Interview, 5th Edition",https://github.com/careercup/ctci,21-03-2013,26-06-2023,Java,5146,0
+strimzi-kafka-operator,Apache Kafka® running on Kubernetes,https://github.com/strimzi/strimzi-kafka-operator,06-05-2016,16-03-2025,Java,5141,146
+DKVideoPlayer,Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜,https://github.com/Doikki/DKVideoPlayer,11-04-2017,03-06-2024,Java,5131,32
+views-widgets-samples,Multiple samples showing the best practices in views-widgets on Android.,https://github.com/android/views-widgets-samples,06-09-2019,24-07-2024,Java,5108,0
+dddsample-core,This is the new home of the original DDD Sample app (previously hosted at sf.net).. ,https://github.com/citerus/dddsample-core,31-01-2015,20-02-2025,Java,5101,0
+usb-serial-for-android,"Android USB host serial driver library for CDC, FTDI, Arduino and other devices.",https://github.com/mik3y/usb-serial-for-android,30-06-2013,10-03-2025,Java,5070,33
+shattered-pixel-dungeon,"Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",https://github.com/00-Evan/shattered-pixel-dungeon,31-07-2014,13-03-2025,Java,5068,50
+keepass2android,Password manager app for Android,https://github.com/PhilippC/keepass2android,20-09-2017,14-03-2025,Java,5065,29
+bitcoinj,A library for working with Bitcoin,https://github.com/bitcoinj/bitcoinj,19-11-2013,16-03-2025,Java,5058,14
+reactor-core,Non-Blocking Reactive Foundation for the JVM,https://github.com/reactor/reactor-core,10-11-2015,14-03-2025,Java,5057,197
+Small,A small framework to split app into small parts,https://github.com/wequick/Small,27-11-2015,23-09-2023,Java,5052,25
+picocli,"Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. ",https://github.com/remkop/picocli,01-02-2017,05-01-2025,Java,5044,85
+Luyten,An Open Source Java Decompiler Gui for Procyon,https://github.com/deathmarine/Luyten,11-07-2013,11-07-2024,Java,5036,17
+opentsdb,"A scalable, distributed Time Series Database.",https://github.com/OpenTSDB/opentsdb,27-08-2010,12-12-2024,Java,5029,27
+sodium,A Minecraft mod designed to improve frame rates and reduce micro-stutter,https://github.com/CaffeineMC/sodium,01-02-2020,14-03-2025,Java,5016,40
+android-common,"Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on",https://github.com/Trinea/android-common,19-06-2012,28-02-2024,Java,5015,1
+CameraView,"📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.",https://github.com/natario1/CameraView,18-07-2017,03-09-2024,Java,5014,42
+YCSB,Yahoo! Cloud Serving Benchmark,https://github.com/brianfrankcooper/YCSB,19-04-2010,12-12-2024,Java,5013,55
+sofa-boot,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.",https://github.com/sofastack/sofa-boot,02-04-2018,17-02-2025,Java,5013,80
+android-zxingLibrary,几行代码快速集成二维码扫描功能,https://github.com/yipianfengye/android-zxingLibrary,26-07-2016,20-08-2021,Java,5011,0
+pmd,An extensible multilanguage static code analyzer.,https://github.com/pmd/pmd,11-07-2012,13-03-2025,Java,5008,101
+easy-rules,"The simple, stupid rules engine for Java",https://github.com/j-easy/easy-rules,10-03-2013,29-05-2024,Java,5008,10
+GravitySnapHelper,A SnapHelper that snaps a RecyclerView to an edge.,https://github.com/rubensousa/GravitySnapHelper,31-08-2016,24-01-2022,Java,5006,14
+MifareClassicTool,"An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",https://github.com/ikarus23/MifareClassicTool,12-02-2013,26-12-2024,Java,5002,8
+UltraViewPager,UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager.,https://github.com/alibaba/UltraViewPager,29-03-2017,14-07-2021,Java,4997,10
+shopping-management-system,该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。,https://github.com/zhanglei-workspace/shopping-management-system,16-11-2015,07-03-2024,Java,4994,0
+dialogplus,Advanced dialog solution for android,https://github.com/orhanobut/dialogplus,12-12-2014,17-01-2022,Java,4994,9
+LayoutManagerGroup,:point_right: Customize the LayoutManager of RecyclerView(自定义LayoutManager),https://github.com/DingMouRen/LayoutManagerGroup,28-04-2018,11-10-2023,Java,4985,0
+joda-time,Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.,https://github.com/JodaOrg/joda-time,16-05-2011,10-03-2025,Java,4984,49
+QLExpress,"QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.",https://github.com/alibaba/QLExpress,15-03-2017,02-03-2025,Java,4983,10
+spring-mvc-showcase,Demonstrates the features of the Spring MVC web framework,https://github.com/spring-attic/spring-mvc-showcase,03-06-2011,04-02-2022,Java,4982,0
+InstaMaterial,Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept),https://github.com/frogermcs/InstaMaterial,10-11-2014,30-09-2020,Java,4980,1
+TelegramBots,Java library to create bots using Telegram Bots API,https://github.com/rubenlagus/TelegramBots,14-01-2016,14-03-2025,Java,4980,105
+JustTrustMe,An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning,https://github.com/Fuzion24/JustTrustMe,24-07-2014,02-09-2024,Java,4977,1
+XUI,"💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！)",https://github.com/xuexiangjys/XUI,07-01-2019,25-06-2024,Java,4976,23
+midjourney-proxy,代理 MidJourney 的discord频道，实现api形式调用AI绘图,https://github.com/novicezk/midjourney-proxy,24-04-2023,15-01-2025,Java,4972,0
+lwjgl3,"LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.",https://github.com/LWJGL/lwjgl3,23-12-2012,02-03-2025,Java,4966,21
+CloudReader,🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，Retrofit2 + RxJava2 + Room + MVVM-databinding架构开发的Android客户端,https://github.com/youlookwhat/CloudReader,20-11-2016,20-06-2024,Java,4963,25
+spring-authorization-server,Spring Authorization Server,https://github.com/spring-projects/spring-authorization-server,17-03-2020,14-03-2025,Java,4956,68
+mapdb,"MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.",https://github.com/jankotek/mapdb,17-08-2012,04-06-2024,Java,4949,0
+RxJava2-Android-Samples,RxJava 2 Android Examples - How to use RxJava 2 in Android,https://github.com/amitshekhariitbhu/RxJava2-Android-Samples,27-08-2016,07-07-2024,Java,4949,0
+NavigationTabBar,Navigation tab bar with colorful interactions.,https://github.com/Devlight/NavigationTabBar,29-03-2016,09-06-2024,Java,4948,13
+gpmall,【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch,https://github.com/2227324689/gpmall,18-07-2019,11-12-2022,Java,4948,0
+liquibase,Main Liquibase Source,https://github.com/liquibase/liquibase,08-07-2011,14-03-2025,Java,4946,101
+runelite,Open source Old School RuneScape client,https://github.com/runelite/runelite,30-04-2016,15-03-2025,Java,4941,0
+xpay,XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付 ,https://github.com/Exrick/xpay,12-12-2017,26-08-2024,Java,4934,0
+megabasterd,Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.,https://github.com/tonikelope/megabasterd,29-09-2016,19-11-2024,Java,4930,208
+OsmAnd,OsmAnd,https://github.com/osmandapp/OsmAnd,15-01-2011,16-03-2025,Java,4929,1
+Geyser,A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.,https://github.com/GeyserMC/Geyser,08-07-2019,16-03-2025,Java,4928,0
+RippleEffect,Implementation of Ripple effect from Material Design for Android API 9+,https://github.com/traex/RippleEffect,14-10-2014,04-02-2021,Java,4921,0
+react-native-linear-gradient,A <LinearGradient /> component for react-native,https://github.com/react-native-linear-gradient/react-native-linear-gradient,31-03-2015,04-03-2025,Java,4914,18
+folding-cell-android,:octocat: 📃  FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion,https://github.com/Ramotion/folding-cell-android,01-04-2016,21-09-2022,Java,4902,0
+spring-cloud-netflix,Integration with Netflix OSS components,https://github.com/spring-cloud/spring-cloud-netflix,11-07-2014,14-03-2025,Java,4900,18
+ignite,Apache Ignite,https://github.com/apache/ignite,19-02-2015,13-03-2025,Java,4895,0
+Android-IMSI-Catcher-Detector,"AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!",https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector,23-11-2013,17-01-2025,Java,4895,48
+armeria,"Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.",https://github.com/line/armeria,16-11-2015,15-03-2025,Java,4878,254
+DesignPattern,📚 Java 23种设计模式全归纳,https://github.com/youlookwhat/DesignPattern,21-10-2016,06-08-2022,Java,4878,0
+oshi,Native Operating System and Hardware Information,https://github.com/oshi/oshi,10-02-2012,16-03-2025,Java,4877,161
+roncoo-pay,龙果支付系统（roncoo-pay）是国内首款开源的互联网支付系统，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。目标是打造一款集成主流支付方式且轻量易用的支付收款系统，满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能。,https://github.com/roncoo/roncoo-pay,21-07-2016,31-12-2022,Java,4877,0
+react-native-config,Bring some 12 factor love to your mobile apps!,https://github.com/lugg/react-native-config,23-02-2016,17-02-2025,Java,4875,26
+wgcloud,Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记,https://github.com/tianshiyeben/wgcloud,15-01-2019,04-02-2025,Java,4862,27
+dynamic-datasource,dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务 ,https://github.com/baomidou/dynamic-datasource,28-04-2018,10-03-2025,Java,4852,18
+sensitive-word, 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。),https://github.com/houbb/sensitive-word,07-01-2020,17-02-2025,Java,4840,2
+cglib,"cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.",https://github.com/cglib/cglib,29-03-2014,16-08-2024,Java,4837,15
+reactive-streams-jvm,Reactive Streams Specification for the JVM,https://github.com/reactive-streams/reactive-streams-jvm,28-02-2014,13-03-2024,Java,4832,0
+bisq,A decentralized bitcoin exchange network,https://github.com/bisq-network/bisq,12-03-2014,25-02-2025,Java,4831,140
+querydsl,Unified Queries for Java,https://github.com/querydsl/querydsl,05-08-2011,13-03-2025,Java,4831,35
+java-faker,Brings the popular ruby faker gem to Java,https://github.com/DiUS/java-faker,06-06-2011,12-06-2024,Java,4829,0
+WukongCRM-11.0-JAVA,悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统,https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA,06-04-2021,27-08-2021,Java,4828,0
+typespec,Sem descrição,https://github.com/microsoft/typespec,30-06-2021,16-03-2025,Java,4827,109
+QAuxiliary,QNotified phoenix - To make OICQ great again,https://github.com/cinit/QAuxiliary,29-01-2022,14-03-2025,Java,4826,45
+packer-ng-plugin,下一代Android打包工具（对Gradle 7.x的支持，欢迎提PR）,https://github.com/mcxiaoke/packer-ng-plugin,24-11-2015,27-06-2022,Java,4823,1
+Transitions-Everywhere, Set of extra Transitions on top of Jetpack Transitions Library,https://github.com/andkulikov/Transitions-Everywhere,15-10-2014,08-04-2020,Java,4815,23
+lucida,Speech and Vision Based Intelligent Personal Assistant,https://github.com/claritylab/lucida,13-05-2014,26-12-2022,Java,4806,0
+openai-java,OpenAI Api Client in Java,https://github.com/TheoKanning/openai-java,15-09-2020,06-06-2024,Java,4797,22
+orientdb,"OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.",https://github.com/orientechnologies/orientdb,09-12-2012,14-03-2025,Java,4784,219
+jpexs-decompiler,JPEXS Free Flash Decompiler,https://github.com/jindrapetrik/jpexs-decompiler,10-05-2014,08-03-2025,Java,4782,168
+killbill,Open-Source Subscription Billing & Payments Platform,https://github.com/killbill/killbill,21-10-2012,06-03-2025,Java,4777,149
+Android-ConvenientBanner,"Simple and convenient banner, loop viewpager with 3D effects",https://github.com/saiwu-bigkoo/Android-ConvenientBanner,23-12-2014,10-10-2023,Java,4770,0
+aviatorscript,A high performance scripting language hosted on the JVM.,https://github.com/killme2008/aviatorscript,29-03-2011,30-07-2024,Java,4766,52
+rstudio,RStudio is an integrated development environment (IDE) for R,https://github.com/rstudio/rstudio,07-12-2010,15-03-2025,Java,4764,0
+calcite,Apache Calcite,https://github.com/apache/calcite,25-06-2014,16-03-2025,Java,4760,0
+react-native-webrtc,The WebRTC module for React Native,https://github.com/react-native-webrtc/react-native-webrtc,27-09-2015,16-03-2025,Java,4755,80
+spotless,Keep your code spotless,https://github.com/diffplug/spotless,27-04-2015,16-03-2025,Java,4755,20
+AndroidStaggeredGrid,An Android staggered grid view which supports multiple columns with rows of varying sizes.,https://github.com/etsy/AndroidStaggeredGrid,09-12-2013,09-04-2023,Java,4749,7
+cameraview,[DEPRECATED] Easily integrate Camera features into your Android app,https://github.com/google/cameraview,04-08-2016,08-02-2020,Java,4742,0
+small-spring,🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。,https://github.com/fuzhengwei/small-spring,15-05-2021,17-07-2023,Java,4739,0
+android-tips-tricks,:ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development,https://github.com/nisrulz/android-tips-tricks,25-08-2016,12-09-2023,Java,4734,0
+reflections,Java runtime metadata analysis,https://github.com/ronmamo/reflections,16-04-2013,17-06-2024,Java,4734,3
+SwitchButton,A cute widget of Switch Button for  you to create beautiful and friendly UI.,https://github.com/kyleduo/SwitchButton,09-09-2014,02-12-2023,Java,4731,0
+Suwayomi-Server,A rewrite of Tachiyomi for the Desktop,https://github.com/Suwayomi/Suwayomi-Server,23-12-2020,14-03-2025,Java,4726,56
+mybatis,mybatis源码中文注释,https://github.com/tuguangquan/mybatis,03-11-2014,29-06-2022,Java,4722,0
+baseAdapter,"Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。",https://github.com/hongyangAndroid/baseAdapter,03-08-2015,13-10-2021,Java,4721,0
+Digital,A digital logic designer and circuit simulator.,https://github.com/hneemann/Digital,28-06-2016,10-03-2025,Java,4716,35
+spring-boot-best-practice,Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。,https://github.com/javastacks/spring-boot-best-practice,09-11-2018,27-02-2025,Java,4708,0
+Spring-Boot-In-Action,Spring Boot 系列实战合集,https://github.com/hansonwang99/Spring-Boot-In-Action,28-01-2019,16-12-2022,Java,4705,0
+chuck,An in-app HTTP inspector for Android OkHttp clients,https://github.com/jgilfelt/chuck,07-02-2017,13-12-2021,Java,4699,5
+spring-security-oauth,Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.,https://github.com/spring-attic/spring-security-oauth,26-07-2011,30-05-2022,Java,4695,0
+mockserver,"MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).",https://github.com/mock-server/mockserver,26-02-2013,14-02-2025,Java,4691,0
+ActiveAndroid,Active record style SQLite persistence for Android,https://github.com/pardom-zz/ActiveAndroid,15-11-2012,15-10-2021,Java,4690,0
+MaterialDateTimePicker,Pick a date or time on Android in style,https://github.com/wdullaer/MaterialDateTimePicker,03-01-2015,23-08-2022,Java,4666,54
+FirebaseUI-Android,Optimized UI components for Firebase,https://github.com/firebase/FirebaseUI-Android,09-07-2015,13-03-2025,Java,4666,65
+cardslib,Android Library to build a UI Card,https://github.com/gabrielemariotti/cardslib,20-09-2013,18-11-2021,Java,4650,27
+PageIndicatorView,An page indicator for Android ViewPager,https://github.com/romandanylyk/PageIndicatorView,20-08-2016,09-08-2024,Java,4640,14
+blog_demos,CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面,https://github.com/zq2599/blog_demos,09-04-2017,18-05-2024,Java,4633,0
+microservices-platform,基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。,https://github.com/zlt2000/microservices-platform,07-03-2019,06-01-2025,Java,4632,30
+esProc,"esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.",https://github.com/SPLWare/esProc,09-11-2021,15-03-2025,Java,4627,0
+spring-cloud-gateway,An API Gateway built on Spring Framework and Spring Boot providing routing and more.,https://github.com/spring-cloud/spring-cloud-gateway,16-11-2016,16-03-2025,Java,4612,23
+libsvm,LIBSVM -- A Library for Support Vector Machines,https://github.com/cjlin1/libsvm,10-09-2013,31-08-2024,Java,4610,0
+JAViewer,更优雅的驾车体验,https://github.com/SplashCodes/JAViewer,21-05-2016,22-08-2021,Java,4609,10
+SpringBoot-Shiro-Vue,"提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）",https://github.com/Heeexy/SpringBoot-Shiro-Vue,17-11-2017,12-08-2024,Java,4602,0
+ribbon,Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.,https://github.com/Netflix/ribbon,15-01-2013,10-12-2024,Java,4595,41
+rocketmq-externals,Mirror of Apache RocketMQ (Incubating),https://github.com/apache/rocketmq-externals,14-03-2017,09-12-2024,Java,4590,0
+JSON-java,A reference implementation of a JSON package in Java.,https://github.com/stleary/JSON-java,21-12-2010,06-03-2025,Java,4586,23
+crawler4j,Open Source Web Crawler for Java,https://github.com/yasserg/crawler4j,31-12-2011,04-11-2021,Java,4580,3
+poi-tl,Generate awesome word(docx) with template,https://github.com/Sayi/poi-tl,20-03-2015,25-02-2025,Java,4576,14
+SimplifyReader,一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！,https://github.com/chentao0707/SimplifyReader,17-08-2015,17-09-2021,Java,4576,0
+quasar,"Fibers, Channels and Actors for the JVM",https://github.com/puniverse/quasar,27-03-2013,21-01-2024,Java,4567,18
+ForestBlog,一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统,https://github.com/saysky/ForestBlog,08-10-2017,03-07-2024,Java,4565,0
+JGrowing,Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。,https://github.com/javagrowing/JGrowing,26-02-2019,13-10-2020,Java,4565,0
+micrometer,"An application observability facade for the most popular observability tools. Think SLF4J, but for observability.",https://github.com/micrometer-metrics/micrometer,10-04-2017,14-03-2025,Java,4559,255
+javacpp,The missing bridge between Java and native C++,https://github.com/bytedeco/javacpp,21-04-2014,22-11-2024,Java,4559,12
+db-tutorial,📚 后端程序员应该掌握的主流数据库知识,https://github.com/dunwu/db-tutorial,08-08-2017,08-10-2024,Java,4558,0
+Depth-LIB-Android-,A library that gives depth to Views.,https://github.com/danielzeller/Depth-LIB-Android-,27-04-2016,31-10-2024,Java,4557,0
+Douya,开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）,https://github.com/zhanghai/Douya,01-02-2016,14-06-2021,Java,4557,11
+sqlbrite,A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.,https://github.com/square/sqlbrite,19-02-2015,17-08-2020,Java,4556,9
+go-lang-idea-plugin,Google Go language IDE built using the IntelliJ Platform,https://github.com/go-lang-plugin-org/go-lang-idea-plugin,29-08-2010,11-08-2018,Java,4555,21
+automq,AutoMQ is a cloud-native alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.,https://github.com/AutoMQ/automq,17-08-2023,14-03-2025,Java,4546,56
+android-crop,Android library project for cropping images,https://github.com/jdamcd/android-crop,13-03-2014,01-06-2021,Java,4538,6
+maven,Apache Maven core,https://github.com/apache/maven,21-05-2009,15-03-2025,Java,4534,23
+--,停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制,https://github.com/981011512/--,18-06-2020,25-02-2025,Java,4525,0
+concurrent,这是RedSpider社区成员原创与维护的Java多线程系列文章。,https://github.com/RedSpider1/concurrent,03-11-2018,21-12-2024,Java,4524,0
+dexposed,dexposed enable 'god' mode for single android application.,https://github.com/alibaba/dexposed,30-06-2015,29-03-2017,Java,4524,0
+bottomsheet,Android component which presents a dismissible view from the bottom of the screen,https://github.com/Flipboard/bottomsheet,23-04-2015,13-03-2019,Java,4522,10
+simplify,Android virtual machine and deobfuscator,https://github.com/CalebFenton/simplify,16-01-2014,30-04-2022,Java,4516,9
+SmoothProgressBar,A small Android library allowing you to have a smooth and customizable horizontal or circular indeterminate ProgressBar,https://github.com/castorflex/SmoothProgressBar,27-11-2013,21-05-2021,Java,4514,9
+Infinity-For-Reddit,A Reddit client for Android,https://github.com/Docile-Alligator/Infinity-For-Reddit,26-07-2018,16-03-2025,Java,4513,173
+GCViewer,"Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)",https://github.com/chewiebug/GCViewer,23-10-2011,02-02-2025,Java,4510,5
+android,📱 Nextcloud Android app,https://github.com/nextcloud/android,06-06-2016,15-03-2025,Java,4498,244
+AndroidHttpCapture,"AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的""Fiddler"" \(^o^)/~",https://github.com/JZ-Darkal/AndroidHttpCapture,15-10-2016,22-03-2024,Java,4491,1
+bilibili-android-client,An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！,https://github.com/HotBitmapGG/bilibili-android-client,01-06-2016,17-03-2021,Java,4491,1
+azkaban,Azkaban workflow manager.,https://github.com/azkaban/azkaban,18-10-2012,03-07-2024,Java,4490,48
+java-algorithms-implementation,Algorithms and Data Structures implemented in Java,https://github.com/phishman3579/java-algorithms-implementation,20-11-2013,05-12-2022,Java,4487,0
+NineOldAndroids,[DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!,https://github.com/JakeWharton/NineOldAndroids,08-12-2011,23-04-2016,Java,4480,0
+objectbox-java,"Android Database - first and fast, lightweight on-device vector database",https://github.com/objectbox/objectbox-java,24-01-2017,05-03-2025,Java,4480,46
+allure2,"Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process",https://github.com/allure-framework/allure2,27-05-2016,07-03-2025,Java,4476,76
+opengrok,"OpenGrok is a fast and usable source code search and cross reference engine, written in Java",https://github.com/oracle/opengrok,07-01-2013,06-03-2025,Java,4474,285
+AndroidTutorialForBeginners,Step by step to build Android apps using Android Studio,https://github.com/hussien89aa/AndroidTutorialForBeginners,26-09-2016,22-08-2023,Java,4469,0
+epic,"Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 5.0~11",https://github.com/tiann/epic,22-05-2017,22-07-2023,Java,4463,5
+android-mvp-architecture,"This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView",https://github.com/janishar/android-mvp-architecture,27-01-2017,16-04-2024,Java,4444,0
+android-times-square,Standalone Android widget for picking a single date from a calendar view.,https://github.com/square/android-times-square,30-01-2013,28-05-2023,Java,4438,0
+Robust,Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.,https://github.com/Meituan-Dianping/Robust,14-03-2017,27-04-2022,Java,4436,13
+JDA,Java wrapper for the popular chat & VOIP service: Discord https://discord.com,https://github.com/discord-jda/JDA,12-12-2015,23-02-2025,Java,4436,99
+GT,GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.,https://github.com/Tencent/GT,13-01-2016,07-04-2023,Java,4407,3
+DeepLinkDispatch,"A simple, annotation-based library for making deep link handling better on Android",https://github.com/airbnb/DeepLinkDispatch,11-06-2015,27-06-2023,Java,4397,24
+moco,Easy Setup Stub Server,https://github.com/dreamhead/moco,18-10-2012,24-07-2024,Java,4391,1
+Ant-Media-Server,"Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.",https://github.com/ant-media/Ant-Media-Server,01-03-2017,16-03-2025,Java,4389,62
+ticker,An Android text view with scrolling text change animation,https://github.com/robinhood/ticker,15-07-2016,23-11-2023,Java,4385,9
+WePush,专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信,https://github.com/rememberber/WePush,23-06-2017,28-11-2024,Java,4376,58
+djl,An Engine-Agnostic Deep Learning Framework in Java,https://github.com/deepjavalibrary/djl,29-10-2019,14-03-2025,Java,4372,33
+BottomNavigation,This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations,https://github.com/Ashok-Varma/BottomNavigation,19-03-2016,14-12-2020,Java,4367,16
+shiro,Apache Shiro,https://github.com/apache/shiro,29-08-2009,14-03-2025,Java,4360,11
+leet-code,Java Solutions to problems on LintCode/LeetCode,https://github.com/awangdev/leet-code,25-04-2015,27-11-2024,Java,4357,0
+ipscan,Angry IP Scanner - fast and friendly network scanner,https://github.com/angryip/ipscan,28-06-2011,23-11-2024,Java,4356,30
+flink-recommandSystem-demo,:helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。,https://github.com/water8394/flink-recommandSystem-demo,15-05-2019,04-02-2024,Java,4352,0
+GDA-android-reversing-Tool,"the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc. ",https://github.com/charles2gan/GDA-android-reversing-Tool,31-10-2017,08-05-2024,Java,4346,40
+Gadgetbridge,"We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.",https://github.com/Freeyourgadget/Gadgetbridge,05-01-2015,23-12-2024,Java,4313,0
+BGARefreshLayout-Android,多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位,https://github.com/bingoogolapple/BGARefreshLayout-Android,28-05-2015,10-12-2024,Java,4310,4
+h2database,H2 is an embeddable RDBMS written in Java.,https://github.com/h2database/h2database,10-04-2015,17-02-2025,Java,4307,23
+ImagePicker,完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数,https://github.com/jeasonlzy/ImagePicker,27-01-2016,27-10-2020,Java,4301,5
+serve,"Serve, optimize and scale PyTorch models in production",https://github.com/pytorch/serve,03-10-2019,15-03-2025,Java,4300,24
+jacoco,:microscope: Java Code Coverage Library,https://github.com/jacoco/jacoco,08-07-2012,08-03-2025,Java,4297,48
+android-volley,DEPRECATED,https://github.com/mcxiaoke/android-volley,21-05-2013,15-05-2017,Java,4290,0
+frontend-maven-plugin,"""Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins."" A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.",https://github.com/eirslett/frontend-maven-plugin,30-08-2013,17-01-2025,Java,4285,0
+coursera-android,Source Code for Android Course Example Applications,https://github.com/aporter/coursera-android,05-01-2014,04-10-2020,Java,4277,0
+android-autofittextview,A TextView that automatically resizes text to fit perfectly within its bounds.,https://github.com/grantland/android-autofittextview,14-02-2011,12-01-2019,Java,4269,1
+CircleIndicator,A lightweight indicator like in nexus 5 launcher,https://github.com/ongakuer/CircleIndicator,30-07-2014,03-05-2023,Java,4268,7
+java-learning,旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web,https://github.com/brianway/java-learning,09-02-2016,08-01-2022,Java,4266,0
+IoT-Technical-Guide,":honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)",https://github.com/IoT-Technology/IoT-Technical-Guide,02-04-2019,05-09-2023,Java,4261,0
+InternetArchitect,年薪百万互联网架构师课程文档及源码(公开部分),https://github.com/bjmashibing/InternetArchitect,19-10-2019,14-12-2022,Java,4255,0
+dynamic-tp,"🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",https://github.com/dromara/dynamic-tp,07-01-2022,11-03-2025,Java,4253,17
+dragonwell8,Alibaba Dragonwell8 JDK,https://github.com/dragonwell-project/dragonwell8,07-03-2019,03-03-2025,Java,4251,38
+OpenHub,"An open source GitHub Android client app, faster and concise.",https://github.com/ThirtyDegreesRay/OpenHub,11-07-2017,30-05-2024,Java,4251,31
+aurora,基于SpringBoot+Vue开发的个人博客系统,https://github.com/linhaojun857/aurora,19-08-2022,22-09-2024,Java,4240,0
+flutter-webrtc,WebRTC plugin for Flutter Mobile/Desktop/Web,https://github.com/flutter-webrtc/flutter-webrtc,07-03-2018,12-03-2025,Java,4235,122
+failsafe,Fault tolerance and resilience patterns for the JVM,https://github.com/failsafe-lib/failsafe,30-06-2015,09-06-2024,Java,4231,0
+MallChat,mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）,https://github.com/zongzibinbin/MallChat,16-03-2023,19-08-2024,Java,4224,0
+ShineButton,This is a UI lib for Android. Effects like shining.,https://github.com/ChadCSong/ShineButton,05-07-2016,08-10-2022,Java,4220,2
+spring-ai,An Application Framework for AI Engineering,https://github.com/spring-projects/spring-ai,27-06-2023,14-03-2025,Java,4215,0
+tx-lcn,"LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases",https://github.com/codingapi/tx-lcn,11-11-2017,06-09-2023,Java,4208,14
+crate,"CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",https://github.com/crate/crate,10-04-2013,14-03-2025,Java,4194,127
+CoordinatorTabLayout,Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件,https://github.com/hugeterry/CoordinatorTabLayout,27-01-2017,25-12-2019,Java,4192,0
+jitsi,"Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.",https://github.com/jitsi/jitsi,24-04-2013,28-10-2024,Java,4188,7
+FloatWindow,Andorid 任意界面悬浮窗，实现悬浮窗如此简单,https://github.com/yhaolpz/FloatWindow,14-11-2017,13-10-2021,Java,4188,9
+camunda-bpm-platform,"C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.",https://github.com/camunda/camunda-bpm-platform,03-01-2013,14-03-2025,Java,4187,0
+JKeyboardPanelSwitch,For resolve the layout conflict when keybord & panel are switching (Android键盘面板冲突 布局闪动处理方案),https://github.com/Jacksgong/JKeyboardPanelSwitch,01-07-2015,18-08-2020,Java,4186,14
+spring-boot-starter,MyBatis integration with Spring Boot,https://github.com/mybatis/spring-boot-starter,25-09-2015,06-03-2025,Java,4183,31
+powermock,PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.,https://github.com/powermock/powermock,28-05-2014,03-01-2024,Java,4181,16
+campus-imaotai,i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）,https://github.com/oddfar/campus-imaotai,07-07-2023,21-01-2025,Java,4178,11
+unidbg,"Allows you to emulate an Android native library, and an experimental  iOS emulation",https://github.com/zhkl0228/unidbg,26-02-2019,05-02-2025,Java,4176,15
+BGABanner-Android,引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果,https://github.com/bingoogolapple/BGABanner-Android,25-10-2014,10-12-2024,Java,4172,0
+javassist,Java bytecode engineering toolkit,https://github.com/jboss-javassist/javassist,24-05-2013,03-10-2024,Java,4169,24
+open-location-code,"Open Location Code is a library to generate short codes, called ""plus codes"", that can be used as digital addresses where street addresses don't exist.",https://github.com/google/open-location-code,30-09-2014,07-03-2025,Java,4168,5
+aws-sdk-java,"The official AWS SDK for Java 1.x (In Maintenance Mode, End-of-Life on 12/31/2025). The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/",https://github.com/aws/aws-sdk-java,22-03-2010,19-02-2025,Java,4148,0
+AndroidWiFiADB,"IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected.",https://github.com/pedrovgs/AndroidWiFiADB,18-10-2015,23-05-2019,Java,4146,8
+zotfile,"Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.",https://github.com/jlegewie/zotfile,30-12-2011,16-04-2024,Java,4141,33
+malmo,"Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",https://github.com/microsoft/malmo,17-05-2016,04-12-2023,Java,4136,21
+markor,"Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",https://github.com/gsantner/markor,26-08-2017,11-03-2025,Java,4131,76
+hmily,Distributed transaction solutions,https://github.com/dromara/hmily,28-09-2017,14-07-2024,Java,4122,0
+Tangram-Android,"Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.",https://github.com/alibaba/Tangram-Android,29-03-2017,14-07-2021,Java,4114,38
+guide-rpc-framework,A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）,https://github.com/Snailclimb/guide-rpc-framework,10-05-2020,22-07-2024,Java,4113,0
+LoadingDrawable,"Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too.",https://github.com/dinuscxj/LoadingDrawable,16-04-2016,13-04-2017,Java,4113,0
+maxwell,"Maxwell's daemon, a mysql-to-json kafka producer",https://github.com/zendesk/maxwell,09-02-2015,12-03-2025,Java,4094,213
+ExpandableTextView,Android's TextView that can expand/collapse like the Google Play's app description,https://github.com/Manabu-GT/ExpandableTextView,17-05-2014,17-07-2022,Java,4089,4
+fastexcel,easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具,https://github.com/fast-excel/fastexcel,05-10-2024,15-03-2025,Java,4077,3
+tiny-spring,A tiny IoC container refer to Spring.,https://github.com/code4craft/tiny-spring,10-01-2014,27-11-2023,Java,4068,0
+dolby_beta,杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！,https://github.com/nining377/dolby_beta,19-05-2020,22-06-2024,Java,4067,37
+ViewPagerCards,ViewPager cards inspired by Duolingo,https://github.com/rubensousa/ViewPagerCards,20-08-2016,11-03-2018,Java,4067,0
+oblivion,Unofficial warp client for android,https://github.com/bepass-org/oblivion,08-02-2024,20-02-2025,Java,4064,12
+java-developer-roadmap,Roadmap to becoming a Java developer in 2025,https://github.com/s4kibs4mi/java-developer-roadmap,23-04-2019,05-01-2025,Java,4062,0
+jodd,Jodd! Lightweight. Java. Zero dependencies. Use what you like.,https://github.com/oblac/jodd,07-09-2012,15-04-2024,Java,4062,37
+bistoury,Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案,https://github.com/qunarcorp/bistoury,01-08-2019,16-12-2022,Java,4056,8
+LSPosed_mod,My changes to LSPosed,https://github.com/mywalkb/LSPosed_mod,28-03-2022,30-09-2024,Java,4055,10
+CC,业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。Componentize your android project gradually.,https://github.com/luckybilly/CC,23-11-2017,11-10-2023,Java,4051,0
+SmartCropper,🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。,https://github.com/pqpo/SmartCropper,03-08-2017,01-04-2024,Java,4046,13
+chunjun,A data integration framework,https://github.com/DTStack/chunjun,03-04-2018,05-03-2025,Java,4032,30
+greys-anatomy,Java诊断工具,https://github.com/oldmanpushcart/greys-anatomy,21-11-2012,25-10-2022,Java,4028,0
+XCL-Charts,"Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Circle Chart)、弧线比较图、散点图(Scatter Chart)、气泡图(Bubble Chart)、范围条形图(RangeBar Chart)等图表。其它特性还包括支持图表缩放、手势移动、点击响应、动画效果、多轴显示、图表参考线、混合图表及同数据源不同图表类型切换等。",https://github.com/xcltapestry/XCL-Charts,09-06-2014,07-07-2017,Java,4017,0
+streampark,Make stream processing easier! Easy-to-use streaming application development framework and operation platform.,https://github.com/apache/streampark,27-05-2019,11-03-2025,Java,4016,28
+dubbo-admin,The ops and reference implementation for Apache Dubbo,https://github.com/apache/dubbo-admin,11-01-2018,16-08-2024,Java,4012,6
+Bolts-Android,Bolts is a collection of low-level libraries designed to make developing mobile apps easier.,https://github.com/BoltsFramework/Bolts-Android,30-01-2014,11-03-2019,Java,4011,11
+Telegram-X,The main repository of Telegram X — official alternative Telegram client for Android.,https://github.com/TGX-Android/Telegram-X,17-08-2021,15-03-2025,Java,4006,4
+FloatingActionButton,[DEPRECATED] Android floating action button,https://github.com/makovkastar/FloatingActionButton,22-07-2014,28-05-2023,Java,4004,0
+Phoenix,Phoenix Pull-to-Refresh,https://github.com/Yalantis/Phoenix,12-01-2015,22-09-2022,Java,4004,1
+TwinklingRefreshLayout,"RefreshLayout that support for OverScroll and better than iOS.  支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView",https://github.com/lcodecorex/TwinklingRefreshLayout,02-03-2016,27-03-2023,Java,4002,0
+BigImageViewer,"Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻",https://github.com/Piasy/BigImageViewer,06-11-2016,12-12-2022,Java,3986,0
+hawk,"✔️ Secure, simple key-value storage for Android",https://github.com/orhanobut/hawk,19-02-2015,10-07-2022,Java,3985,22
+geoserver,Official GeoServer repository,https://github.com/geoserver/geoserver,10-11-2011,16-03-2025,Java,3982,55
+BadgeView,支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView,https://github.com/qstumn/BadgeView,08-02-2017,30-03-2021,Java,3979,5
+fastjson2,🚄 FASTJSON2 is a Java JSON  library with excellent performance.,https://github.com/alibaba/fastjson2,17-04-2022,16-03-2025,Java,3979,56
+GuideView,"东半球最好用的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导串联展示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment",https://github.com/binIoter/GuideView,19-06-2016,28-05-2023,Java,3957,0
+tech-weekly,「小马哥技术周报」,https://github.com/mercyblitz/tech-weekly,03-12-2018,04-04-2024,Java,3956,0
+effective-java-3e-source-code,"The source code from the third edition of Effective Java, with minor additions as necessary to make it runnable.",https://github.com/jbloch/effective-java-3e-source-code,03-08-2018,28-10-2020,Java,3952,0
+Aliucord,A modification for the Discord Android App,https://github.com/Aliucord/Aliucord,27-02-2021,14-03-2025,Java,3951,14
+interviewGuide,推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-NotFound  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。,https://github.com/NotFound9/interviewGuide,20-04-2016,07-08-2023,Java,3944,0
+RichText,Android平台下的富文本解析器，支持Html和Markdown,https://github.com/zzhoujay/RichText,21-07-2015,10-07-2024,Java,3940,0
+android-iconify,"Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,...",https://github.com/JoanZapata/android-iconify,12-06-2013,17-11-2022,Java,3937,0
+RxJavaSamples,RxJava 2 和 Retrofit 结合使用的几个最常见使用方式举例,https://github.com/rengwuxian/RxJavaSamples,24-03-2016,16-01-2018,Java,3937,3
+XChange,XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.,https://github.com/knowm/XChange,02-02-2012,14-03-2025,Java,3935,0
+novel-plus,novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。,https://github.com/201206030/novel-plus,02-05-2020,16-03-2025,Java,3933,24
+LiveEventBus,:mailbox_with_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP,https://github.com/JeremyLiao/LiveEventBus,11-07-2018,16-05-2024,Java,3929,0
+XposedInstaller,Sem descrição,https://github.com/rovo89/XposedInstaller,02-04-2012,26-05-2023,Java,3928,0
+jmonkeyengine,A complete 3-D game development suite written in Java.,https://github.com/jMonkeyEngine/jmonkeyengine,20-03-2014,13-03-2025,Java,3925,69
+DataMiningAlgorithm,数据挖掘18大算法实现以及其他相关经典DM算法,https://github.com/linyiqun/DataMiningAlgorithm,11-01-2015,26-03-2016,Java,3904,0
+Conductor,"A small, yet full-featured framework that allows building View-based Android applications",https://github.com/bluelinelabs/Conductor,16-03-2016,07-06-2024,Java,3902,36
+jstorm,Enterprise Stream Process Engine,https://github.com/alibaba/jstorm,03-09-2013,16-06-2023,Java,3901,22
+jetty.project,"Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more",https://github.com/jetty/jetty.project,14-07-2011,16-03-2025,Java,3898,110
+learning-spark,Example code from Learning Spark book,https://github.com/databricks/learning-spark,16-06-2014,16-12-2023,Java,3890,0
+awaitility,Awaitility is a small Java DSL for synchronizing asynchronous operations,https://github.com/awaitility/awaitility,22-01-2010,26-02-2025,Java,3880,0
+Leetcode,Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.,https://github.com/fishercoder1534/Leetcode,31-07-2016,03-03-2025,Java,3879,0
+BackgroundLibrary,"A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）",https://github.com/JavaNoober/BackgroundLibrary,09-09-2018,09-03-2023,Java,3873,13
+grobid,A machine learning software for extracting information from scholarly documents,https://github.com/kermitt2/grobid,13-09-2012,12-03-2025,Java,3868,21
+bitcoin-wallet,"Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.",https://github.com/bitcoin-wallet/bitcoin-wallet,31-03-2012,05-03-2025,Java,3863,0
+xboot,基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2开放平台 客服机器人 数据大屏 暗黑模式,https://github.com/Exrick/xboot,23-04-2018,14-06-2023,Java,3862,6
+sofa-rpc,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.",https://github.com/sofastack/sofa-rpc,09-04-2018,14-03-2025,Java,3861,61
+screw,简洁好用的数据库表结构文档生成器,https://github.com/pingfangushi/screw,21-06-2020,13-04-2023,Java,3859,0
+Launcher3,"The Launcher3 fork known as ""Rootless Pixel Launcher""",https://github.com/amirzaidi/Launcher3,30-05-2017,24-08-2022,Java,3859,22
+TinyPinyin,适用于Java和Android的快速、低内存占用的汉字转拼音库。,https://github.com/promeG/TinyPinyin,30-09-2015,25-11-2024,Java,3855,2
+Timeline-View,"Timeline View is a simple and highly customizable android library for creating shipment/order tracking, step progress indicators, etc.",https://github.com/vipulasri/Timeline-View,15-12-2015,16-02-2025,Java,3853,15
+IDDD_Samples,"These are the sample Bounded Contexts from the book ""Implementing Domain-Driven Design"" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168",https://github.com/VaughnVernon/IDDD_Samples,08-04-2013,09-09-2023,Java,3839,0
+java-tron,Java implementation of the Tron whitepaper,https://github.com/tronprotocol/java-tron,26-12-2017,14-03-2025,Java,3837,79
+ahbottomnavigation,A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.,https://github.com/aurelhubert/ahbottomnavigation,17-03-2016,10-07-2021,Java,3835,14
+MaterialSearchView,Cute library to implement SearchView in a Material Design Approach,https://github.com/MiguelCatalan/MaterialSearchView,14-09-2015,24-07-2020,Java,3830,6
+DSBridge-Android,":earth_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.",https://github.com/wendux/DSBridge-Android,02-01-2017,11-09-2020,Java,3823,2
+ripme,Downloads albums from the web in bulk for archive purposes,https://github.com/RipMeApp/ripme,06-01-2017,11-02-2025,Java,3821,132
+CircleProgress,"CircleProgress, DonutProgress, ArcProgress",https://github.com/uknownothingsnow/CircleProgress,30-10-2014,09-10-2021,Java,3817,0
+leetcode-editor,"Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio",https://github.com/shuzijun/leetcode-editor,19-03-2019,12-08-2024,Java,3812,55
+ShedLock,Distributed lock for your scheduled tasks,https://github.com/lukas-krecan/ShedLock,11-12-2016,14-03-2025,Java,3793,0
+jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,https://github.com/JabRef/jabref,11-03-2014,16-03-2025,Java,3786,44
+MarqueeView,俗名：可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告,https://github.com/sunfusheng/MarqueeView,01-06-2016,11-11-2020,Java,3782,0
+syncthing-android,Wrapper of syncthing for Android.,https://github.com/syncthing/syncthing-android,22-02-2014,03-12-2024,Java,3782,332
+SuperTextView,a super textview for android,https://github.com/lygttpod/SuperTextView,19-10-2016,15-06-2021,Java,3773,39
+OpenPDF,"OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.",https://github.com/LibrePDF/OpenPDF,11-07-2016,27-11-2024,Java,3770,73
+AndServer,:cherries: Web server and web framework of Android platform.,https://github.com/yanzhenjie/AndServer,14-06-2016,07-06-2023,Java,3767,1
+PeerBanHelper,"Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet",https://github.com/PBH-BTN/PeerBanHelper,07-02-2024,13-03-2025,Java,3767,113
+mpush,MPush开源实时消息推送系统,https://github.com/mpusher/mpush,28-04-2016,17-06-2022,Java,3767,9
+roboguice,"Google Guice on Android, version 3.0 [RETIRED]",https://github.com/roboguice/roboguice,12-08-2012,19-01-2017,Java,3759,0
+andOTP,[Unmaintained] Open source two-factor authentication for Android,https://github.com/andOTP/andOTP,05-07-2017,14-06-2022,Java,3754,38
+My-Blog,:palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验,https://github.com/ZHENFENG13/My-Blog,04-03-2019,07-03-2024,Java,3751,0
+CustomActivityOnCrash,"Android library that allows launching a custom activity when your app crashes, instead of showing the hated ""Unfortunately, X has stopped"" dialog.",https://github.com/Ereza/CustomActivityOnCrash,04-07-2014,17-05-2024,Java,3749,12
+blurkit-android,The missing Android blurring library. Fast blur-behind layout that parallels iOS.,https://github.com/CameraKit/blurkit-android,06-11-2016,03-04-2021,Java,3744,3
+sticky-headers-recyclerview,[UNMAINTAINED] Sticky Headers decorator for Android's RecyclerView,https://github.com/timehop/sticky-headers-recyclerview,03-10-2014,24-10-2018,Java,3743,0
+react-native-share,"Social share, sending simple data to other apps.",https://github.com/react-native-share/react-native-share,30-09-2015,16-03-2025,Java,3743,133
+lilishop,开源商城 JAVA商城 多语言商城 分销商城  uniapp商城 小程序商城  SAAS商城 ,https://github.com/lilishop/lilishop,14-05-2021,24-02-2025,Java,3743,3
+SwipeDelMenuLayout,"The most simple SwipeMenu in the history, 0 coupling, support any ViewGroup. Step integration swipe (delete) menu, high imitation QQ, iOS. ~史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。~",https://github.com/mcxtzhang/SwipeDelMenuLayout,25-08-2016,02-01-2020,Java,3742,2
+mlkit,A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS,https://github.com/googlesamples/mlkit,28-05-2020,04-10-2024,Java,3729,1
+spruce-android,Spruce Animation Library,https://github.com/willowtreeapps/spruce-android,23-02-2017,09-02-2021,Java,3720,3
+Terasology,Terasology - open source voxel world,https://github.com/MovingBlocks/Terasology,04-03-2011,17-12-2024,Java,3711,70
+NullAway,A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead,https://github.com/uber/NullAway,01-09-2017,15-03-2025,Java,3709,25
+atmosphere,Event Driven WebSockets Framework  with Cross-Browser Fallbacks,https://github.com/Atmosphere/atmosphere,30-06-2010,06-02-2025,Java,3708,0
+NoHttp,:lemon: Android实现Http标准协议框架，支持多种缓存模式，底层可动态切换OkHttp、URLConnection。,https://github.com/yanzhenjie/NoHttp,29-07-2015,30-07-2018,Java,3707,0
+ChatKit,"Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon",https://github.com/stfalcon-studio/ChatKit,02-02-2017,23-05-2022,Java,3705,1
+java,Official Java client library for kubernetes,https://github.com/kubernetes-client/java,08-05-2017,15-03-2025,Java,3704,53
+StylishMusicPlayer,A stylish music player for android device 16+,https://github.com/ryanhoo/StylishMusicPlayer,13-09-2016,13-05-2020,Java,3703,0
+Skeleton,A library provides an easy way to show skeleton loading view like Facebook and Alipay,https://github.com/ethanhua/Skeleton,30-07-2017,31-07-2021,Java,3697,0
+ByteLegend,Enjoy programming while playing a game.,https://github.com/ByteLegend/ByteLegend,01-02-2021,17-08-2023,Java,3694,0
+Play-with-Algorithms,"Codes of my MOOC Course <Play with Algorithms>, Both in C++ and Java language. Updated contents and practices are also included. 我在慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。",https://github.com/liuyubobobo/Play-with-Algorithms,05-07-2016,12-12-2021,Java,3685,0
+ASimpleCache,a simple cache for android and java,https://github.com/yangfuhai/ASimpleCache,28-07-2013,25-07-2020,Java,3684,0
+BannerViewPager,🚀  An awesome banner view  for Android，Based on ViewPager2. 这可能是全网最好用的ViewPager轮播图。简单、高效，一行代码实现循环轮播，一屏三页任意变，指示器样式任你挑。,https://github.com/zhpanvip/BannerViewPager,28-03-2017,20-01-2025,Java,3682,56
+kylin,Apache Kylin,https://github.com/apache/kylin,03-01-2015,16-03-2025,Java,3682,1
+rejoiner,Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources,https://github.com/google/rejoiner,06-12-2017,13-06-2023,Java,3668,3
+groupie,Groupie helps you display and manage complex RecyclerView layouts.,https://github.com/lisawray/groupie,01-09-2016,03-10-2023,Java,3665,28
+shopizer,Shopizer java e-commerce software,https://github.com/shopizer-ecommerce/shopizer,21-11-2012,06-02-2025,Java,3664,18
+bundletool,Bundletool is a command-line tool to manipulate Android App Bundles,https://github.com/google/bundletool,04-05-2018,06-03-2025,Java,3663,63
+pixel-dungeon,Traditional roguelike game with pixel-art graphics and simple interface,https://github.com/watabou/pixel-dungeon,26-07-2014,23-07-2019,Java,3662,0
+sofa-jraft,A production-grade java implementation of RAFT consensus algorithm.,https://github.com/sofastack/sofa-jraft,04-03-2019,18-02-2025,Java,3661,31
+databus,Source-agnostic distributed change data capture system,https://github.com/linkedin/databus,17-12-2012,28-09-2023,Java,3656,0
+pdfsam,"PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages",https://github.com/torakiki/pdfsam,24-09-2013,10-03-2025,Java,3655,64
+Linkage-RecyclerView,即使不用饿了么订餐，也请务必收藏好该库！🔥  一行代码即可接入，二级联动订餐列表。,https://github.com/KunMinX/Linkage-RecyclerView,22-04-2019,17-03-2023,Java,3652,0
+android-common,"Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util, NotificationUtil, NumberUtil, PackageUtil, RandomUtil, ShellUtil, TelephoneUtil, VibrateUtil, IOUtils, FileUtils, AsyncExecutor, etc.  通用性强，纯洁简单，体积不到50K！其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。",https://github.com/litesuits/android-common,29-05-2014,06-09-2017,Java,3647,0
+chatgpt-java,"ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications.",https://github.com/PlexPt/chatgpt-java,07-12-2022,09-12-2024,Java,3636,24
+light-4j,"A fast, lightweight and more productive microservices framework",https://github.com/networknt/light-4j,09-09-2016,07-03-2025,Java,3635,189
+FlatLaf,FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support),https://github.com/JFormDesigner/FlatLaf,19-08-2019,16-03-2025,Java,3634,85
+RoaringBitmap,"A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others",https://github.com/RoaringBitmap/RoaringBitmap,17-06-2013,14-03-2025,Java,3631,34
+incubator-heron,"Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",https://github.com/apache/incubator-heron,25-09-2015,01-03-2023,Java,3629,56
+JCTools,Sem descrição,https://github.com/JCTools/JCTools,10-11-2013,01-06-2024,Java,3628,18
+undertow,High performance non-blocking webserver,https://github.com/undertow-io/undertow,19-07-2012,14-03-2025,Java,3627,9
+Android-BluetoothKit,Android BLE蓝牙通信库,https://github.com/dingjikerbo/Android-BluetoothKit,08-10-2015,25-04-2023,Java,3625,0
+BlurView,Dynamic iOS-like blur of underlying Views for Android,https://github.com/Dimezis/BlurView,21-04-2016,04-01-2025,Java,3618,29
+emojicon,"A library to show emoji in TextView, EditText (like WhatsApp) for Android",https://github.com/rockerhieu/emojicon,18-01-2014,13-06-2020,Java,3610,2
+tablesaw,Java dataframe and visualization library,https://github.com/jtablesaw/tablesaw,01-01-2016,18-02-2025,Java,3607,79
+spotbugs,SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.,https://github.com/spotbugs/spotbugs,04-11-2016,16-03-2025,Java,3602,68
+helidon,Java libraries for writing microservices,https://github.com/helidon-io/helidon,27-08-2018,14-03-2025,Java,3599,119
+ExplosionField,explosive dust effect for views,https://github.com/tyrantgit/ExplosionField,23-09-2015,17-01-2017,Java,3596,0
+fernflower,Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream),https://github.com/fesh0r/fernflower,03-10-2014,04-03-2025,Java,3594,0
+Alink,"Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. ",https://github.com/alibaba/Alink,30-09-2018,07-06-2024,Java,3594,22
+DropDownMenu,一个实用的多条件筛选菜单,https://github.com/dongjunkun/DropDownMenu,23-06-2015,18-02-2022,Java,3590,2
+grpc-spring,Spring Boot starter module for gRPC framework.,https://github.com/grpc-ecosystem/grpc-spring,30-12-2016,04-03-2025,Java,3589,34
+NewbieGuide,Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示,https://github.com/huburt-Hu/NewbieGuide,28-07-2017,18-02-2024,Java,3587,20
+android-stackblur,"Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.",https://github.com/kikoso/android-stackblur,15-08-2013,28-05-2023,Java,3583,0
+cyberduck,"Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.",https://github.com/iterate-ch/cyberduck,20-01-2017,15-03-2025,Java,3579,0
+data-transfer-project,"The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.",https://github.com/dtinit/data-transfer-project,04-01-2018,14-03-2025,Java,3577,61
+spock,The Enterprise-ready testing and specification framework.,https://github.com/spockframework/spock,12-12-2010,16-03-2025,Java,3575,25
+JavaSourceCodeLearning,Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码,https://github.com/coderbruis/JavaSourceCodeLearning,02-06-2020,31-05-2022,Java,3572,0
+android-maps-utils,Maps SDK for Android Utility Library,https://github.com/googlemaps/android-maps-utils,17-05-2013,11-03-2025,Java,3570,46
+FlexibleAdapter,Fast and versatile Adapter for RecyclerView which regroups several features into one library to considerably improve the user experience :-),https://github.com/davideas/FlexibleAdapter,02-05-2015,17-04-2023,Java,3566,30
+ThreeTenABP,An adaptation of the JSR-310 backport for Android.,https://github.com/JakeWharton/ThreeTenABP,03-07-2015,12-03-2025,Java,3562,0
+ShadowLayout,"可定制化阴影的万能阴影布局ShadowLayout 3.0 震撼上线。效果赶超CardView。阴影支持x,y轴偏移，支持阴影扩散程度，支持阴影圆角，支持单边或多边不显示阴影；控件支持动态设置shape和selector（项目里再也不用画shape了）；支持随意更改颜色值，支持随意更改颜色值，支持随意更改颜色值。重要的事情说三遍",https://github.com/lihangleo2/ShadowLayout,09-07-2019,06-01-2025,Java,3562,28
+AppUpdate,🚀   Android 版本更新 🚀   a  library for android version update  🚀 ,https://github.com/WVector/AppUpdate,19-06-2017,19-01-2021,Java,3558,3
+jackson-databind,General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s),https://github.com/FasterXML/jackson-databind,23-12-2011,14-03-2025,Java,3557,0
+vertx-examples,Vert.x examples,https://github.com/vert-x3/vertx-examples,24-02-2015,13-02-2025,Java,3556,0
+netty-learning,Netty learning.,https://github.com/code4craft/netty-learning,19-09-2013,07-02-2017,Java,3552,0
+hackpad,Hackpad is a web-based realtime wiki.,https://github.com/dropbox/hackpad,14-08-2015,22-05-2023,Java,3551,0
+parceler,:package: Android Parcelables made easy through code generation.,https://github.com/johncarl81/parceler,03-07-2013,20-05-2022,Java,3548,0
+MagicaSakura,MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. ,https://github.com/bilibili/MagicaSakura,23-06-2016,16-02-2022,Java,3548,3
+Android,Android related examples,https://github.com/hmkcode/Android,02-09-2013,24-12-2023,Java,3545,0
+floatingsearchview,A search view that implements a floating search bar also known as persistent search,https://github.com/arimorty/floatingsearchview,22-11-2015,28-08-2022,Java,3540,0
+retrolambda,"Backport of Java 8's lambda expressions to Java 7, 6 and 5",https://github.com/luontola/retrolambda,20-07-2013,26-09-2023,Java,3539,0
+learning-note,Java开发及面试（个人面试、工作总结、资料收集站）,https://github.com/rbmonster/learning-note,15-06-2020,16-01-2025,Java,3533,0
+Store,Android Library for Async Data Loading and Caching,https://github.com/nytimes/Store,29-11-2016,06-12-2019,Java,3522,0
+ftgo-application,Example code for the book Microservice patterns,https://github.com/microservices-patterns/ftgo-application,23-10-2017,13-03-2025,Java,3521,0
+initializr,A quickstart generator for Spring projects,https://github.com/spring-io/initializr,07-06-2013,13-03-2025,Java,3520,16
+RecyclerViewPager,Deprecated,https://github.com/lsjwzh/RecyclerViewPager,17-01-2015,11-03-2021,Java,3520,10
+camunda,Process Orchestration Framework,https://github.com/camunda/camunda,20-03-2016,16-03-2025,Java,3519,364
+mcaselector,A tool to select chunks from Minecraft worlds for deletion or export.,https://github.com/Querz/mcaselector,22-04-2018,17-03-2025,Java,3516,68
+Music-Player,From UI Proposal to Code :notes::arrow_forward:,https://github.com/andremion/Music-Player,06-05-2016,02-12-2018,Java,3515,2
+brigadier,"Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.",https://github.com/Mojang/brigadier,15-09-2014,15-08-2024,Java,3514,3
+AndroRAT,A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side,https://github.com/karma9874/AndroRAT,22-03-2020,17-07-2024,Java,3510,0
+yacy_search_server,Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance,https://github.com/yacy/yacy_search_server,22-03-2015,03-01-2025,Java,3509,0
+SwipeMenuListView,[DEPRECATED] A swipe menu for ListView.,https://github.com/baoyongzhang/SwipeMenuListView,24-08-2014,08-09-2022,Java,3506,2
+GeekNews,:books:A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide,https://github.com/codeestX/GeekNews,07-08-2016,25-08-2018,Java,3503,0
+libstreaming,"A solution for streaming H.264, H.263, AMR, AAC using RTP on Android",https://github.com/fyhertz/libstreaming,30-01-2013,26-01-2023,Java,3500,0
+akhq,"Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...",https://github.com/tchiotludo/akhq,09-09-2018,14-03-2025,Java,3496,41
+LoadSir,"A lightweight, good expandability Android library used for displaying different pages like loading, error, empty, timeout or even your custom page when you load a page.(优雅地处理加载中，重试，无数据等)",https://github.com/KingJA/LoadSir,02-09-2017,26-12-2020,Java,3490,6
+FairEmail,"Fully featured, open source, privacy friendly email app for Android",https://github.com/M66B/FairEmail,02-08-2018,16-03-2025,Java,3488,1000
+spring-cloud-kubernetes,"Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...",https://github.com/spring-cloud/spring-cloud-kubernetes,13-12-2016,10-03-2025,Java,3487,24
+android-hidden-api,A library that provides access to Android hidden APIs and internal resources.,https://github.com/anggrayudi/android-hidden-api,16-09-2015,17-01-2025,Java,3485,2
+jshERP,管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。,https://github.com/jishenghua/jshERP,20-09-2016,16-03-2025,Java,3484,6
+JavaEETest,Spring、SpringMVC、MyBatis、Spring Boot案例,https://github.com/lenve/JavaEETest,13-12-2016,14-05-2023,Java,3482,0
+RxAndroidBle,An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface,https://github.com/dariuszseweryn/RxAndroidBle,04-02-2016,05-10-2024,Java,3481,59
+kubernetes-client,Java client for Kubernetes & OpenShift ,https://github.com/fabric8io/kubernetes-client,09-07-2015,14-03-2025,Java,3479,119
+BottomNavigationViewEx,An android lib for enhancing BottomNavigationView. 一个增强BottomNavigationView的安卓库。,https://github.com/ittianyu/BottomNavigationViewEx,12-11-2016,21-04-2024,Java,3476,19
+PreviewSeekBar,A SeekBar suited for showing a preview of something. As seen in Google Play Movies.,https://github.com/rubensousa/PreviewSeekBar,24-01-2017,10-01-2024,Java,3468,10
+marshalsec,Sem descrição,https://github.com/mbechler/marshalsec,22-05-2017,09-01-2025,Java,3467,0
+immutables,"Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included",https://github.com/immutables/immutables,07-07-2013,17-01-2025,Java,3467,11
+SurveyKing,Make a better survey system.,https://github.com/javahuang/SurveyKing,06-09-2021,06-08-2024,Java,3462,3
+HaE,"HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.",https://github.com/gh0stkey/HaE,24-03-2020,12-03-2025,Java,3445,71
+QNotified,一个旨在使QQ变得更好用的开源Xposed模块,https://github.com/ferredoxin/QNotified,24-03-2019,13-02-2023,Java,3443,28
+SSM,:two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.,https://github.com/crossoverJie/SSM,21-06-2016,02-07-2018,Java,3442,10
+logging-log4j2,"Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java.",https://github.com/apache/logging-log4j2,12-06-2013,14-03-2025,Java,3441,13
+migration,《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护,https://github.com/phodal/migration,08-01-2020,12-08-2021,Java,3438,0
+Android-Week-View,Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.,https://github.com/alamkanak/Android-Week-View,17-09-2014,30-05-2024,Java,3434,4
+SeeWeather,:partly_sunny: [@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App,https://github.com/xcc3641/SeeWeather,20-02-2016,03-03-2020,Java,3434,2
+giffun,一款开源的GIF在线分享App，乐趣就要和世界分享。,https://github.com/guolindev/giffun,28-01-2019,29-01-2021,Java,3433,0
+AlgoDS,"Implementation of Algorithms and Data Structures, Problems and Solutions",https://github.com/sherxon/AlgoDS,16-12-2016,27-10-2023,Java,3432,0
+Iris,A modern shaders mod for Minecraft compatible with existing OptiFine shader packs,https://github.com/IrisShaders/Iris,22-10-2020,14-03-2025,Java,3431,140
+MyPerf4J,"High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.",https://github.com/LinShunKang/MyPerf4J,11-03-2018,08-09-2024,Java,3430,23
+android,cSploit - The most complete and advanced IT security professional toolkit on Android.,https://github.com/cSploit/android,04-10-2014,27-04-2024,Java,3422,33
+openhab1-addons,Add-ons for openHAB 1.x,https://github.com/openhab/openhab1-addons,20-09-2013,18-01-2021,Java,3418,14
+Chronicle-Queue,Micro second messaging that stores everything to disk,https://github.com/OpenHFT/Chronicle-Queue,02-06-2013,06-03-2025,Java,3417,520
+maestro,Maestro: Netflix’s Workflow Orchestrator,https://github.com/Netflix/maestro,17-04-2024,25-02-2025,Java,3416,0
+LQRWeChat,本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。,https://github.com/GitLqr/LQRWeChat,07-02-2017,10-04-2023,Java,3409,0
+chatgpt-java,ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java,https://github.com/Grt1228/chatgpt-java,11-02-2023,08-08-2024,Java,3404,10
+BubbleSeekBar,"A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现",https://github.com/woxingxiao/BubbleSeekBar,03-11-2016,29-06-2022,Java,3400,12
+AxonFramework,Framework for Evolutionary Message-Driven Microservices on the JVM,https://github.com/AxonFramework/AxonFramework,02-12-2011,16-03-2025,Java,3396,128
+android-priority-jobqueue,"A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",https://github.com/yigit/android-priority-jobqueue,20-06-2014,22-10-2022,Java,3394,0
+signal-cli,"signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",https://github.com/AsamK/signal-cli,11-05-2015,16-03-2025,Java,3389,97
+volley,Sem descrição,https://github.com/google/volley,24-01-2017,25-02-2025,Java,3387,9
+red5-server,Red5 Server core,https://github.com/Red5/red5-server,19-11-2013,10-03-2025,Java,3384,103
+springdoc-openapi,Library for OpenAPI 3 with spring-boot,https://github.com/springdoc/springdoc-openapi,11-07-2019,04-03-2025,Java,3383,87
+openj9,"Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.",https://github.com/eclipse-openj9/openj9,25-08-2017,14-03-2025,Java,3379,50
+android-butterknife-zelezny,Android Studio plug-in for generating ButterKnife injections from selected layout XML.,https://github.com/avast/android-butterknife-zelezny,23-12-2013,26-02-2018,Java,3374,8
+http-request,Java HTTP Request Library,https://github.com/kevinsawicki/http-request,21-10-2011,25-10-2023,Java,3374,0
+blossom,A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）,https://github.com/blossom-editor/blossom,07-08-2023,28-02-2025,Java,3372,17
+AutoDispose,Automatic binding+disposal of RxJava streams.,https://github.com/uber/AutoDispose,22-12-2016,25-07-2024,Java,3370,4
+MyBatis-Spring-Boot,Spring Boot集成MyBatis的基础项目,https://github.com/abel533/MyBatis-Spring-Boot,19-12-2015,26-01-2022,Java,3370,0
+incubator-kie-optaplanner,"AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.",https://github.com/apache/incubator-kie-optaplanner,15-02-2011,16-03-2025,Java,3362,5
+Java,java项目实战练习,https://github.com/HelloWorld521/Java,08-12-2016,08-08-2024,Java,3355,0
+my-site,springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品,https://github.com/WinterChenS/my-site,03-05-2018,12-11-2024,Java,3353,0
+dinky,"Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.",https://github.com/DataLinkDC/dinky,09-06-2021,14-03-2025,Java,3348,29
+sndcpy,"Android audio forwarding PoC (scrcpy, but for audio)",https://github.com/rom1v/sndcpy,09-06-2020,06-12-2023,Java,3348,2
+linkis,"Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.",https://github.com/apache/linkis,23-07-2019,11-03-2025,Java,3347,32
+ArchUnit,"A Java architecture test library, to specify and assert architecture rules in plain Java",https://github.com/TNG/ArchUnit,21-04-2017,06-03-2025,Java,3342,40
+ffmpeg-android-java,Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android,https://github.com/cropsly/ffmpeg-android-java,11-09-2014,31-07-2021,Java,3338,8
+DDComponentForAndroid,一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能,https://github.com/luojilab/DDComponentForAndroid,07-09-2017,05-08-2020,Java,3332,4
+jvm-tools,"Small set of tools for JVM troublshooting, monitoring and profiling.",https://github.com/aragozin/jvm-tools,28-04-2012,26-01-2024,Java,3327,0
+Toaster,Android 吐司框架，专治 Toast 各种疑难杂症,https://github.com/getActivity/Toaster,16-09-2018,08-02-2025,Java,3325,33
+ScalingLayout,With Scaling Layout scale your layout on user interaction.,https://github.com/iammert/ScalingLayout,01-10-2017,28-05-2023,Java,3321,4
+archi,"Repository that showcases 3 Android app architectures: ""Standard Android"", MVP and MVVM. The exact same app is built 3 times following the different patterns.",https://github.com/ivacf/archi,11-09-2015,03-10-2019,Java,3320,0
+uncle-novel,📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。,https://github.com/uncle-novel/uncle-novel,11-12-2018,18-01-2024,Java,3312,1
+concurrency-limits,Sem descrição,https://github.com/Netflix/concurrency-limits,11-12-2017,20-11-2024,Java,3307,102
+SuperTextView,Hi，Developer，Welcome to use SuperTextView ！,https://github.com/chenBingX/SuperTextView,17-04-2017,17-01-2022,Java,3306,33
+PRDownloader,PRDownloader - A file downloader library for Android with pause and resume support,https://github.com/amitshekhariitbhu/PRDownloader,11-11-2017,05-03-2025,Java,3304,8
+99-problems,This is an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett.,https://github.com/shekhargulati/99-problems,22-11-2015,30-10-2020,Java,3304,0
+igniter,A trojan client for Android (UNDER CONSTRUCTION).,https://github.com/trojan-gfw/igniter,08-11-2018,27-11-2023,Java,3302,33

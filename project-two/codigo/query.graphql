@@ -15,6 +15,9 @@ query ($queryString: String!, $pageSize: Int!, $cursor: String) {
           primaryLanguage {
             name
           }
+          releases {
+            totalCount  # Aqui garantimos que o número de releases seja coletado
+          }
         }
       }
     }
