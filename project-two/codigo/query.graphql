@@ -16,7 +16,7 @@ query ($queryString: String!, $pageSize: Int!, $cursor: String) {
             name
           }
           releases {
-            totalCount  # Aqui garantimos que o número de releases seja coletado
+            totalCount
           }
         }
       }
