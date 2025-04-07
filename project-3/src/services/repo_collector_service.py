@@ -2,9 +2,9 @@ import requests
 import time
 from src.constants.config_constant import HEADERS
 from src.constants.url_constant import URL_GIT_HUB_API
-from src.constants.limits_constant import MIN_PRS, MAX_REPOS
+from src.constants.limits_constant import MIN_PRS, REQUEST_TIMEOUT
 
-def get_with_retry(url, headers, retries=10, delay=5, timeout=(20, 60)):
+def get_with_retry(url, headers, retries=10, delay=5, timeout=REQUEST_TIMEOUT):
     attempt = 0
     while attempt < retries:
         try:
@@ -16,35 +16,23 @@ def get_with_retry(url, headers, retries=10, delay=5, timeout=(20, 60)):
         time.sleep(delay)
     raise Exception(f"Erro: Falha na conexão após {retries} tentativas para URL: {url}")
 
-def get_top_repositories():
-    repos_validos = []
-    page = 1
+def get_top_repositories(pagina=1):
+    repos = []
+    url = f"{URL_GIT_HUB_API}/search/repositories?q=stars:>10000&sort=stars&order=desc&per_page=50&page={pagina}"
+    res = get_with_retry(url, headers=HEADERS)
 
-    while len(repos_validos) < MAX_REPOS:
-        print(f"🔎 Buscando página {page} de repositórios populares...")
-        url = f"{URL_GIT_HUB_API}/search/repositories?q=stars:>10000&sort=stars&order=desc&per_page=50&page={page}"
-        res = get_with_retry(url, headers=HEADERS)
+    if res.status_code != 200:
+        print("❌ Erro ao buscar repositórios.")
+        return []
 
-        if res.status_code != 200:
-            print("Erro ao buscar repositórios.")
-            break
+    items = res.json().get("items", [])
+    for repo in items:
+        repos.append(repo["full_name"])
+    return repos
 
-        items = res.json().get("items", [])
-        for repo in items:
-            full_name = repo["full_name"]
-            if repo_tem_100_prs(full_name):
-                print(f"✔️  {full_name} adicionado")
-                repos_validos.append(full_name)
-            if len(repos_validos) >= MAX_REPOS:
-                break
 
-        page += 1
-        time.sleep(2)
-
-    return repos_validos
 
 def repo_tem_100_prs(full_name):
-    # Limitamos a 1 PR por página para minimizar o payload e evitar timeouts
     url = f"{URL_GIT_HUB_API}/repos/{full_name}/pulls?state=all&per_page=1"
     res = get_with_retry(url, headers=HEADERS, timeout=(30, 60))
     if 'Link' in res.headers:

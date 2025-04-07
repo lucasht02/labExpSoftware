@@ -1,11 +1,12 @@
+import random
 import time
 import requests
 from src.constants.config_constant import HEADERS, PAGE_SIZE
 from src.constants.url_constant import URL_GRAPHQL
-from src.constants.limits_constant import MAX_REPOS, MAX_PRS_PER_REPO
+from src.constants.limits_constant import MAX_PRS_PER_REPO, REQUEST_TIMEOUT, MIN_PRS
 from src.services.utils_service import horas_entre_datas
 
-def executar_query(query, variables=None, retries=5, delay=5, timeout=(10, 30)):
+def executar_query(query, variables=None, retries=5, delay=5, timeout=REQUEST_TIMEOUT):
     attempt = 0
     while attempt < retries:
         try:
@@ -13,7 +14,7 @@ def executar_query(query, variables=None, retries=5, delay=5, timeout=(10, 30)):
                 URL_GRAPHQL,
                 json={"query": query, "variables": variables or {}},
                 headers=HEADERS,
-                timeout=timeout  # (connect timeout, read timeout)
+                timeout=timeout
             )
             if response.status_code == 200:
                 return response.json()
@@ -22,14 +23,13 @@ def executar_query(query, variables=None, retries=5, delay=5, timeout=(10, 30)):
             else:
                 raise Exception(f"Erro GraphQL: {response.status_code}, {response.text}")
         except requests.exceptions.RequestException as e:
-            print(f"⚠️ Tentativa {attempt+1} falhou com exceção: {str(e)}. Retentando em {delay} segundos...")
+            print(f"⚠️ Tentativa {attempt+1} falhou com exceção: {str(e)}. Retentando...")
         attempt += 1
-        time.sleep(delay)
+        time.sleep(min(delay * (2 ** attempt), 60) + random.uniform(0, 2))  # Retry exponencial
     raise Exception(f"Erro GraphQL: Falha na conexão após {retries} tentativas.")
 
 
-
-def get_pull_requests(repo_full_name, page_size=10):
+def get_pull_requests(repo_full_name, page_size=PAGE_SIZE):
     owner, name = repo_full_name.split('/')
     query = """
     query($owner: String!, $name: String!, $first: Int!, $after: String) {
@@ -58,7 +58,6 @@ def get_pull_requests(repo_full_name, page_size=10):
     """
     results = []
     after_cursor = None
-    total_coletados = 0
 
     while True:
         variables = {
@@ -81,7 +80,6 @@ def get_pull_requests(repo_full_name, page_size=10):
 
         for pr in pr_data["nodes"]:
             end = pr["mergedAt"] or pr["closedAt"]
-            # Filtra somente PRs revisados com tempo de análise >= 1 hora
             if pr["reviews"]["totalCount"] >= 1 and horas_entre_datas(pr["createdAt"], end) >= 1:
                 results.append({
                     "repo": repo_full_name,
@@ -94,16 +92,20 @@ def get_pull_requests(repo_full_name, page_size=10):
                     "comentarios": pr["comments"]["totalCount"],
                     "participantes": pr["participants"]["totalCount"]
                 })
-                total_coletados += 1
-                if total_coletados >= MAX_PRS_PER_REPO:
+                if len(results) >= MAX_PRS_PER_REPO:
                     return results
 
-        if pr_data["pageInfo"]["hasNextPage"]:
-            after_cursor = pr_data["pageInfo"]["endCursor"]
-        else:
+        if not pr_data["pageInfo"]["hasNextPage"]:
             break
 
+        after_cursor = pr_data["pageInfo"]["endCursor"]
+
+    if len(results) < MIN_PRS:
+        print(f"⚠️ Apenas {len(results)} PRs válidos encontrados para {repo_full_name}, mínimo era 100.")
+        return []
+    
     return results
+
 
 
 

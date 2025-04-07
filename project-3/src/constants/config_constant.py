@@ -14,5 +14,5 @@ HEADERS = {
     "Content-Type": "application/json" # informa que o corpo da requisição estará em JSON.
 }
 
-PAGE_SIZE = 25
+PAGE_SIZE = 10
 MAX_REPOSITORIES = 1000
