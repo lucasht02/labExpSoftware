@@ -80,17 +80,20 @@ def get_pull_requests(repo_full_name, page_size=PAGE_SIZE):
 
         for pr in pr_data["nodes"]:
             end = pr["mergedAt"] or pr["closedAt"]
-            if pr["reviews"]["totalCount"] >= 1 and horas_entre_datas(pr["createdAt"], end) >= 1:
+            tempo_aberto_horas = horas_entre_datas(pr["createdAt"], end)
+            if pr["reviews"]["totalCount"] >= 1 and tempo_aberto_horas >= 1:
                 results.append({
                     "repo": repo_full_name,
                     "numero": pr["number"],
                     "arquivos": pr["changedFiles"],
                     "linhas_add": pr["additions"],
                     "linhas_rem": pr["deletions"],
-                    "tempo_h": round(horas_entre_datas(pr["createdAt"], end), 2),
+                    "tempo_h": round(tempo_aberto_horas, 2),
                     "descricao_len": len(pr["bodyText"]),
                     "comentarios": pr["comments"]["totalCount"],
-                    "participantes": pr["participants"]["totalCount"]
+                    "participantes": pr["participants"]["totalCount"],
+                    "status": "merged" if pr["mergedAt"] else "closed",
+                    "reviews": pr["reviews"]["totalCount"]
                 })
                 if len(results) >= MAX_PRS_PER_REPO:
                     return results
