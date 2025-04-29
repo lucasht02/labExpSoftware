@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 
 
-df = pd.read_csv('../data/prs_analises.csv')
+df = pd.read_csv('../../data/prs_analises.csv')
 
 df['total_changes'] = df['linhas_add'] + df['linhas_rem']
 
