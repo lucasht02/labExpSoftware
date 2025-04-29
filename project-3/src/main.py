@@ -8,7 +8,7 @@ import time
 def processar_200_populares_com_prs_validos():
     os.makedirs("data", exist_ok=True)
 
-    csv_path = "data/pull_requests.csv"
+    csv_path = "../data/pull_requests.csv"
     if os.path.exists(csv_path):
         os.remove(csv_path)
         print("🧹 Arquivo pull_requests.csv antigo removido.")
